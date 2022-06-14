@@ -1308,3 +1308,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.14-02.12.27:923][697]AssetCheck: New page: Asset Save: Main_menu_level
 [2022.06.14-02.12.27:923][697]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
 [2022.06.14-02.12.30:685][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.06.14-04.41.35:434][741]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.14-04.41.35:448][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.14-04.41.35:448][741]PIE: New page: PIE session: Main_menu_level (Jun 14, 2022, 6:41:35 PM)
+[2022.06.14-04.41.35:448][741]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.14-04.41.35:450][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001298s)
+[2022.06.14-04.41.35:451][741]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.14-04.41.35:451][741]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2022.06.14-04.41.35:451][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.002394s)
+[2022.06.14-04.41.35:465][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.06.14-04.41.35:471][741]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.06.14-04.41.35:471][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.14-04.41.35:471][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.14-04.41.35:471][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.14-04.41.35:471][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.14-04.41.35:471][741]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.14-04.41.35:471][741]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.14-04.41.35:471][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.14-04.41.35:471][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.14-04.41.35:472][741]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.14-04.41.35:472][741]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.14-04.41.35:476][741]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.14-04.41.35:476][741]LogAudioMixer: Display: 1: FrontRight
+[2022.06.14-04.41.35:490][741]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.06.14-04.41.35:490][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.14-04.41.35:490][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.14-04.41.35:490][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.14-04.41.35:490][741]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.14-04.41.35:490][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.14-04.41.35:490][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.14-04.41.35:503][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.14-04.41.35:503][741]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.14-04.41.35:503][741]LogInit: FAudioDevice initialized.
+[2022.06.14-04.41.35:503][741]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main_menu_level'.
+[2022.06.14-04.41.35:534][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.14-04.41.35:534][741]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.14-04.41.35:535][741]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.14-11.41.35
+[2022.06.14-04.41.35:535][741]LogWorld: Bringing up level for play took: 0.000382
+[2022.06.14-04.41.35:535][741]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.06.14-04.41.35:539][741]PIE: Server logged in
+[2022.06.14-04.41.35:540][741]PIE: Play in editor total start time 0.093 seconds.
+[2022.06.14-04.42.17:154][190]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.14-04.42.17:161][190]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.14-04.42.17:193][190]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.14-04.42.17:194][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.14-04.42.17:203][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.14-04.42.17:206][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.14-04.42.17:220][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.14-04.42.17:221][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.14-04.42.17:238][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.06.14-04.42.17:254][191]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.06.14-04.42.19:530][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.14-04.42.19:543][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.06.14-04.42.19:549][450]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Main_menu_levelD966CA4A431919E572A6559F59FAE0A3.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.14-04.42.19:561][450]AssetCheck: New page: Asset Save: Main_menu_level
+[2022.06.14-04.42.19:561][450]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.14-04.42.21:219][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.06.14-04.42.37:839][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.14-04.42.37:851][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.06.14-04.42.37:858][682]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Main_menu_levelA129E688441E476F0F8FE2BBBB0661A9.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.14-04.42.37:872][682]AssetCheck: New page: Asset Save: Main_menu_level
+[2022.06.14-04.42.37:872][682]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.14-04.42.39:875][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
