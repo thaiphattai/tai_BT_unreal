@@ -3533,3 +3533,93 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.15-03.39.10:183][549]LogContentValidation: Display: Validating ParticleSystem /Game/Main_menu/dirty.dirty
 [2022.06.15-03.39.10:183][549]LogContentValidation: Display: Validating Material /Game/Main_menu/Material/dirty_mtr.dirty_mtr
 [2022.06.15-03.39.10:183][549]LogContentValidation: Display: Validating Texture2D /Game/Main_menu/Material/dot.dot
+[2022.06.15-03.39.29:586][860]LogSlate: Window 'Message' being destroyed
+[2022.06.15-03.39.29:592][860]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Main_menu/Material/dirty_mtr.dirty_mtr
+(Selecting 'No' will cause all changes to be lost!)
+[2022.06.15-03.39.37:645][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/dirty" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/dirty.uasset" SILENT=true
+[2022.06.15-03.39.37:647][205]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/dirty649D221548E3E5BE7F016890DB4B923F.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/dirty.uasset'
+[2022.06.15-03.39.37:656][205]AssetCheck: New page: Asset Save: dirty
+[2022.06.15-03.39.37:656][205]LogContentValidation: Display: Validating ParticleSystem /Game/Main_menu/dirty.dirty
+[2022.06.15-03.39.39:156][325]LogMaterialEditor: Saving and Compiling material dirty_mtr
+[2022.06.15-03.39.39:665][325]LogMaterial: Display: Missing cached shader map for material dirty_mtr, compiling. 
+[2022.06.15-03.39.39:718][325]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.06.15-03.39.39:718][325]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.06.15-03.39.39:718][325]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.06.15-03.39.39:718][325]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.06.15-03.39.39:718][325]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.06.15-03.39.39:718][325]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.06.15-03.39.39:718][325]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2022.06.15-03.39.39:718][325]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.06.15-03.39.39:734][325]LogMaterial: Display: Missing cached shader map for material dirty_mtr, compiling. 
+[2022.06.15-03.39.39:805][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.06.15-03.39.39:812][325]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-03.39.40:377][325]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 100
+[2022.06.15-03.39.40:377][325]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 99
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 98
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 97
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 96
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 95
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 94
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 93
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 92
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 91
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 90
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 89
+[2022.06.15-03.39.40:936][325]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 88
+[2022.06.15-03.39.41:451][325]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 87
+[2022.06.15-03.39.41:451][325]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 86
+[2022.06.15-03.39.41:451][325]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 85
+[2022.06.15-03.39.41:451][325]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 84
+[2022.06.15-03.39.41:451][325]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 74
+[2022.06.15-03.39.41:451][325]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 64
+[2022.06.15-03.39.41:451][325]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2022.06.15-03.39.41:451][325]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2022.06.15-03.39.41:451][325]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2022.06.15-03.39.41:453][325]TextureStreamingBuild: Display: Compiling optional shaders took 1.646 seconds.
+[2022.06.15-03.39.41:472][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.06.15-03.39.41:481][325]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2022.06.15-03.39.42:071][325]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2022.06.15-03.39.43:747][325]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2022.06.15-03.39.44:306][325]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2022.06.15-03.39.44:306][325]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2022.06.15-03.39.45:425][325]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2022.06.15-03.39.45:425][325]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2022.06.15-03.39.45:989][325]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.06.15-03.39.46:546][325]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2022.06.15-03.39.46:546][325]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.06.15-03.39.46:546][325]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.06.15-03.39.46:546][325]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.06.15-03.39.46:546][325]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.06.15-03.39.47:105][325]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.06.15-03.39.47:105][325]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.06.15-03.39.47:105][325]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.06.15-03.39.47:470][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Material/dirty_mtr" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/Material/dirty_mtr.uasset" SILENT=true
+[2022.06.15-03.39.47:476][325]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/dirty_mtrE71DB6DE42555885C12039ACF4DDAA39.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/Material/dirty_mtr.uasset'
+[2022.06.15-03.39.47:499][325]AssetCheck: New page: Asset Save: dirty_mtr
+[2022.06.15-03.39.47:499][325]LogContentValidation: Display: Validating Material /Game/Main_menu/Material/dirty_mtr.dirty_mtr
+[2022.06.15-03.39.47:500][325]MaterialEditorStats: Base pass shader: 83 instructions
+[2022.06.15-03.39.47:500][325]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 110 instructions
+[2022.06.15-03.39.47:500][325]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.06.15-03.39.47:500][325]MaterialEditorStats: Texture samplers: 8/16
+[2022.06.15-03.39.47:500][325]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.15-03.39.47:500][325]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.15-03.40.04:003][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.15-03.40.04:776][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.15-03.40.05:956][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.15-03.40.05:969][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.06.15-03.40.05:978][536]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Main_menu_levelC5DEBF0F411AEBF453FD4790D27C28E3.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.15-03.40.05:990][536]AssetCheck: New page: Asset Save: Main_menu_level
+[2022.06.15-03.40.05:990][536]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.15-03.40.08:744][771]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-03.40.08:744][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-03.40.10:609][945]LogSlate: Window 'dirty' being destroyed
+[2022.06.15-03.40.10:613][945]LogCascade: Quitting Cascade. FXSystem=0x00000239E2CC4D90
+[2022.06.15-03.40.10:645][945]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-03.40.10:645][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-03.40.12:248][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.06.15-03.40.12:990][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.15-03.40.13:004][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.06.15-03.40.13:013][191]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Main_menu_level54F806074C99FA84BACC04BFAE137267.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.15-03.40.13:026][191]AssetCheck: New page: Asset Save: Main_menu_level
+[2022.06.15-03.40.13:026][191]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
