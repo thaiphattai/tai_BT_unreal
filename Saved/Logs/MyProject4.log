@@ -4943,3 +4943,1525 @@ Script call stack:
 [2022.06.15-07.49.04:544][ 68]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level2A1B0FF540EC4A60C5E61EB7B1233A63.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
 [2022.06.15-07.49.04:568][ 68]AssetCheck: New page: Asset Save: Main_menu_level
 [2022.06.15-07.49.04:568][ 68]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.15-07.52.51:842][ 43]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-07.52.51:848][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-07.52.51:848][ 43]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 9:52:51 PM)
+[2022.06.15-07.52.51:871][ 43]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-07.52.51:946][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075736s)
+[2022.06.15-07.52.51:947][ 43]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-07.52.51:948][ 43]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2022.06.15-07.52.51:948][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.077487s)
+[2022.06.15-07.52.51:985][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.06.15-07.52.51:987][ 43]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.06.15-07.52.51:987][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-07.52.51:987][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-07.52.51:987][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-07.52.51:987][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-07.52.51:987][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-07.52.51:987][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-07.52.51:987][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-07.52.51:987][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-07.52.51:988][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-07.52.51:988][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-07.52.51:993][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-07.52.51:993][ 43]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-07.52.52:004][ 43]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-07.52.52:004][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-07.52.52:004][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-07.52.52:004][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-07.52.52:005][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-07.52.52:005][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-07.52.52:005][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-07.52.52:023][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-07.52.52:023][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-07.52.52:023][ 43]LogInit: FAudioDevice initialized.
+[2022.06.15-07.52.52:023][ 43]LogAudio: Display: Audio Device (ID: 41) registered with world 'Main_menu_level'.
+[2022.06.15-07.52.52:079][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-07.52.52:080][ 43]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-07.52.52:119][ 43]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-07.52.52:125][ 43]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-14.52.52
+[2022.06.15-07.52.52:127][ 43]LogWorld: Bringing up level for play took: 0.045500
+[2022.06.15-07.52.52:127][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.06.15-07.52.52:133][ 43]PIE: Server logged in
+[2022.06.15-07.52.52:134][ 43]PIE: Play in editor total start time 0.287 seconds.
+[2022.06.15-07.52.54:207][112]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-07.56.42:001][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-07.56.42:001][797]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-07.56.42:001][797]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-07.56.42:079][797]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-07.56.42:089][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-07.56.42:103][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-07.56.42:112][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-07.56.42:154][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-07.56.42:155][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-07.56.42:181][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.06.15-07.56.42:313][798]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.06.15-07.58.09:071][320]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-07.58.25:159][510]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-07.58.25:166][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-07.58.25:166][510]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 9:58:25 PM)
+[2022.06.15-07.58.25:166][510]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-07.58.25:247][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080917s)
+[2022.06.15-07.58.25:248][510]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-07.58.25:249][510]LogPlayLevel: PIE: World Init took: (0.001383s)
+[2022.06.15-07.58.25:249][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.082637s)
+[2022.06.15-07.58.25:286][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.06.15-07.58.25:290][510]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.06.15-07.58.25:290][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-07.58.25:290][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-07.58.25:290][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-07.58.25:290][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-07.58.25:290][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-07.58.25:290][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-07.58.25:290][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-07.58.25:290][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-07.58.25:291][510]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-07.58.25:291][510]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-07.58.25:295][510]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-07.58.25:295][510]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-07.58.25:307][510]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-07.58.25:308][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-07.58.25:308][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-07.58.25:308][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-07.58.25:308][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-07.58.25:308][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-07.58.25:308][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-07.58.25:324][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-07.58.25:324][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-07.58.25:324][510]LogInit: FAudioDevice initialized.
+[2022.06.15-07.58.25:324][510]LogAudio: Display: Audio Device (ID: 42) registered with world 'Main_menu_level'.
+[2022.06.15-07.58.25:376][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-07.58.25:376][510]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-07.58.25:424][510]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-07.58.25:430][510]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-14.58.25
+[2022.06.15-07.58.25:431][510]LogWorld: Bringing up level for play took: 0.054065
+[2022.06.15-07.58.25:432][510]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.06.15-07.58.25:440][510]PIE: Server logged in
+[2022.06.15-07.58.25:441][510]PIE: Play in editor total start time 0.276 seconds.
+[2022.06.15-07.58.27:528][580]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-07.58.28:043][596]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-07.58.28:114][596]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-07.58.28:141][596]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-07.58.28:146][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-07.58.28:157][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-07.58.28:220][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-07.58.28:257][596]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-07.58.28:257][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-07.58.28:258][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-07.58.28:287][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.06.15-07.58.28:333][597]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.06.15-07.58.32:964][942]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-07.58.34:449][103]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-07.58.35:986][275]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.06.15-07.59.38:011][815]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-07.59.38:017][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-07.59.38:018][815]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 9:59:38 PM)
+[2022.06.15-07.59.38:040][815]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-07.59.38:113][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073532s)
+[2022.06.15-07.59.38:114][815]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-07.59.38:115][815]LogPlayLevel: PIE: World Init took: (0.001577s)
+[2022.06.15-07.59.38:115][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.075407s)
+[2022.06.15-07.59.38:155][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.06.15-07.59.38:160][815]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.06.15-07.59.38:160][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-07.59.38:160][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-07.59.38:160][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-07.59.38:160][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-07.59.38:160][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-07.59.38:160][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-07.59.38:160][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-07.59.38:160][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-07.59.38:161][815]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-07.59.38:161][815]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-07.59.38:165][815]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-07.59.38:165][815]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-07.59.38:179][815]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-07.59.38:179][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-07.59.38:179][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-07.59.38:179][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-07.59.38:180][815]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-07.59.38:180][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-07.59.38:180][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-07.59.38:197][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-07.59.38:197][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-07.59.38:197][815]LogInit: FAudioDevice initialized.
+[2022.06.15-07.59.38:197][815]LogAudio: Display: Audio Device (ID: 43) registered with world 'Main_menu_level'.
+[2022.06.15-07.59.38:226][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-07.59.38:226][815]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-07.59.38:271][815]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-07.59.38:278][815]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-14.59.38
+[2022.06.15-07.59.38:279][815]LogWorld: Bringing up level for play took: 0.052005
+[2022.06.15-07.59.38:280][815]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.06.15-07.59.38:287][815]PIE: Server logged in
+[2022.06.15-07.59.38:288][815]PIE: Play in editor total start time 0.271 seconds.
+[2022.06.15-07.59.40:366][882]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-07.59.42:782][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-07.59.42:782][954]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-07.59.42:782][954]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-07.59.42:852][954]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-07.59.42:860][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-07.59.42:874][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-07.59.42:942][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-07.59.42:978][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-07.59.42:979][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-07.59.42:980][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-07.59.43:009][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.06.15-07.59.43:062][955]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.06.15-08.01.33:755][597]LogEditorViewport: Clicking on Actor (LMB): AuroraPlayerCharacter_C (AuroraPlayerCharacter)
+[2022.06.15-08.01.38:319][747]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.06.15-08.01.53:323][690]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.15-08.02.30:679][ 40]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.02.30:686][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.02.30:686][ 40]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:02:30 PM)
+[2022.06.15-08.02.30:710][ 40]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.02.30:785][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074130s)
+[2022.06.15-08.02.30:786][ 40]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.02.30:786][ 40]LogPlayLevel: PIE: World Init took: (0.001854s)
+[2022.06.15-08.02.30:787][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.076377s)
+[2022.06.15-08.02.30:826][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.06.15-08.02.30:833][ 40]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.06.15-08.02.30:833][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.02.30:833][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.02.30:833][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.02.30:833][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.02.30:833][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.02.30:833][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.02.30:833][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.02.30:833][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.02.30:834][ 40]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.02.30:834][ 40]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.02.30:838][ 40]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.02.30:838][ 40]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.02.30:851][ 40]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.02.30:852][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.02.30:852][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.02.30:852][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.02.30:852][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.02.30:852][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.02.30:852][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.02.30:869][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.02.30:870][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.02.30:870][ 40]LogInit: FAudioDevice initialized.
+[2022.06.15-08.02.30:870][ 40]LogAudio: Display: Audio Device (ID: 44) registered with world 'Main_menu_level'.
+[2022.06.15-08.02.30:915][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.02.30:916][ 40]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.02.30:957][ 40]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.02.30:964][ 40]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.02.30
+[2022.06.15-08.02.30:966][ 40]LogWorld: Bringing up level for play took: 0.048834
+[2022.06.15-08.02.30:966][ 40]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2022.06.15-08.02.30:972][ 40]PIE: Server logged in
+[2022.06.15-08.02.30:973][ 40]PIE: Play in editor total start time 0.289 seconds.
+[2022.06.15-08.02.33:022][107]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.02.35:151][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.02.35:151][171]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.02.35:152][171]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.02.35:219][171]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.02.35:226][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.02.35:236][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.02.35:298][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.02.35:332][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-08.02.35:332][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.02.35:334][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.02.35:363][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.06.15-08.02.35:414][172]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.06.15-08.02.46:306][636]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.02.46:313][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.02.46:313][636]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:02:46 PM)
+[2022.06.15-08.02.46:350][636]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.02.46:421][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071168s)
+[2022.06.15-08.02.46:423][636]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.02.46:423][636]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2022.06.15-08.02.46:423][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.073255s)
+[2022.06.15-08.02.46:459][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.06.15-08.02.46:461][636]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.06.15-08.02.46:462][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.02.46:462][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.02.46:462][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.02.46:462][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.02.46:462][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.02.46:462][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.02.46:462][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.02.46:462][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.02.46:462][636]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.02.46:462][636]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.02.46:466][636]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.02.46:466][636]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.02.46:479][636]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.02.46:480][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.02.46:480][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.02.46:480][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.02.46:481][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.02.46:481][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.02.46:481][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.02.46:496][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.02.46:496][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.02.46:497][636]LogInit: FAudioDevice initialized.
+[2022.06.15-08.02.46:497][636]LogAudio: Display: Audio Device (ID: 45) registered with world 'Main_menu_level'.
+[2022.06.15-08.02.46:545][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.02.46:546][636]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.02.46:584][636]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.02.46:590][636]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.02.46
+[2022.06.15-08.02.46:591][636]LogWorld: Bringing up level for play took: 0.044615
+[2022.06.15-08.02.46:591][636]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.06.15-08.02.46:598][636]PIE: Server logged in
+[2022.06.15-08.02.46:599][636]PIE: Play in editor total start time 0.286 seconds.
+[2022.06.15-08.02.48:670][704]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.02.53:981][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.02.53:981][858]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.02.53:982][858]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.02.54:060][858]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.02.54:065][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.02.54:074][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.02.54:138][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.02.54:172][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.02.54:174][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.02.54:202][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.06.15-08.02.54:252][859]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.06.15-08.03.01:865][414]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke3)
+[2022.06.15-08.03.03:120][485]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.03.10:661][935]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.03.11:707][  0]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.03.12:946][ 74]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.03.22:896][555]Cmd: DELETE
+[2022.06.15-08.03.22:896][555]Cmd: ACTOR DELETE
+[2022.06.15-08.03.22:915][555]LogEditorActor: Actor CameraActor9 is referenced by MatineeActor1.
+[2022.06.15-08.03.24:631][555]LogSlate: Window 'Message' being destroyed
+[2022.06.15-08.03.24:639][555]Message dialog closed, result: Cancel, title: Message, text: Actor CameraActor9 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+MatineeActor1
+[2022.06.15-08.03.24:679][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.06.15-08.03.24:684][555]LogEditorActor: Deleted 0 Actors (0.065 secs)
+[2022.06.15-08.03.37:932][220]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.03.37:938][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.03.37:938][220]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:03:37 PM)
+[2022.06.15-08.03.37:938][220]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.03.38:013][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074888s)
+[2022.06.15-08.03.38:014][220]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.03.38:015][220]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2022.06.15-08.03.38:015][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.076558s)
+[2022.06.15-08.03.38:052][220]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.06.15-08.03.38:057][220]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.06.15-08.03.38:057][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.03.38:057][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.03.38:057][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.03.38:057][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.03.38:057][220]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.03.38:057][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.03.38:057][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.03.38:057][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.03.38:057][220]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.03.38:057][220]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.03.38:062][220]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.03.38:062][220]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.03.38:075][220]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.03.38:076][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.03.38:076][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.03.38:076][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.03.38:076][220]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.03.38:076][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.03.38:076][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.03.38:093][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.03.38:093][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.03.38:093][220]LogInit: FAudioDevice initialized.
+[2022.06.15-08.03.38:093][220]LogAudio: Display: Audio Device (ID: 46) registered with world 'Main_menu_level'.
+[2022.06.15-08.03.38:147][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.03.38:147][220]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.03.38:186][220]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.03.38:193][220]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.03.38
+[2022.06.15-08.03.38:194][220]LogWorld: Bringing up level for play took: 0.045721
+[2022.06.15-08.03.38:194][220]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.06.15-08.03.38:201][220]PIE: Server logged in
+[2022.06.15-08.03.38:202][220]PIE: Play in editor total start time 0.265 seconds.
+[2022.06.15-08.03.40:280][290]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.03.45:582][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.03.45:582][442]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.03.45:582][442]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.03.45:654][442]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.03.45:662][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.03.45:671][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.03.45:732][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.03.45:767][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-08.03.45:767][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.03.45:769][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.03.45:801][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.06.15-08.03.45:853][443]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.06.15-08.03.48:027][535]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke3)
+[2022.06.15-08.03.49:411][617]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke3)
+[2022.06.15-08.03.50:796][702]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.03.50:804][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.03.50:804][702]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:03:50 PM)
+[2022.06.15-08.03.50:840][702]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.03.50:911][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071517s)
+[2022.06.15-08.03.50:912][702]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.03.50:913][702]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2022.06.15-08.03.50:913][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.073171s)
+[2022.06.15-08.03.50:947][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.06.15-08.03.50:951][702]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2022.06.15-08.03.50:951][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.03.50:951][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.03.50:951][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.03.50:951][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.03.50:951][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.03.50:951][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.03.50:951][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.03.50:951][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.03.50:952][702]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.03.50:952][702]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.03.50:956][702]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.03.50:956][702]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.03.50:969][702]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.03.50:969][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.03.50:969][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.03.50:969][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.03.50:970][702]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.03.50:970][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.03.50:970][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.03.50:987][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.03.50:987][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.03.50:987][702]LogInit: FAudioDevice initialized.
+[2022.06.15-08.03.50:987][702]LogAudio: Display: Audio Device (ID: 47) registered with world 'Main_menu_level'.
+[2022.06.15-08.03.51:045][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.03.51:046][702]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.03.51:089][702]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.03.51:095][702]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.03.51
+[2022.06.15-08.03.51:097][702]LogWorld: Bringing up level for play took: 0.049734
+[2022.06.15-08.03.51:097][702]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.06.15-08.03.51:102][702]PIE: Server logged in
+[2022.06.15-08.03.51:103][702]PIE: Play in editor total start time 0.301 seconds.
+[2022.06.15-08.03.53:165][771]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.04.46:174][403]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.04.46:262][403]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.04.46:301][403]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.04.46:307][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.04.46:314][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.04.46:331][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.04.46:366][403]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-08.04.46:366][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.04.46:367][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.04.46:396][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.06.15-08.04.46:517][404]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.06.15-08.05.10:715][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.06.15-08.05.10:717][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/Main_menu/Main_menu_level_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.15-08.05.11:107][476]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level_Auto2E6A9E37D4F6D1699947CF1864247A7C3.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/Main_menu/Main_menu_level_Auto2.umap'
+[2022.06.15-08.05.11:110][476]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_menu/Main_menu_level' took 0.432
+[2022.06.15-08.05.11:110][476]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.432
+[2022.06.15-08.06.16:508][648]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.15-08.06.16:532][648]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.15-08.06.18:540][795]LogContentBrowser: Attempting asset rename: NewFolder -> Sound
+[2022.06.15-08.06.18:541][795]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.15-08.06.22:007][ 69]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Skyrim_Theme_Song_-_Full__DovahkE75C0493437F933BC5ADBD9A28672231.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Sound/Skyrim_Theme_Song_-_Full__Dovahkiin_Song_.uasset'
+[2022.06.15-08.06.22:152][ 69]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Main_menu/Skyrim_Theme_Song_-_Full__Dovahkiin_Song_.Skyrim_Theme_Song_-_Full__Dovahkiin_Song_'
+[2022.06.15-08.06.22:223][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.06.15-08.06.22:272][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.06.15-08.06.22:304][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.06.15-08.06.22:322][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_PC" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_PC.uasset" SILENT=true
+[2022.06.15-08.06.22:360][ 69]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_PC78639E6749F9B9722EDF6BB50C6C2597.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_PC.uasset'
+[2022.06.15-08.06.22:517][ 69]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.15-08.06.22:518][ 69]LogContentValidation: Display: Validating Blueprint /Game/Main_menu/Main_menu_PC.Main_menu_PC
+[2022.06.15-08.06.22:518][ 69]LogContentValidation: Display: Validating SoundWave /Game/Main_menu/Sound/Skyrim_Theme_Song_-_Full__Dovahkiin_Song_.Skyrim_Theme_Song_-_Full__Dovahkiin_Song_
+[2022.06.15-08.06.26:878][335]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Linh Nguyen\Downloads\mixkit-unlock-new-item-game-notification-254.wav)
+[2022.06.15-08.06.28:844][357]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Linh Nguyen\Downloads\mixkit-retro-arcade-casino-notification-211.wav)
+[2022.06.15-08.06.42:739][357]LogSlate: Window 'Message' being destroyed
+[2022.06.15-08.06.42:745][357]Message dialog closed, result: Yes, title: Message, text: Use the selected Sound Wave 'mixkit-unlock-new-item-game-notification-254' in the Content Browser as a template for sound(s) being imported?
+[2022.06.15-08.07.06:696][ 49]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Main_menu/Sound/mixkit-retro-arcade-casino-notification-211.mixkit-retro-arcade-casino-notification-211
+[2022.06.15-08.07.13:893][373]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Engine/EngineSounds/Master.Master
+[2022.06.15-08.07.19:133][651]LogSlate: Window 'Master' being destroyed
+[2022.06.15-08.07.19:140][651]LogSlate: Window 'Master' being destroyed
+[2022.06.15-08.08.58:867][742]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.15-08.08.59:029][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.06.15-08.08.59:606][766]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.08.59:612][766]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.15-08.08.59:626][766]LogPlayLevel: [PlayLevel] Compiling Main_menu_PC before play...
+[2022.06.15-08.08.59:640][766]LogPlayLevel: [PlayLevel] Compiling Main_menu_level before play...
+[2022.06.15-08.08.59:733][766]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.06.15-08.08.59:734][766]LogPlayLevel: PlayLevel: Blueprint regeneration took 121 ms (2 blueprints)
+[2022.06.15-08.08.59:734][766]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:08:59 PM)
+[2022.06.15-08.08.59:734][766]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.08.59:805][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070283s)
+[2022.06.15-08.08.59:806][766]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.08.59:807][766]LogPlayLevel: PIE: World Init took: (0.001986s)
+[2022.06.15-08.08.59:807][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.072673s)
+[2022.06.15-08.08.59:841][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.06.15-08.08.59:843][766]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2022.06.15-08.08.59:843][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.08.59:843][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.08.59:843][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.08.59:843][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.08.59:843][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.08.59:843][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.08.59:843][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.08.59:843][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.08.59:844][766]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.08.59:844][766]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.08.59:849][766]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.08.59:849][766]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.08.59:861][766]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.08.59:861][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.08.59:862][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.08.59:862][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.08.59:862][766]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.08.59:862][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.08.59:862][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.08.59:878][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.08.59:878][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.08.59:878][766]LogInit: FAudioDevice initialized.
+[2022.06.15-08.08.59:878][766]LogAudio: Display: Audio Device (ID: 48) registered with world 'Main_menu_level'.
+[2022.06.15-08.08.59:933][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.08.59:933][766]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.08.59:970][766]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.08.59:976][766]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.08.59
+[2022.06.15-08.08.59:977][766]LogWorld: Bringing up level for play took: 0.043811
+[2022.06.15-08.08.59:977][766]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.06.15-08.08.59:984][766]PIE: Server logged in
+[2022.06.15-08.08.59:986][766]PIE: Play in editor total start time 0.374 seconds.
+[2022.06.15-08.09.02:098][835]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.09.02:601][851]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave mixkit-retro-arcade-casino-notification-211...
+[2022.06.15-08.09.02:601][851]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Main_menu/Sound/mixkit-retro-arcade-casino-notification-211.mixkit-retro-arcade-casino-notification-211 will be modified from 40 to 40.
+[2022.06.15-08.09.02:640][851]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 749700 while cooking SoundWave /Game/Main_menu/Sound/mixkit-retro-arcade-casino-notification-211.mixkit-retro-arcade-casino-notification-211.
+[2022.06.15-08.09.12:528][147]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.09.12:598][147]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.09.12:631][147]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.09.12:637][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.09.12:649][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.09.12:665][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.09.12:701][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.09.12:702][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.09.12:733][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.06.15-08.09.12:803][148]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.06.15-08.10.28:873][356]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.15-08.10.28:925][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.06.15-08.11.57:043][814]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Linh Nguyen\Downloads\mixkit-mechanical-crate-pick-up-3154.wav)
+[2022.06.15-08.12.28:915][601]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.15-08.12.28:968][601]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.06.15-08.12.29:639][628]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.12.29:646][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.12.29:647][628]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:12:29 PM)
+[2022.06.15-08.12.29:647][628]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.12.29:717][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069624s)
+[2022.06.15-08.12.29:718][628]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.12.29:718][628]LogPlayLevel: PIE: World Init took: (0.001658s)
+[2022.06.15-08.12.29:719][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.071642s)
+[2022.06.15-08.12.29:755][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.06.15-08.12.29:756][628]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2022.06.15-08.12.29:756][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.12.29:756][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.12.29:756][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.12.29:756][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.12.29:756][628]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.12.29:757][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.12.29:757][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.12.29:757][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.12.29:757][628]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.12.29:757][628]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.12.29:763][628]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.12.29:763][628]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.12.29:774][628]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.12.29:774][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.12.29:774][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.12.29:774][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.12.29:775][628]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.12.29:775][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.12.29:775][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.12.29:791][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.12.29:791][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.12.29:791][628]LogInit: FAudioDevice initialized.
+[2022.06.15-08.12.29:791][628]LogAudio: Display: Audio Device (ID: 49) registered with world 'Main_menu_level'.
+[2022.06.15-08.12.29:846][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.12.29:846][628]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.12.29:887][628]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.12.29:893][628]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.12.29
+[2022.06.15-08.12.29:895][628]LogWorld: Bringing up level for play took: 0.047026
+[2022.06.15-08.12.29:895][628]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.06.15-08.12.29:904][628]PIE: Server logged in
+[2022.06.15-08.12.29:908][628]PIE: Play in editor total start time 0.262 seconds.
+[2022.06.15-08.12.30:837][656]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave mixkit-mechanical-crate-pick-up-3154...
+[2022.06.15-08.12.30:837][656]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Main_menu/Sound/mixkit-mechanical-crate-pick-up-3154.mixkit-mechanical-crate-pick-up-3154 will be modified from 40 to 40.
+[2022.06.15-08.12.30:861][656]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 352800 while cooking SoundWave /Game/Main_menu/Sound/mixkit-mechanical-crate-pick-up-3154.mixkit-mechanical-crate-pick-up-3154.
+[2022.06.15-08.12.31:985][695]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.12.37:851][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.12.37:852][862]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.12.37:852][862]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.12.37:941][862]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.12.37:946][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.12.37:956][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.12.37:973][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.12.38:008][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.12.38:010][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.12.38:043][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.06.15-08.12.38:103][863]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.06.15-08.13.01:022][ 99]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.15-08.13.01:074][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.06.15-08.13.01:812][134]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.13.01:818][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.13.01:818][134]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:13:01 PM)
+[2022.06.15-08.13.01:818][134]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.13.01:889][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070354s)
+[2022.06.15-08.13.01:890][134]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.13.01:891][134]LogPlayLevel: PIE: World Init took: (0.001786s)
+[2022.06.15-08.13.01:891][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.072480s)
+[2022.06.15-08.13.01:926][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.06.15-08.13.01:927][134]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2022.06.15-08.13.01:927][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.13.01:927][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.13.01:927][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.13.01:927][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.13.01:927][134]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.13.01:927][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.13.01:927][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.13.01:927][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.13.01:928][134]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.13.01:928][134]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.13.01:932][134]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.13.01:932][134]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.13.01:944][134]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.13.01:945][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.13.01:945][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.13.01:945][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.13.01:945][134]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.13.01:945][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.13.01:945][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.13.01:962][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.13.01:963][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.13.01:963][134]LogInit: FAudioDevice initialized.
+[2022.06.15-08.13.01:963][134]LogAudio: Display: Audio Device (ID: 50) registered with world 'Main_menu_level'.
+[2022.06.15-08.13.02:020][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.13.02:021][134]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.13.02:058][134]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.13.02:063][134]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.13.02
+[2022.06.15-08.13.02:065][134]LogWorld: Bringing up level for play took: 0.043319
+[2022.06.15-08.13.02:065][134]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2022.06.15-08.13.02:074][134]PIE: Server logged in
+[2022.06.15-08.13.02:078][134]PIE: Play in editor total start time 0.261 seconds.
+[2022.06.15-08.13.04:170][202]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.13.14:074][482]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.13.14:150][482]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.13.14:191][482]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.13.14:196][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.13.14:203][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.13.14:221][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.13.14:254][482]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-08.13.14:255][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.13.14:256][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.13.14:293][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.06.15-08.13.14:343][483]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.06.15-08.13.18:866][725]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.15-08.13.18:918][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.06.15-08.13.19:547][755]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.13.19:553][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.13.19:553][755]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:13:19 PM)
+[2022.06.15-08.13.19:553][755]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.13.19:623][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068935s)
+[2022.06.15-08.13.19:624][755]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.13.19:624][755]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2022.06.15-08.13.19:624][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.070631s)
+[2022.06.15-08.13.19:659][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.06.15-08.13.19:661][755]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2022.06.15-08.13.19:661][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.13.19:661][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.13.19:661][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.13.19:661][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.13.19:661][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.13.19:661][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.13.19:661][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.13.19:661][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.13.19:661][755]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.13.19:661][755]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.13.19:666][755]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.13.19:666][755]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.13.19:677][755]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.13.19:677][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.13.19:677][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.13.19:678][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.13.19:678][755]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.13.19:678][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.13.19:678][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.13.19:694][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.13.19:694][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.13.19:694][755]LogInit: FAudioDevice initialized.
+[2022.06.15-08.13.19:694][755]LogAudio: Display: Audio Device (ID: 51) registered with world 'Main_menu_level'.
+[2022.06.15-08.13.19:749][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.13.19:750][755]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.13.19:789][755]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.13.19:794][755]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.13.19
+[2022.06.15-08.13.19:795][755]LogWorld: Bringing up level for play took: 0.045542
+[2022.06.15-08.13.19:797][755]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2022.06.15-08.13.19:805][755]PIE: Server logged in
+[2022.06.15-08.13.19:809][755]PIE: Play in editor total start time 0.257 seconds.
+[2022.06.15-08.13.21:915][825]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.13.26:239][966]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.13.26:289][966]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.13.26:331][966]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.13.26:336][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.13.26:343][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.13.26:358][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.13.26:390][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-08.13.26:391][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.13.26:393][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.13.26:429][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.06.15-08.13.26:482][967]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.06.15-08.13.26:505][968]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UUserWidget::PlayAnimation' [Element not found.]
+[2022.06.15-08.14.09:452][384]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.15-08.14.09:505][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.06.15-08.14.10:709][445]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.14.10:716][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.14.10:716][445]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:14:10 PM)
+[2022.06.15-08.14.10:716][445]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.14.10:786][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069160s)
+[2022.06.15-08.14.10:787][445]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.14.10:787][445]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2022.06.15-08.14.10:787][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.071061s)
+[2022.06.15-08.14.10:824][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.06.15-08.14.10:826][445]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2022.06.15-08.14.10:826][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.14.10:826][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.14.10:826][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.14.10:826][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.14.10:826][445]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.14.10:826][445]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.14.10:826][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.14.10:826][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.14.10:827][445]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.14.10:827][445]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.14.10:832][445]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.14.10:832][445]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.14.10:843][445]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.14.10:843][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.14.10:844][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.14.10:844][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.14.10:844][445]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.14.10:844][445]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.14.10:844][445]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.14.10:861][445]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.14.10:861][445]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.14.10:861][445]LogInit: FAudioDevice initialized.
+[2022.06.15-08.14.10:861][445]LogAudio: Display: Audio Device (ID: 52) registered with world 'Main_menu_level'.
+[2022.06.15-08.14.10:921][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.14.10:921][445]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.14.10:965][445]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.14.10:971][445]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.14.10
+[2022.06.15-08.14.10:972][445]LogWorld: Bringing up level for play took: 0.050011
+[2022.06.15-08.14.10:972][445]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2022.06.15-08.14.10:981][445]PIE: Server logged in
+[2022.06.15-08.14.10:985][445]PIE: Play in editor total start time 0.27 seconds.
+[2022.06.15-08.14.13:061][513]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.14.17:501][641]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.14.17:573][641]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.14.17:611][641]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.14.17:616][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.14.17:627][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.14.17:643][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.14.17:676][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-08.14.17:677][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.14.17:679][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.14.17:715][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.06.15-08.14.17:770][642]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.06.15-08.14.56:309][911]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.15-08.14.56:363][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.06.15-08.14.57:302][950]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.14.57:309][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.14.57:309][950]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:14:57 PM)
+[2022.06.15-08.14.57:309][950]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.14.57:378][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068793s)
+[2022.06.15-08.14.57:380][950]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.14.57:380][950]LogPlayLevel: PIE: World Init took: (0.001685s)
+[2022.06.15-08.14.57:380][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.070808s)
+[2022.06.15-08.14.57:417][950]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.06.15-08.14.57:418][950]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2022.06.15-08.14.57:419][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.14.57:419][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.14.57:419][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.14.57:419][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.14.57:419][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.14.57:419][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.14.57:419][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.14.57:419][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.14.57:419][950]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.14.57:419][950]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.14.57:424][950]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.14.57:424][950]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.14.57:436][950]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.14.57:437][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.14.57:437][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.14.57:437][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.14.57:437][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.14.57:437][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.14.57:438][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.14.57:454][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.14.57:454][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.14.57:454][950]LogInit: FAudioDevice initialized.
+[2022.06.15-08.14.57:454][950]LogAudio: Display: Audio Device (ID: 53) registered with world 'Main_menu_level'.
+[2022.06.15-08.14.57:493][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.14.57:493][950]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.14.57:533][950]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.14.57:539][950]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.14.57
+[2022.06.15-08.14.57:541][950]LogWorld: Bringing up level for play took: 0.046266
+[2022.06.15-08.14.57:541][950]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.06.15-08.14.57:549][950]PIE: Server logged in
+[2022.06.15-08.14.57:552][950]PIE: Play in editor total start time 0.244 seconds.
+[2022.06.15-08.14.59:650][ 20]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.15.24:113][663]LogSlate: Window 'Main_menu_UI_custom' being destroyed
+[2022.06.15-08.15.24:124][663]LogSlate: Window 'Main_menu_UI_custom' being destroyed
+[2022.06.15-08.15.24:242][663]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.15.24:242][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.15.24:251][663]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.15.24:251][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.15.25:659][699]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.15.25:733][699]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.15.25:761][699]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.15.25:766][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.15.25:775][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.15.25:791][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.15.25:822][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-08.15.25:823][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.15.25:825][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.15.25:891][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.06.15-08.15.25:933][700]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.06.15-08.15.36:632][400]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_menu/Main_menu_UI_custom.Main_menu_UI_custom
+[2022.06.15-08.15.41:225][634]LogSlate: Took 0.037312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.15-08.16.39:286][ 74]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.15-08.16.39:356][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.06.15-08.17.04:532][509]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.15-08.17.04:581][509]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.06.15-08.17.07:470][671]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.17.07:476][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.17.07:476][671]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:17:07 PM)
+[2022.06.15-08.17.07:477][671]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.17.07:548][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070914s)
+[2022.06.15-08.17.07:549][671]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.17.07:549][671]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2022.06.15-08.17.07:550][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.072786s)
+[2022.06.15-08.17.07:578][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.06.15-08.17.07:581][671]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2022.06.15-08.17.07:581][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.17.07:581][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.17.07:581][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.17.07:581][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.17.07:581][671]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.17.07:581][671]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.17.07:581][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.17.07:581][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.17.07:582][671]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.17.07:582][671]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.17.07:587][671]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.17.07:587][671]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.17.07:598][671]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.17.07:598][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.17.07:599][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.17.07:599][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.17.07:599][671]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.17.07:599][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.17.07:599][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.17.07:615][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.17.07:615][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.17.07:615][671]LogInit: FAudioDevice initialized.
+[2022.06.15-08.17.07:615][671]LogAudio: Display: Audio Device (ID: 54) registered with world 'Main_menu_level'.
+[2022.06.15-08.17.07:658][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.17.07:658][671]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.17.07:698][671]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.17.07:705][671]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.17.07
+[2022.06.15-08.17.07:707][671]LogWorld: Bringing up level for play took: 0.047057
+[2022.06.15-08.17.07:707][671]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2022.06.15-08.17.07:722][671]PIE: Server logged in
+[2022.06.15-08.17.07:725][671]PIE: Play in editor total start time 0.25 seconds.
+[2022.06.15-08.17.09:833][742]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.17.23:541][141]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.15-08.17.23:545][141]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.15-08.17.23:545][141]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.17.23:553][141]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.17.23:557][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.17.23:616][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-08.17.23:632][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.06.15-08.17.23:663][141]LogAudio: Display: Audio Device (ID: 54) registered with world 'ThirdPersonExampleMap'.
+[2022.06.15-08.17.23:664][141]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.15-08.17.23:664][141]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.06.15-08.17.23:694][141]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.15-15.17.23
+[2022.06.15-08.17.23:694][141]LogWorld: Bringing up level for play took: 0.028408
+[2022.06.15-08.17.23:713][141]LogLoad: Took 0.168227 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.06.15-08.17.34:791][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.17.34:791][899]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.15-08.17.34:792][899]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.17.34:807][899]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.17.34:807][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.17.34:818][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.17.34:836][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.17.34:864][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.17.34:865][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.17.34:887][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.06.15-08.17.34:933][900]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.06.15-08.17.37:531][ 40]LogSlate: Window 'Main_menu_UI_custom' being destroyed
+[2022.06.15-08.17.37:539][ 40]LogSlate: Window 'Main_menu_UI_custom' being destroyed
+[2022.06.15-08.17.37:542][ 40]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.17.37:542][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.17.37:552][ 40]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.17.37:552][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.17.38:756][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.06.15-08.17.39:988][118]LogSlate: Window 'Save Content' being destroyed
+[2022.06.15-08.17.40:019][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.15-08.17.40:044][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.06.15-08.17.40:397][118]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level98C668E14D76A6587F3D94875E1EF1D7.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.15-08.17.40:410][118]LogFileHelpers: Saving map 'Main_menu_level' took 0.392
+[2022.06.15-08.17.40:411][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_UI_custom" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_UI_custom.uasset" SILENT=true
+[2022.06.15-08.17.40:506][118]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_UI_customFD2C65244F9B754613BD689DCADB2725.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_UI_custom.uasset'
+[2022.06.15-08.17.40:514][118]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/mixkit-mechanical-crate-pick-up-DE8B674F44DA98C65B370EA26887B3B8.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Sound/mixkit-mechanical-crate-pick-up-3154.uasset'
+[2022.06.15-08.17.40:520][118]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/mixkit-retro-arcade-casino-notifEF4384A74532E7DF15E7D889B28BB6CC.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Sound/mixkit-retro-arcade-casino-notification-211.uasset'
+[2022.06.15-08.17.40:547][118]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/mixkit-unlock-new-item-game-noti80FFDC834C37DD59B62A22A5BE075279.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Sound/mixkit-unlock-new-item-game-notification-254.uasset'
+[2022.06.15-08.17.40:570][118]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.15-08.17.40:570][118]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_menu/Main_menu_UI_custom.Main_menu_UI_custom
+[2022.06.15-08.17.40:572][118]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.15-08.17.40:572][118]LogContentValidation: Display: Validating SoundWave /Game/Main_menu/Sound/mixkit-mechanical-crate-pick-up-3154.mixkit-mechanical-crate-pick-up-3154
+[2022.06.15-08.17.40:572][118]LogContentValidation: Display: Validating SoundWave /Game/Main_menu/Sound/mixkit-retro-arcade-casino-notification-211.mixkit-retro-arcade-casino-notification-211
+[2022.06.15-08.17.40:572][118]LogContentValidation: Display: Validating SoundWave /Game/Main_menu/Sound/mixkit-unlock-new-item-game-notification-254.mixkit-unlock-new-item-game-notification-254
+[2022.06.15-08.42.36:581][888]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Main_menu/Main_menu_level.Main_menu_level:PersistentLevel.Main_menu_level
+[2022.06.15-08.43.02:612][373]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main_menu/Main_menu_PC.Main_menu_PC
+[2022.06.15-08.49.10:872][698]LogSlate: Window 'Main_menu_level' being destroyed
+[2022.06.15-08.49.10:880][698]LogSlate: Window 'Main_menu_level' being destroyed
+[2022.06.15-08.49.10:932][698]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.49.10:932][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.49.20:599][223]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.49.20:608][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.49.20:608][223]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:49:20 PM)
+[2022.06.15-08.49.20:609][223]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.49.20:690][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080180s)
+[2022.06.15-08.49.20:691][223]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.49.20:691][223]LogPlayLevel: PIE: World Init took: (0.001828s)
+[2022.06.15-08.49.20:692][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.082363s)
+[2022.06.15-08.49.20:741][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.06.15-08.49.20:747][223]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2022.06.15-08.49.20:747][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.49.20:747][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.49.20:747][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.49.20:747][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.49.20:747][223]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.49.20:747][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.49.20:747][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.49.20:747][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.49.20:748][223]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.49.20:748][223]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.49.20:753][223]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.49.20:754][223]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.49.20:765][223]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.49.20:766][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.49.20:766][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.49.20:766][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.49.20:767][223]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.49.20:767][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.49.20:767][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.49.20:783][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.49.20:783][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.49.20:783][223]LogInit: FAudioDevice initialized.
+[2022.06.15-08.49.20:783][223]LogAudio: Display: Audio Device (ID: 55) registered with world 'Main_menu_level'.
+[2022.06.15-08.49.20:833][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.49.20:833][223]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.49.20:878][223]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.49.20:885][223]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.49.20
+[2022.06.15-08.49.20:887][223]LogWorld: Bringing up level for play took: 0.052589
+[2022.06.15-08.49.20:887][223]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2022.06.15-08.49.20:895][223]PIE: Server logged in
+[2022.06.15-08.49.20:896][223]PIE: Play in editor total start time 0.289 seconds.
+[2022.06.15-08.49.22:956][292]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.49.27:082][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.49.27:082][413]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.49.27:082][413]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.49.27:160][413]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.49.27:164][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.49.27:174][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.49.27:190][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.49.27:222][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-08.49.27:223][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.49.27:224][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.49.27:255][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.06.15-08.49.27:299][414]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2022.06.15-08.49.38:632][ 35]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.49.38:639][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.49.38:639][ 35]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:49:38 PM)
+[2022.06.15-08.49.38:639][ 35]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.49.38:713][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073643s)
+[2022.06.15-08.49.38:714][ 35]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.49.38:715][ 35]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2022.06.15-08.49.38:715][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.075192s)
+[2022.06.15-08.49.38:743][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.06.15-08.49.38:748][ 35]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2022.06.15-08.49.38:748][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.49.38:749][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.49.38:749][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.49.38:749][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.49.38:749][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.49.38:749][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.49.38:749][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.49.38:749][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.49.38:749][ 35]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.49.38:749][ 35]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.49.38:754][ 35]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.49.38:754][ 35]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.49.38:766][ 35]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.49.38:766][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.49.38:766][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.49.38:766][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.49.38:767][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.49.38:767][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.49.38:767][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.49.38:784][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.49.38:784][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.49.38:784][ 35]LogInit: FAudioDevice initialized.
+[2022.06.15-08.49.38:784][ 35]LogAudio: Display: Audio Device (ID: 56) registered with world 'Main_menu_level'.
+[2022.06.15-08.49.38:842][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.49.38:843][ 35]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.49.38:882][ 35]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.49.38:887][ 35]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.49.38
+[2022.06.15-08.49.38:889][ 35]LogWorld: Bringing up level for play took: 0.044915
+[2022.06.15-08.49.38:889][ 35]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2022.06.15-08.49.38:896][ 35]PIE: Server logged in
+[2022.06.15-08.49.38:897][ 35]PIE: Play in editor total start time 0.258 seconds.
+[2022.06.15-08.49.41:005][105]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.49.46:932][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.49.46:932][262]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.49.46:932][262]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.49.47:019][262]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.49.47:025][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.49.47:037][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.49.47:054][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.49.47:086][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.49.47:087][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.49.47:113][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.06.15-08.49.47:152][263]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2022.06.15-08.49.48:352][325]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.49.50:806][459]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight26)
+[2022.06.15-08.49.54:725][677]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight21)
+[2022.06.15-08.49.58:395][887]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.49.59:689][957]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight33)
+[2022.06.15-08.50.01:831][ 78]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight26)
+[2022.06.15-08.50.06:000][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (scifi_floor_92)
+[2022.06.15-08.50.07:388][388]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight26)
+[2022.06.15-08.50.11:468][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.15-08.50.11:496][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.06.15-08.50.11:848][632]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_levelD5BC19154AC7052C188407AD9D0D184D.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.15-08.50.11:874][632]AssetCheck: New page: Asset Save: Main_menu_level
+[2022.06.15-08.50.11:874][632]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.15-08.50.13:814][744]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.50.13:821][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.50.13:821][744]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:50:13 PM)
+[2022.06.15-08.50.13:821][744]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.50.13:895][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073198s)
+[2022.06.15-08.50.13:896][744]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.50.13:897][744]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2022.06.15-08.50.13:897][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.074992s)
+[2022.06.15-08.50.13:925][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.06.15-08.50.13:927][744]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2022.06.15-08.50.13:927][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.50.13:927][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.50.13:927][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.50.13:927][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.50.13:927][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.50.13:927][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.50.13:927][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.50.13:927][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.50.13:928][744]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.50.13:928][744]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.50.13:933][744]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.50.13:933][744]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.50.13:945][744]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.50.13:946][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.50.13:946][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.50.13:946][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.50.13:947][744]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.50.13:947][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.50.13:947][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.50.13:962][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.50.13:962][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.50.13:962][744]LogInit: FAudioDevice initialized.
+[2022.06.15-08.50.13:962][744]LogAudio: Display: Audio Device (ID: 57) registered with world 'Main_menu_level'.
+[2022.06.15-08.50.14:018][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.50.14:018][744]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.50.14:061][744]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.50.14:067][744]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.50.14
+[2022.06.15-08.50.14:068][744]LogWorld: Bringing up level for play took: 0.048894
+[2022.06.15-08.50.14:068][744]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2022.06.15-08.50.14:076][744]PIE: Server logged in
+[2022.06.15-08.50.14:078][744]PIE: Play in editor total start time 0.258 seconds.
+[2022.06.15-08.50.16:166][813]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.50.20:341][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.50.20:341][926]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.50.20:341][926]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.50.20:431][926]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.50.20:438][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.50.20:447][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.50.20:464][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.50.20:496][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.50.20:497][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.50.20:526][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.06.15-08.50.20:562][927]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2022.06.15-08.50.36:420][943]MapCheck: New page: Map Check
+[2022.06.15-08.50.36:461][943]Cmd: MAP REBUILD ALLVISIBLE
+[2022.06.15-08.50.36:499][943]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.06.15-08.50.36:524][943]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=false
+[2022.06.15-08.50.36:569][943]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.50.36:658][943]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.06.15-08.50.36:658][943]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.06.15-08.50.36:658][943]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.06.15-08.50.36:700][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.06.15-08.50.36:735][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:740][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:742][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:744][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:745][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:747][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.06.15-08.50.36:747][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.06.15-08.50.36:747][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2022.06.15-08.50.36:748][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.06.15-08.50.36:748][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:750][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:752][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:755][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:757][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:760][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:785][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:813][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:844][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:872][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:890][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:908][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:918][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:922][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:930][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:940][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:951][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:977][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.36:997][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.37:031][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.37:057][943]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2022.06.15-08.50.44:928][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.06.15-08.50.44:929][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.06.15-08.50.44:930][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.06.15-08.50.44:930][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.06.15-08.50.44:930][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.06.15-08.50.44:930][943]TextureStreamingBuild: Display: Compiling optional shaders took 8.202 seconds.
+[2022.06.15-08.50.45:831][943]LogLevel: Display: Export Material TexCoord Scales took 0.901 seconds.
+[2022.06.15-08.50.45:854][943]TextureStreamingBuild: Display: Build Texture Streaming took 0.023 seconds.
+[2022.06.15-08.50.45:884][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.06.15-08.50.45:891][943]LightingResults: New page: Lighting Build - Jun 15, 2022, 10:50:45 PM
+[2022.06.15-08.50.45:899][943]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.15-08.50.45:905][943]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.15-08.50.45:905][943]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.15-08.50.45:907][943]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.15-08.50.45:907][943]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11352
+[2022.06.15-08.50.50:650][943]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.15-08.50.50:650][943]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.15-08.50.50:650][943]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.15-08.50.50:650][943]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.15-08.50.50:650][943]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.15-08.50.50:935][943]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.06.15-08.50.50:935][943]MapCheck: New page: Main_menu_level - Jun 15, 2022, 10:50:50 PM
+[2022.06.15-08.50.50:936][943]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2022.06.15-08.50.50:951][943]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 15.648ms to complete.
+[2022.06.15-08.50.50:953][943]LogEditorBuildUtils: Build time 0:14
+[2022.06.15-08.50.52:276][946]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2022.06.15-08.50.53:393][949]LogSlate: Window 'Message Log' being destroyed
+[2022.06.15-08.50.53:400][949]LogSlate: Window 'Message Log' being destroyed
+[2022.06.15-08.51.03:856][351]LightingResults: Warning: SM_Scifi_Stairs Object has overlapping UVs.
+[2022.06.15-08.51.03:856][351]LightingResults: SM_Scifi_Stairs Lightmap UV are overlapping by 12.1%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.15-08.51.14:981][384]LightingResults: Warning: SM_Scifi_Stairs Object has overlapping UVs.
+[2022.06.15-08.51.14:981][384]LightingResults: SM_Scifi_Stairs Lightmap UV are overlapping by 12.1%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.15-08.51.17:332][391]LightingResults: Warning: SM_Scifi_Stairs Object has overlapping UVs.
+[2022.06.15-08.51.17:332][391]LightingResults: SM_Scifi_Stairs Lightmap UV are overlapping by 12.1%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.15-08.51.26:108][417]Job is a success!
+[2022.06.15-08.51.26:593][418]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2022.06.15-08.51.26:593][418]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.06.15-08.51.26:593][418]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.06.15-08.51.26:593][418]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.15-08.51.26:593][418]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2022.06.15-08.51.26:593][418]LogVolumetricLightmapImport:          1: 25.0% covering 1.6% of volume
+[2022.06.15-08.51.26:593][418]LogVolumetricLightmapImport:          2: 50.0% covering 0.0% of volume
+[2022.06.15-08.51.26:593][418]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.15-08.51.26:593][418]LogVolumetricLightmapImport:          Main_menu_level 			 4 bricks 	 100.0% (Persistent Level)
+[2022.06.15-08.51.27:295][418]LightingResults: Warning: SpotLight_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.06.15-08.51.32:887][418]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2022.06.15-08.51.32:887][418]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2022.06.15-08.51.32:887][418]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2022.06.15-08.51.32:887][418]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2022.06.15-08.51.32:888][418]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 64X32)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 64X64)
+[2022.06.15-08.51.32:889][418]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 64X64)
+[2022.06.15-08.51.33:087][418]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2022.06.15-08.51.33:087][418]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2022.06.15-08.51.33:306][418]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2022.06.15-08.51.33:306][418]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2022.06.15-08.51.33:306][418]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2022.06.15-08.51.33:306][418]Lightmass on DESKTOP-VPCQC4I: 40.1 sec total, 400 ms importing, 192 ms setup, 4.61 sec photons, 34.8 sec processing, 0 ms extra exporting [922/922 mappings]. Threads: 4:04 min total, 2:34 min processing.
+[2022.06.15-08.51.33:320][418]LogStaticLightingSystem: Main_menu_level_BuiltData storing lightmap data for 922 meshes in 25 LightmapResourceClusters (36.9 Meshes per cluster).
+[2022.06.15-08.51.33:376][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.06.15-08.51.33:421][418]LogStaticLightingSystem: Illumination: 47.2 sec (5.59 sec encoding lightmaps, 349 ms encoding shadowmaps)
+[2022.06.15-08.51.33:421][418]LogStaticLightingSystem: Lightmap texture memory:  26.7 MB (26.7 MB streaming, 0.0 MB non-streaming), 22 textures
+[2022.06.15-08.51.33:422][418]LogStaticLightingSystem: Shadowmap texture memory: 18.7 MB (18.7 MB streaming, 0.0 MB non-streaming), 5 textures
+[2022.06.15-08.51.33:696][418]DumpUnbuiltLightIteractions
+[2022.06.15-08.51.33:696][418]Lights with unbuilt interactions: 0
+[2022.06.15-08.51.33:696][418]
+[2022.06.15-08.51.33:696][418]Primitives with unbuilt interactions: 0
+[2022.06.15-08.51.34:193][418]LogTexture: Display: Building textures: NewReflectionComponentTextureC5D2623346EB401B22A081A703EA0EB6 (BGRA8, 128X128)
+[2022.06.15-08.51.34:219][418]LogTexture: Display: Building textures: NewReflectionComponentTextureB3E548ED448ECE133BA11CA9B3941424 (BGRA8, 128X128)
+[2022.06.15-08.51.34:237][418]LogTexture: Display: Building textures: NewReflectionComponentTextureDD1BF7C1471CB519CAE9A99C5E00089D (BGRA8, 128X128)
+[2022.06.15-08.51.34:562][419]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.15-08.51.34:562][419]MapCheck: New page: Main_menu_level - Jun 15, 2022, 10:51:34 PM
+[2022.06.15-08.51.34:567][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.974ms to complete.
+[2022.06.15-08.51.40:360][672]LogSlate: Window 'Message Log' being destroyed
+[2022.06.15-08.51.40:366][672]LogSlate: Window 'Message Log' being destroyed
+[2022.06.15-08.51.47:479][100]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.51.47:490][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.51.47:490][100]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:51:47 PM)
+[2022.06.15-08.51.47:490][100]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.51.47:563][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072375s)
+[2022.06.15-08.51.47:564][100]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.51.47:564][100]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2022.06.15-08.51.47:564][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.074158s)
+[2022.06.15-08.51.47:599][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.06.15-08.51.47:604][100]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2022.06.15-08.51.47:604][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.51.47:604][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.51.47:604][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.51.47:604][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.51.47:604][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.51.47:604][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.51.47:604][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.51.47:604][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.51.47:605][100]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.51.47:605][100]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.51.47:609][100]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.51.47:610][100]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.51.47:621][100]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.51.47:622][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.51.47:622][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.51.47:622][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.51.47:622][100]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.51.47:622][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.51.47:623][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.51.47:640][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.51.47:640][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.51.47:640][100]LogInit: FAudioDevice initialized.
+[2022.06.15-08.51.47:640][100]LogAudio: Display: Audio Device (ID: 58) registered with world 'Main_menu_level'.
+[2022.06.15-08.51.47:676][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.51.47:677][100]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.51.47:720][100]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.51.47:727][100]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.51.47
+[2022.06.15-08.51.47:729][100]LogWorld: Bringing up level for play took: 0.050785
+[2022.06.15-08.51.47:729][100]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2022.06.15-08.51.47:735][100]PIE: Server logged in
+[2022.06.15-08.51.47:737][100]PIE: Play in editor total start time 0.248 seconds.
+[2022.06.15-08.51.48:201][115]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.06.15-08.51.49:824][176]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.52.09:827][711]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.52.09:903][711]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.52.09:932][711]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.52.09:937][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.52.09:944][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.52.09:962][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.52.09:999][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.52.10:000][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.52.10:028][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.06.15-08.52.10:076][712]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2022.06.15-08.52.27:464][773]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke)
+[2022.06.15-08.52.28:422][826]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.52.32:424][ 67]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke)
+[2022.06.15-08.52.36:353][295]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke)
+[2022.06.15-08.52.39:168][429]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.52.41:812][582]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.52.55:167][366]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.52.56:876][468]LogEditorViewport: Clicking on Actor (LMB): Emitter (smoke_2)
+[2022.06.15-08.53.04:609][972]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture3)
+[2022.06.15-08.53.10:341][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (scifi_floor_92)
+[2022.06.15-08.53.12:647][417]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.15-08.53.19:377][832]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.53.19:384][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.53.19:384][832]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:53:19 PM)
+[2022.06.15-08.53.19:384][832]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.53.19:456][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072459s)
+[2022.06.15-08.53.19:457][832]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.53.19:458][832]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2022.06.15-08.53.19:458][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.074214s)
+[2022.06.15-08.53.19:494][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.06.15-08.53.19:498][832]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2022.06.15-08.53.19:498][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.53.19:498][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.53.19:498][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.53.19:498][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.53.19:498][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.53.19:498][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.53.19:498][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.53.19:498][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.53.19:499][832]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.53.19:499][832]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.53.19:504][832]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.53.19:504][832]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.53.19:517][832]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.53.19:517][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.53.19:517][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.53.19:517][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.53.19:518][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.53.19:518][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.53.19:518][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.53.19:533][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.53.19:533][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.53.19:533][832]LogInit: FAudioDevice initialized.
+[2022.06.15-08.53.19:533][832]LogAudio: Display: Audio Device (ID: 59) registered with world 'Main_menu_level'.
+[2022.06.15-08.53.19:585][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.53.19:586][832]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.53.19:628][832]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.53.19:634][832]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.53.19
+[2022.06.15-08.53.19:635][832]LogWorld: Bringing up level for play took: 0.048548
+[2022.06.15-08.53.19:636][832]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2022.06.15-08.53.19:643][832]PIE: Server logged in
+[2022.06.15-08.53.19:644][832]PIE: Play in editor total start time 0.262 seconds.
+[2022.06.15-08.53.21:720][906]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.53.33:540][206]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.53.33:622][206]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.53.33:662][206]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.53.33:670][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.53.33:681][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.53.33:699][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.53.33:734][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.53.33:735][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.53.33:763][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.06.15-08.53.33:819][207]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2022.06.15-08.53.42:732][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.15-08.53.42:768][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.06.15-08.53.43:142][813]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_levelEDF362694DF1FB7894CD6FA59942CC9D.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.15-08.53.43:157][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level_BuiltData" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level_BuiltData.uasset" SILENT=true
+[2022.06.15-08.53.44:609][813]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level_BuiltData316D019F43160A285C7745ADC1340E03.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level_BuiltData.uasset'
+[2022.06.15-08.53.44:647][813]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.15-08.53.44:647][813]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.15-08.53.44:647][813]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_menu/Main_menu_level_BuiltData.Main_menu_level_BuiltData
+[2022.06.15-08.53.58:821][242]Cmd: TRANSACTION UNDO
+[2022.06.15-08.53.58:821][242]LogEditorTransaction: Undo Move Actors
+[2022.06.15-08.54.34:443][927]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.15-08.54.34:450][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.15-08.54.34:450][927]PIE: New page: PIE session: Main_menu_level (Jun 15, 2022, 10:54:34 PM)
+[2022.06.15-08.54.34:450][927]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.54.34:522][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072187s)
+[2022.06.15-08.54.34:523][927]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.15-08.54.34:523][927]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2022.06.15-08.54.34:523][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.073860s)
+[2022.06.15-08.54.34:558][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.06.15-08.54.34:562][927]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2022.06.15-08.54.34:562][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-08.54.34:562][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-08.54.34:562][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-08.54.34:562][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-08.54.34:562][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-08.54.34:562][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-08.54.34:562][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-08.54.34:562][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-08.54.34:562][927]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.15-08.54.34:562][927]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-08.54.34:567][927]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-08.54.34:567][927]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-08.54.34:579][927]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.15-08.54.34:579][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-08.54.34:580][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-08.54.34:580][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-08.54.34:580][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-08.54.34:580][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-08.54.34:580][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-08.54.34:597][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-08.54.34:597][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-08.54.34:597][927]LogInit: FAudioDevice initialized.
+[2022.06.15-08.54.34:597][927]LogAudio: Display: Audio Device (ID: 60) registered with world 'Main_menu_level'.
+[2022.06.15-08.54.34:650][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.54.34:651][927]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.15-08.54.34:698][927]LogScript: Warning: Script Msg: Divide by zero detected: -179.999756 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.15-08.54.34:705][927]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.15-15.54.34
+[2022.06.15-08.54.34:706][927]LogWorld: Bringing up level for play took: 0.054157
+[2022.06.15-08.54.34:706][927]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2022.06.15-08.54.34:714][927]PIE: Server logged in
+[2022.06.15-08.54.34:715][927]PIE: Play in editor total start time 0.267 seconds.
+[2022.06.15-08.54.36:789][  4]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.15-08.54.44:471][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-08.54.44:471][209]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.15-08.54.44:471][209]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.15-08.54.44:556][209]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-08.54.44:566][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.54.44:574][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.15-08.54.44:592][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-08.54.44:632][209]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-08.54.44:632][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.54.44:633][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-08.54.44:661][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.06.15-08.54.44:701][210]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2022.06.15-08.55.07:392][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.06.15-08.55.08:545][688]LogSlate: Window 'Save Content' being destroyed
+[2022.06.15-08.55.08:578][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.15-08.55.08:610][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.15-08.55.08:975][688]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_levelFEA57F1143671DFDBC3352B6D1296E57.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.15-08.55.08:986][688]LogFileHelpers: Saving map 'Main_menu_level' took 0.409
+[2022.06.15-08.55.09:000][688]AssetCheck: New page: Asset Save: Main_menu_level
+[2022.06.15-08.55.09:001][688]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.15-08.55.09:559][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.15-08.55.09:592][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.15-08.55.09:950][711]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level587B56F1427BB79079BFAF8B80797874.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.15-08.55.09:963][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level_BuiltData" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level_BuiltData.uasset" SILENT=true
+[2022.06.15-08.55.11:525][711]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level_BuiltData90CF6BF841B6C3C0B65434B173D4648D.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level_BuiltData.uasset'
+[2022.06.15-08.55.11:552][711]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.15-08.55.11:552][711]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.15-08.55.11:552][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_menu/Main_menu_level_BuiltData.Main_menu_level_BuiltData
+[2022.06.15-08.59.22:669][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.06.15-08.59.23:427][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.15-08.59.23:459][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.15-08.59.23:853][624]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level5C7D216B41FF97A48F2DA0B517B47D38.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.15-08.59.23:868][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level_BuiltData" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level_BuiltData.uasset" SILENT=true
+[2022.06.15-08.59.25:449][624]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level_BuiltDataADCC26A644452AEA8B26AAB831373BB0.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level_BuiltData.uasset'
+[2022.06.15-08.59.25:484][624]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.15-08.59.25:484][624]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.15-08.59.25:484][624]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_menu/Main_menu_level_BuiltData.Main_menu_level_BuiltData
