@@ -7311,3 +7311,1867 @@ Script call stack:
 [2022.06.17-09.59.39:291][811]AssetCheck: New page: Asset Save: Main_menu_UI_custom
 [2022.06.17-09.59.39:291][811]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_menu/Main_menu_UI_custom.Main_menu_UI_custom
 [2022.06.17-09.59.47:547][965]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.06.17-10.03.00:501][542]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.06.17-10.03.17:912][604]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.03.17:913][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.03.17:933][604]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.03.17:933][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.03.18:684][634]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.17-10.03.18:684][634]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.03.18:684][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.03.19:324][664]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.17-10.03.19:324][664]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.03.19:324][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.03.19:994][696]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.03.19:994][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.03.21:536][785]LogSlate: Window 'AI_PC' being destroyed
+[2022.06.17-10.03.21:554][785]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.17-10.03.21:554][785]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.03.21:554][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.03.27:005][116]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AI_PC.AI_PC
+[2022.06.17-10.03.29:850][265]LogSlate: Window 'AI_PC' being destroyed
+[2022.06.17-10.03.29:861][265]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.03.29:862][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.03.30:921][319]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AI/AI_UI.AI_UI
+[2022.06.17-10.03.32:984][418]LogSlate: Window 'AI_UI' being destroyed
+[2022.06.17-10.03.32:996][418]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.03.32:997][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.03.33:009][418]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.03.33:009][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.03.59:063][382]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.06.17-10.04.35:235][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BehaviorTree" FILE="../../../../TAI/tai_BT_unreal/Content/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.06.17-10.04.35:238][957]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_BehaviorTreeC87B0C0749C832D5FD7A408597F470A8.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/AI_BehaviorTree.uasset'
+[2022.06.17-10.04.35:259][957]AssetCheck: New page: Asset Save: AI_BehaviorTree
+[2022.06.17-10.04.35:259][957]LogContentValidation: Display: Validating BehaviorTree /Game/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.06.17-10.05.23:151][489]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2022.06.17-10.05.35:703][350]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2022.06.17-10.05.35:783][350]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.05.35:785][350]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.05.35:786][350]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.05.35:789][350]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.17-10.05.35:789][350]Cmd: MAP LOAD FILE="../../../../TAI/tai_BT_unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.17-10.05.35:789][350]LightingResults: New page: Lighting Build
+[2022.06.17-10.05.35:791][350]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2022.06.17-10.05.35:823][350]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.05.35:823][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.05.35:824][350]MapCheck: New page: Map Check
+[2022.06.17-10.05.35:824][350]LightingResults: New page: Lighting Build
+[2022.06.17-10.05.35:857][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.05.35:879][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.06.17-10.05.35:882][350]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.05.35:884][350]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.05.35:886][350]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.05.35:887][350]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.05.35:890][350]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.17-10.05.35:890][350]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.05.35:924][350]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.06.17-10.05.35:936][350]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.17-10.05.35:936][350]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2022.06.17-10.05.35:936][350]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.148
+[2022.06.17-10.05.54:981][ 56]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Find_random_location.Find_random_location
+[2022.06.17-10.06.03:838][798]BlueprintLog: New page: Compile Find_random_location
+[2022.06.17-10.06.03:894][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.06.17-10.06.06:554][927]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.06.06:562][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.06.06:563][927]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 18, 2022, 12:06:06 AM)
+[2022.06.17-10.06.06:563][927]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.06.06:580][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016296s)
+[2022.06.17-10.06.06:581][927]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.06.06:582][927]LogPlayLevel: PIE: World Init took: (0.001933s)
+[2022.06.17-10.06.06:582][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018554s)
+[2022.06.17-10.06.06:615][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.06.17-10.06.06:617][927]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.06.17-10.06.06:617][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.06.06:617][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.06.06:617][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.06.06:617][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.06.06:617][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.06.06:617][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.06.06:618][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.06.06:618][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.06.06:618][927]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.06.06:618][927]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.06.06:623][927]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.06.06:623][927]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.06.06:634][927]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.06.06:635][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.06.06:635][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.06.06:635][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.06.06:636][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.06.06:636][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.06.06:636][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.06.06:653][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.06.06:653][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.06.06:653][927]LogInit: FAudioDevice initialized.
+[2022.06.17-10.06.06:653][927]LogAudio: Display: Audio Device (ID: 42) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.06.06:713][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.06.06:713][927]LogLoad: Game class is 'level_1_GM_C'
+[2022.06.17-10.06.06:716][927]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.06.06:722][927]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.06.06:723][927]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.06.06:723][927]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.06.06
+[2022.06.17-10.06.06:725][927]LogWorld: Bringing up level for play took: 0.010812
+[2022.06.17-10.06.06:725][927]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2022.06.17-10.06.06:732][927]PIE: Server logged in
+[2022.06.17-10.06.06:734][927]PIE: Play in editor total start time 0.175 seconds.
+[2022.06.17-10.06.08:900][ 75]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.06.08:900][ 75]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.06.18:673][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.06.18:673][773]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.06.18:675][773]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.06.18:688][773]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.06.18:689][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.06.18:698][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.06.18:705][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.06.18:736][773]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.06.18:736][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.06.18:738][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.06.18:762][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.06.17-10.06.18:783][774]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2022.06.17-10.06.22:324][ 63]LogEditorViewport: Clicking on Actor (LMB): AI_C (AI)
+[2022.06.17-10.06.32:160][571]LogEditorViewport: Clicking on Actor (LMB): AI_MurielPlayerCharacter_C (AI_MurielPlayerCharacter)
+[2022.06.17-10.06.34:461][767]Cmd: DELETE
+[2022.06.17-10.06.34:483][767]Cmd: ACTOR DELETE
+[2022.06.17-10.06.34:534][767]LogEditorActor: Deleted Actor: AI_MurielPlayerCharacter_C
+[2022.06.17-10.06.34:567][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.06.17-10.06.34:575][767]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2022.06.17-10.06.46:196][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.06.17-10.06.47:172][988]LogSlate: Window 'Save Content' being destroyed
+[2022.06.17-10.06.47:353][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Find_random_location" FILE="../../../../TAI/tai_BT_unreal/Content/AI/Find_random_location.uasset" SILENT=true
+[2022.06.17-10.06.47:360][988]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Find_random_location3D71FDB24F794F755F261DAEF13079CE.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/Find_random_location.uasset'
+[2022.06.17-10.06.47:391][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.06.17-10.06.47:436][988]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/ThirdPersonExampleMap30DFBA664CCF529F8CF3C197FE7E4FF4.tmp' to '../../../../TAI/tai_BT_unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.17-10.06.47:447][988]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.086
+[2022.06.17-10.06.47:467][988]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-10.06.47:467][988]LogContentValidation: Display: Validating Blueprint /Game/AI/Find_random_location.Find_random_location
+[2022.06.17-10.06.47:467][988]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.17-10.08.22:814][451]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AI/AI_UI.AI_UI
+[2022.06.17-10.09.09:610][231]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.06.17-10.10.37:928][876]SourceControl: Error: fatal: Invalid path 'F:/UE_4.26/Engine/Content/UMG': No such file or directory
+[2022.06.17-10.12.11:676][116]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.17-10.22.33:278][226]BlueprintLog: New page: Compile AI_UI
+[2022.06.17-10.22.33:332][226]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.06.17-10.22.44:106][ 47]BlueprintLog: New page: Compile AI_UI
+[2022.06.17-10.22.44:150][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.06.17-10.22.44:741][ 83]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.22.44:752][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.22.44:752][ 83]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 18, 2022, 12:22:44 AM)
+[2022.06.17-10.22.44:752][ 83]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.22.44:766][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013367s)
+[2022.06.17-10.22.44:767][ 83]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.22.44:768][ 83]LogPlayLevel: PIE: World Init took: (0.001903s)
+[2022.06.17-10.22.44:768][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015564s)
+[2022.06.17-10.22.44:805][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.06.17-10.22.44:806][ 83]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.06.17-10.22.44:806][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.22.44:806][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.22.44:806][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.22.44:806][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.22.44:806][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.22.44:806][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.22.44:806][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.22.44:806][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.22.44:807][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.22.44:807][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.22.44:812][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.22.44:812][ 83]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.22.44:825][ 83]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.22.44:826][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.22.44:826][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.22.44:826][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.22.44:827][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.22.44:827][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.22.44:827][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.22.44:843][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.22.44:843][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.22.44:843][ 83]LogInit: FAudioDevice initialized.
+[2022.06.17-10.22.44:843][ 83]LogAudio: Display: Audio Device (ID: 43) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.22.44:879][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.22.44:879][ 83]LogLoad: Game class is 'level_1_GM_C'
+[2022.06.17-10.22.44:881][ 83]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.22.44:888][ 83]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.22.44:889][ 83]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.22.44
+[2022.06.17-10.22.44:890][ 83]LogWorld: Bringing up level for play took: 0.010665
+[2022.06.17-10.22.44:891][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2022.06.17-10.22.44:899][ 83]PIE: Server logged in
+[2022.06.17-10.22.44:901][ 83]PIE: Play in editor total start time 0.153 seconds.
+[2022.06.17-10.22.47:087][211]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.22.47:087][211]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.22.58:975][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.22.58:976][988]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.22.58:977][988]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.22.58:991][988]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.22.58:991][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.22.58:999][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.22.59:007][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.22.59:043][988]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.22.59:044][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.22.59:045][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.22.59:068][988]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.06.17-10.22.59:094][989]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2022.06.17-10.23.02:548][258]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.23.02:558][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.23.02:558][258]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 18, 2022, 12:23:02 AM)
+[2022.06.17-10.23.02:558][258]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.23.02:570][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012248s)
+[2022.06.17-10.23.02:572][258]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.23.02:572][258]LogPlayLevel: PIE: World Init took: (0.001709s)
+[2022.06.17-10.23.02:572][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014148s)
+[2022.06.17-10.23.02:609][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.06.17-10.23.02:613][258]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.06.17-10.23.02:614][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.23.02:614][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.23.02:614][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.23.02:614][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.23.02:614][258]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.23.02:614][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.23.02:614][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.23.02:614][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.23.02:614][258]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.23.02:615][258]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.23.02:619][258]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.23.02:619][258]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.23.02:630][258]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.23.02:630][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.23.02:630][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.23.02:630][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.23.02:631][258]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.23.02:631][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.23.02:631][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.23.02:647][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.23.02:647][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.23.02:647][258]LogInit: FAudioDevice initialized.
+[2022.06.17-10.23.02:647][258]LogAudio: Display: Audio Device (ID: 44) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.23.02:706][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.23.02:706][258]LogLoad: Game class is 'level_1_GM_C'
+[2022.06.17-10.23.02:709][258]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.23.02:715][258]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.23.02:716][258]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.23.02
+[2022.06.17-10.23.02:717][258]LogWorld: Bringing up level for play took: 0.010028
+[2022.06.17-10.23.02:718][258]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2022.06.17-10.23.02:725][258]PIE: Server logged in
+[2022.06.17-10.23.02:729][258]PIE: Play in editor total start time 0.175 seconds.
+[2022.06.17-10.23.04:316][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.23.04:316][353]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.23.04:316][353]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.23.04:330][353]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.23.04:331][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.23.04:343][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.23.04:350][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.23.04:386][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.23.04:387][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.23.04:410][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.06.17-10.23.04:432][354]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2022.06.17-10.23.05:799][455]BlueprintLog: New page: Compile AI_UI
+[2022.06.17-10.23.05:840][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.06.17-10.23.21:777][ 13]LogContentBrowser: Attempting asset rename: AI_UI -> INGAME_UI
+[2022.06.17-10.23.22:534][ 13]LogMetaData: Removing '/Game/AI/INGAME_UI.SKEL_INGAME_UI_C' ref from Metadata '/Game/AI/AI_UI.PackageMetaData'
+[2022.06.17-10.23.22:535][ 13]LogMetaData: Removing '/Game/AI/INGAME_UI.INGAME_UI_C' ref from Metadata '/Game/AI/AI_UI.PackageMetaData'
+[2022.06.17-10.23.22:535][ 13]LogMetaData: Removing '/Game/AI/INGAME_UI.INGAME_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/AI_UI.PackageMetaData'
+[2022.06.17-10.23.22:535][ 13]LogMetaData: Removing '/Game/AI/INGAME_UI.INGAME_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/AI_UI.PackageMetaData'
+[2022.06.17-10.23.22:535][ 13]LogMetaData: Removing '/Game/AI/INGAME_UI.INGAME_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI/AI_UI.PackageMetaData'
+[2022.06.17-10.23.22:535][ 13]LogMetaData: Removing '/Game/AI/INGAME_UI.SKEL_INGAME_UI_C:PreConstruct' ref from Metadata '/Game/AI/AI_UI.PackageMetaData'
+[2022.06.17-10.23.22:535][ 13]LogMetaData: Removing '/Game/AI/INGAME_UI.SKEL_INGAME_UI_C:Construct' ref from Metadata '/Game/AI/AI_UI.PackageMetaData'
+[2022.06.17-10.23.22:535][ 13]LogMetaData: Removing '/Game/AI/INGAME_UI.SKEL_INGAME_UI_C:Tick' ref from Metadata '/Game/AI/AI_UI.PackageMetaData'
+[2022.06.17-10.23.22:535][ 13]LogMetaData: Removing '/Game/AI/INGAME_UI.INGAME_UI_C:Tick' ref from Metadata '/Game/AI/AI_UI.PackageMetaData'
+[2022.06.17-10.23.22:572][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/INGAME_UI" FILE="../../../../TAI/tai_BT_unreal/Content/AI/INGAME_UI.uasset" SILENT=true
+[2022.06.17-10.23.22:577][ 13]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/INGAME_UID4BDD98D47A4A72930665DB6003FC40A.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/INGAME_UI.uasset'
+[2022.06.17-10.23.22:792][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_UI" FILE="../../../../TAI/tai_BT_unreal/Content/AI/AI_UI.uasset" SILENT=true
+[2022.06.17-10.23.22:793][ 13]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_UI58A27FE44BBAB27FAB1BA7AF45248355.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/AI_UI.uasset'
+[2022.06.17-10.23.23:201][ 13]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/INGAME_UI.
+[2022.06.17-10.23.23:210][ 13]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-10.23.23:210][ 13]LogContentValidation: Display: Validating WidgetBlueprint /Game/AI/INGAME_UI.INGAME_UI
+[2022.06.17-10.23.23:211][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/AI_UI.AI_UI
+[2022.06.17-10.23.23:211][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/AI_UI.Default__AI_UI_C
+[2022.06.17-10.23.23:211][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/AI_UI.AI_UI_C
+[2022.06.17-10.23.30:796][769]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.06.17-10.23.31:928][769]LogSlate: Window 'Save Content' being destroyed
+[2022.06.17-10.23.32:068][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_PC" FILE="../../../../TAI/tai_BT_unreal/Content/AI/AI_PC.uasset" SILENT=true
+[2022.06.17-10.23.32:082][769]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_PC0CB3E4ED4F36DFEC44F346B73EEA7B14.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/AI_PC.uasset'
+[2022.06.17-10.23.32:231][769]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.23.32:244][769]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.17-10.23.32:244][769]Cmd: MAP LOAD FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.17-10.23.32:245][769]LightingResults: New page: Lighting Build
+[2022.06.17-10.23.32:248][769]LoadErrors: New page: Loading map: Main_menu_level.umap
+[2022.06.17-10.23.32:251][769]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.23.32:251][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.23.32:251][769]MapCheck: New page: Map Check
+[2022.06.17-10.23.32:251][769]LightingResults: New page: Lighting Build
+[2022.06.17-10.23.32:294][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.23.32:302][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.06.17-10.23.32:306][769]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_menu_level'.
+[2022.06.17-10.23.32:346][769]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.23.32:371][769]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.17-10.23.32:371][769]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.23.32:419][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.06.17-10.23.32:430][769]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.17-10.23.32:431][769]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.367ms to complete.
+[2022.06.17-10.23.32:431][769]LogFileHelpers: Loading map 'Main_menu_level' took 0.186
+[2022.06.17-10.23.32:458][769]AssetCheck: New page: Asset Save: AI_PC
+[2022.06.17-10.23.32:458][769]LogContentValidation: Display: Validating Blueprint /Game/AI/AI_PC.AI_PC
+[2022.06.17-10.23.34:754][908]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.23.34:764][908]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.17-10.23.34:765][908]LogPlayLevel: [PlayLevel] Compiling AI_PC before play...
+[2022.06.17-10.23.34:812][908]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.06.17-10.23.34:819][908]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2022.06.17-10.23.34:819][908]PIE: New page: PIE session: Main_menu_level (Jun 18, 2022, 12:23:34 AM)
+[2022.06.17-10.23.34:819][908]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.23.34:896][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076062s)
+[2022.06.17-10.23.34:897][908]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.23.34:898][908]LogPlayLevel: PIE: World Init took: (0.001612s)
+[2022.06.17-10.23.34:898][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.078002s)
+[2022.06.17-10.23.34:933][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.06.17-10.23.34:934][908]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.06.17-10.23.34:935][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.23.34:935][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.23.34:935][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.23.34:935][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.23.34:935][908]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.23.34:935][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.23.34:935][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.23.34:935][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.23.34:936][908]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.23.34:936][908]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.23.34:941][908]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.23.34:941][908]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.23.34:954][908]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.23.34:954][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.23.34:954][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.23.34:954][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.23.34:955][908]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.23.34:955][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.23.34:955][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.23.34:970][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.23.34:970][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.23.34:970][908]LogInit: FAudioDevice initialized.
+[2022.06.17-10.23.34:970][908]LogAudio: Display: Audio Device (ID: 45) registered with world 'Main_menu_level'.
+[2022.06.17-10.23.35:016][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.23.35:016][908]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.17-10.23.35:058][908]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.23.35:064][908]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.17-17.23.35
+[2022.06.17-10.23.35:066][908]LogWorld: Bringing up level for play took: 0.048607
+[2022.06.17-10.23.35:066][908]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2022.06.17-10.23.35:070][908]LogBlueprintUserMessages: [Main_menu_UI_custom_C_0] Hello
+[2022.06.17-10.23.35:073][908]PIE: Server logged in
+[2022.06.17-10.23.35:076][908]PIE: Play in editor total start time 0.316 seconds.
+[2022.06.17-10.23.37:100][ 14]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.23.38:665][ 75]Cmd: r.ScreenPercentage 100
+[2022.06.17-10.23.38:666][ 75]r.ScreenPercentage = "100"
+[2022.06.17-10.23.38:666][ 75]Cmd: r.PostProcessAAQuality 6
+[2022.06.17-10.23.38:666][ 75]r.PostProcessAAQuality = "6"
+[2022.06.17-10.23.38:666][ 75]Cmd: sg.PostProcessQuality 3
+[2022.06.17-10.23.38:666][ 75]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/TAI/tai_BT_unreal/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-10.23.38:666][ 75]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.17-10.23.38:667][ 75]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.17-10.23.38:667][ 75]sg.PostProcessQuality = "3"
+[2022.06.17-10.23.44:567][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.23.44:567][234]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.23.44:567][234]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.23.44:643][234]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.23.44:653][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.23.44:661][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.23.44:670][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.23.44:714][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.23.44:715][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.23.44:744][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.06.17-10.23.44:764][235]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2022.06.17-10.23.50:628][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.06.17-10.23.50:669][583]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.23.50:670][583]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.23.50:673][583]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.17-10.23.50:674][583]Cmd: MAP LOAD FILE="../../../../TAI/tai_BT_unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.17-10.23.50:674][583]LightingResults: New page: Lighting Build
+[2022.06.17-10.23.50:674][583]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2022.06.17-10.23.50:684][583]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.23.50:684][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.23.50:685][583]MapCheck: New page: Map Check
+[2022.06.17-10.23.50:685][583]LightingResults: New page: Lighting Build
+[2022.06.17-10.23.50:723][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.23.50:732][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.06.17-10.23.50:733][583]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.23.50:735][583]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.23.50:737][583]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.23.50:740][583]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.17-10.23.50:740][583]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.23.50:780][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.06.17-10.23.50:789][583]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.17-10.23.50:790][583]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2022.06.17-10.23.50:790][583]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.117
+[2022.06.17-10.23.52:189][712]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.23.52:199][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.23.52:199][712]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 18, 2022, 12:23:52 AM)
+[2022.06.17-10.23.52:222][712]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.23.52:240][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018031s)
+[2022.06.17-10.23.52:242][712]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.23.52:242][712]LogPlayLevel: PIE: World Init took: (0.001747s)
+[2022.06.17-10.23.52:242][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020092s)
+[2022.06.17-10.23.52:277][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.06.17-10.23.52:280][712]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.06.17-10.23.52:280][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.23.52:280][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.23.52:280][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.23.52:280][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.23.52:280][712]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.23.52:280][712]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.23.52:280][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.23.52:280][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.23.52:281][712]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.23.52:281][712]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.23.52:286][712]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.23.52:286][712]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.23.52:297][712]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.23.52:298][712]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.23.52:298][712]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.23.52:298][712]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.23.52:298][712]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.23.52:298][712]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.23.52:298][712]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.23.52:315][712]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.23.52:315][712]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.23.52:315][712]LogInit: FAudioDevice initialized.
+[2022.06.17-10.23.52:315][712]LogAudio: Display: Audio Device (ID: 46) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.23.52:361][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.23.52:361][712]LogLoad: Game class is 'level_1_GM_C'
+[2022.06.17-10.23.52:364][712]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.23.52:369][712]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.23.52:370][712]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.23.52
+[2022.06.17-10.23.52:372][712]LogWorld: Bringing up level for play took: 0.010069
+[2022.06.17-10.23.52:373][712]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2022.06.17-10.23.52:379][712]PIE: Server logged in
+[2022.06.17-10.23.52:381][712]PIE: Play in editor total start time 0.186 seconds.
+[2022.06.17-10.23.54:537][834]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.23.54:537][834]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.24.00:748][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.24.00:748][155]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.24.00:749][155]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.24.00:767][155]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.24.00:768][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.24.00:776][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.24.00:782][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.24.00:815][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.24.00:816][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.24.00:817][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.24.00:842][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.06.17-10.24.00:862][156]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2022.06.17-10.24.17:230][749]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.17-10.24.17:257][749]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.17-10.24.27:695][826]LogContentBrowser: Attempting asset rename: NewFolder -> Witget_in_game
+[2022.06.17-10.24.27:695][826]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.17-10.24.42:699][388]LogMetaData: Removing '/Game/Witget_in_game/INGAME_UI.INGAME_UI_C' ref from Metadata '/Game/AI/INGAME_UI.PackageMetaData'
+[2022.06.17-10.24.42:699][388]LogMetaData: Removing '/Game/Witget_in_game/INGAME_UI.INGAME_UI_C:Tick' ref from Metadata '/Game/AI/INGAME_UI.PackageMetaData'
+[2022.06.17-10.24.42:699][388]LogMetaData: Removing '/Game/Witget_in_game/INGAME_UI.SKEL_INGAME_UI_C' ref from Metadata '/Game/AI/INGAME_UI.PackageMetaData'
+[2022.06.17-10.24.42:699][388]LogMetaData: Removing '/Game/Witget_in_game/INGAME_UI.SKEL_INGAME_UI_C:PreConstruct' ref from Metadata '/Game/AI/INGAME_UI.PackageMetaData'
+[2022.06.17-10.24.42:699][388]LogMetaData: Removing '/Game/Witget_in_game/INGAME_UI.SKEL_INGAME_UI_C:Construct' ref from Metadata '/Game/AI/INGAME_UI.PackageMetaData'
+[2022.06.17-10.24.42:699][388]LogMetaData: Removing '/Game/Witget_in_game/INGAME_UI.SKEL_INGAME_UI_C:Tick' ref from Metadata '/Game/AI/INGAME_UI.PackageMetaData'
+[2022.06.17-10.24.42:699][388]LogMetaData: Removing '/Game/Witget_in_game/INGAME_UI.INGAME_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/INGAME_UI.PackageMetaData'
+[2022.06.17-10.24.42:699][388]LogMetaData: Removing '/Game/Witget_in_game/INGAME_UI.INGAME_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/INGAME_UI.PackageMetaData'
+[2022.06.17-10.24.42:699][388]LogMetaData: Removing '/Game/Witget_in_game/INGAME_UI.INGAME_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI/INGAME_UI.PackageMetaData'
+[2022.06.17-10.24.42:733][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/INGAME_UI" FILE="../../../../TAI/tai_BT_unreal/Content/Witget_in_game/INGAME_UI.uasset" SILENT=true
+[2022.06.17-10.24.42:738][388]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/INGAME_UI28A4C1AF4EE7A429A006D38843F09D15.tmp' to '../../../../TAI/tai_BT_unreal/Content/Witget_in_game/INGAME_UI.uasset'
+[2022.06.17-10.24.43:201][388]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AI/INGAME_UI.INGAME_UI'
+[2022.06.17-10.24.43:252][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.06.17-10.24.43:301][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.06.17-10.24.43:334][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.17-10.24.43:475][388]SourceControl: rm 'Content/AI/INGAME_UI.uasset'
+[2022.06.17-10.24.43:582][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_PC" FILE="../../../../TAI/tai_BT_unreal/Content/AI/AI_PC.uasset" SILENT=true
+[2022.06.17-10.24.43:595][388]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_PCCC62EF3245C781F029E26D902F5382A8.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/AI_PC.uasset'
+[2022.06.17-10.24.43:596][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_UI" FILE="../../../../TAI/tai_BT_unreal/Content/AI/AI_UI.uasset" SILENT=true
+[2022.06.17-10.24.43:598][388]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_UIFF06C3094ADBFDCCFB756DA49F9DD101.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/AI_UI.uasset'
+[2022.06.17-10.24.43:669][388]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Witget_in_game/INGAME_UI.
+[2022.06.17-10.24.43:676][388]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-10.24.43:676][388]LogContentValidation: Display: Validating Blueprint /Game/AI/AI_PC.AI_PC
+[2022.06.17-10.24.43:677][388]LogContentValidation: Display: Validating WidgetBlueprint /Game/Witget_in_game/INGAME_UI.INGAME_UI
+[2022.06.17-10.24.43:678][388]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/AI_UI.Default__AI_UI_C
+[2022.06.17-10.24.43:678][388]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/AI_UI.AI_UI_C
+[2022.06.17-10.24.43:678][388]LogContentValidation: Display: Validating ObjectRedirector /Game/AI/AI_UI.AI_UI
+[2022.06.17-10.24.49:685][920]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.06.17-10.24.54:442][920]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.17-10.24.54:466][920]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.17-10.24.54:479][920]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.17-10.25.01:386][619]LogContentBrowser: Attempting asset rename: NewBlueprint -> INGAME_GM
+[2022.06.17-10.25.01:486][619]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Witget_in_game/INGAME_GM.
+[2022.06.17-10.25.01:487][619]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.17-10.25.06:156][925]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.06.17-10.25.08:247][925]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.17-10.25.08:258][925]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.17-10.25.08:274][925]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.17-10.25.13:358][418]LogContentBrowser: Attempting asset rename: NewBlueprint -> INGAME_PC
+[2022.06.17-10.25.13:471][418]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Witget_in_game/INGAME_PC.
+[2022.06.17-10.25.13:471][418]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.17-10.25.21:242][610]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Witget_in_game/INGAME_GM.INGAME_GM
+[2022.06.17-10.25.28:292][ 17]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.17-10.25.33:206][434]BlueprintLog: New page: Compile INGAME_GM
+[2022.06.17-10.25.33:273][434]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.06.17-10.25.34:655][527]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.25.34:655][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.25.54:953][176]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Witget_in_game/INGAME_GM.INGAME_GM
+[2022.06.17-10.26.14:478][857]LogVSAccessor: Warning: Couldn't goto line number '1' in 'F:/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/GameModeBase.h'
+[2022.06.17-10.26.20:806][337]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.17-10.26.36:242][384]BlueprintLog: New page: Compile INGAME_GM
+[2022.06.17-10.26.36:306][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.06.17-10.26.41:529][736]LogSlate: Window 'Class Defaults' being destroyed
+[2022.06.17-10.26.41:536][736]LogSlate: Window 'Class Defaults' being destroyed
+[2022.06.17-10.26.42:039][781]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.26.42:040][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.26.44:306][968]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Witget_in_game/INGAME_PC.INGAME_PC
+[2022.06.17-10.27.14:968][718]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.17-10.27.38:629][847]BlueprintLog: New page: Compile INGAME_PC
+[2022.06.17-10.27.38:695][847]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.06.17-10.28.12:621][300]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.06.17-10.28.28:651][478]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.17-10.28.38:823][477]SourceControl: fatal: /Script: '/Script' is outside repository at 'F:/TAI/tai_BT_unreal'
+[2022.06.17-10.28.53:010][610]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.17-10.28.53:018][610]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.17-10.28.57:061][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.17-10.28.58:236][789]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.28.58:248][789]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.17-10.28.58:248][789]LogPlayLevel: [PlayLevel] Compiling AI_PC before play...
+[2022.06.17-10.28.58:392][789]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2022.06.17-10.28.58:396][789]LogPlayLevel: PlayLevel: Blueprint regeneration took 148 ms (1 blueprints)
+[2022.06.17-10.28.58:396][789]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 18, 2022, 12:28:58 AM)
+[2022.06.17-10.28.58:423][789]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.28.58:439][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016207s)
+[2022.06.17-10.28.58:441][789]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.28.58:441][789]LogPlayLevel: PIE: World Init took: (0.001698s)
+[2022.06.17-10.28.58:441][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018144s)
+[2022.06.17-10.28.58:513][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2022.06.17-10.28.58:515][789]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2022.06.17-10.28.58:515][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.28.58:515][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.28.58:515][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.28.58:515][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.28.58:515][789]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.28.58:516][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.28.58:516][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.28.58:516][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.28.58:516][789]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.28.58:516][789]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.28.58:521][789]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.28.58:521][789]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.28.58:534][789]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.28.58:535][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.28.58:535][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.28.58:535][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.28.58:535][789]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.28.58:535][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.28.58:536][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.28.58:551][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.28.58:551][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.28.58:551][789]LogInit: FAudioDevice initialized.
+[2022.06.17-10.28.58:551][789]LogAudio: Display: Audio Device (ID: 47) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.28.58:603][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.28.58:603][789]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.17-10.28.58:606][789]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.28.58:614][789]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.28.58:615][789]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.28.58
+[2022.06.17-10.28.58:616][789]LogWorld: Bringing up level for play took: 0.012025
+[2022.06.17-10.28.58:617][789]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2022.06.17-10.28.58:654][789]PIE: Server logged in
+[2022.06.17-10.28.58:656][789]PIE: Play in editor total start time 0.414 seconds.
+[2022.06.17-10.29.00:666][898]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.29.07:447][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.29.07:447][281]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.29.07:449][281]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.29.07:465][281]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.29.07:466][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.29.07:471][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.29.07:497][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.29.07:538][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.29.07:539][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.29.07:540][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.29.07:567][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.06.17-10.29.07:610][282]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2022.06.17-10.29.15:868][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.06.17-10.29.17:082][978]LogSlate: Window 'Save Content' being destroyed
+[2022.06.17-10.29.17:247][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/INGAME_GM" FILE="../../../../TAI/tai_BT_unreal/Content/Witget_in_game/INGAME_GM.uasset" SILENT=true
+[2022.06.17-10.29.17:250][978]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/INGAME_GM629346B341091C34D60C9387AE6F3570.tmp' to '../../../../TAI/tai_BT_unreal/Content/Witget_in_game/INGAME_GM.uasset'
+[2022.06.17-10.29.17:446][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/INGAME_PC" FILE="../../../../TAI/tai_BT_unreal/Content/Witget_in_game/INGAME_PC.uasset" SILENT=true
+[2022.06.17-10.29.17:451][978]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/INGAME_PC9E550F3B4FA284FA3B62C9B0C44D8928.tmp' to '../../../../TAI/tai_BT_unreal/Content/Witget_in_game/INGAME_PC.uasset'
+[2022.06.17-10.29.17:790][978]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.29.17:801][978]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.17-10.29.17:802][978]Cmd: MAP LOAD FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.17-10.29.17:802][978]LightingResults: New page: Lighting Build
+[2022.06.17-10.29.17:802][978]LoadErrors: New page: Loading map: Main_menu_level.umap
+[2022.06.17-10.29.17:835][978]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.29.17:836][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.29.17:836][978]MapCheck: New page: Map Check
+[2022.06.17-10.29.17:836][978]LightingResults: New page: Lighting Build
+[2022.06.17-10.29.17:887][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.29.17:902][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.06.17-10.29.17:905][978]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_menu_level'.
+[2022.06.17-10.29.17:943][978]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.29.17:954][978]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.17-10.29.17:955][978]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.29.18:017][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.06.17-10.29.18:031][978]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.17-10.29.18:032][978]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.479ms to complete.
+[2022.06.17-10.29.18:032][978]LogFileHelpers: Loading map 'Main_menu_level' took 0.231
+[2022.06.17-10.29.18:054][978]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Witget_in_game/INGAME_GM.
+[2022.06.17-10.29.18:056][978]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Witget_in_game/INGAME_PC.
+[2022.06.17-10.29.18:064][978]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-10.29.18:064][978]LogContentValidation: Display: Validating Blueprint /Game/Witget_in_game/INGAME_PC.INGAME_PC
+[2022.06.17-10.29.18:064][978]LogContentValidation: Display: Validating Blueprint /Game/Witget_in_game/INGAME_GM.INGAME_GM
+[2022.06.17-10.29.20:252][107]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.29.20:262][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.29.20:262][107]PIE: New page: PIE session: Main_menu_level (Jun 18, 2022, 12:29:20 AM)
+[2022.06.17-10.29.20:263][107]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.29.20:342][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079613s)
+[2022.06.17-10.29.20:344][107]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.29.20:344][107]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2022.06.17-10.29.20:344][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.081413s)
+[2022.06.17-10.29.20:390][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.06.17-10.29.20:398][107]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2022.06.17-10.29.20:398][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.29.20:398][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.29.20:398][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.29.20:398][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.29.20:398][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.29.20:398][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.29.20:398][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.29.20:398][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.29.20:399][107]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.29.20:399][107]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.29.20:404][107]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.29.20:404][107]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.29.20:415][107]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.29.20:415][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.29.20:415][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.29.20:415][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.29.20:416][107]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.29.20:416][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.29.20:416][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.29.20:431][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.29.20:431][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.29.20:431][107]LogInit: FAudioDevice initialized.
+[2022.06.17-10.29.20:431][107]LogAudio: Display: Audio Device (ID: 48) registered with world 'Main_menu_level'.
+[2022.06.17-10.29.20:478][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.29.20:479][107]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.17-10.29.20:522][107]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.29.20:528][107]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.17-17.29.20
+[2022.06.17-10.29.20:530][107]LogWorld: Bringing up level for play took: 0.049802
+[2022.06.17-10.29.20:530][107]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2022.06.17-10.29.20:535][107]LogBlueprintUserMessages: [Main_menu_UI_custom_C_0] Hello
+[2022.06.17-10.29.20:536][107]Cmd: r.ScreenPercentage 100
+[2022.06.17-10.29.20:536][107]r.ScreenPercentage = "100"
+[2022.06.17-10.29.20:536][107]Cmd: r.PostProcessAAQuality 6
+[2022.06.17-10.29.20:536][107]r.PostProcessAAQuality = "6"
+[2022.06.17-10.29.20:536][107]Cmd: sg.PostProcessQuality 3
+[2022.06.17-10.29.20:536][107]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/TAI/tai_BT_unreal/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-10.29.20:536][107]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.17-10.29.20:536][107]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.17-10.29.20:536][107]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.17-10.29.20:536][107]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.17-10.29.20:537][107]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.17-10.29.20:538][107]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.17-10.29.20:538][107]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.17-10.29.20:538][107]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.17-10.29.20:538][107]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.17-10.29.20:538][107]sg.PostProcessQuality = "3"
+[2022.06.17-10.29.20:541][107]PIE: Server logged in
+[2022.06.17-10.29.20:543][107]PIE: Play in editor total start time 0.283 seconds.
+[2022.06.17-10.29.22:594][192]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.29.28:973][364]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.29.28:973][364]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.29.28:973][364]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.29.28:974][364]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.29.28:979][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.29.29:046][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.29.29:063][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.06.17-10.29.29:089][364]LogAudio: Display: Audio Device (ID: 48) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.29.29:090][364]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.29.29:090][364]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.17-10.29.29:099][364]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.29.29:105][364]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.29.29:108][364]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.29.29
+[2022.06.17-10.29.29:109][364]LogWorld: Bringing up level for play took: 0.016635
+[2022.06.17-10.29.29:112][364]LogLoad: Took 0.139406 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.06.17-10.29.31:302][483]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.29.31:303][483]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.29.36:386][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.29.36:386][740]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.29.36:389][740]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.29.36:414][740]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.29.36:415][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.29.36:426][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.29.36:434][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.29.36:477][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.29.36:478][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.29.36:501][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.06.17-10.29.36:525][741]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2022.06.17-10.30.22:935][225]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.06.17-10.30.22:954][225]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.06.17-10.30.33:673][916]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> AI_UI
+[2022.06.17-10.30.33:788][916]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Witget_in_game/AI_UI.
+[2022.06.17-10.30.33:789][916]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.06.17-10.30.34:462][957]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Witget_in_game/AI_UI.AI_UI
+[2022.06.17-10.31.27:144][243]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.17-10.31.42:680][543]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/character/AI_MurielPlayerCharacter.AI_MurielPlayerCharacter
+[2022.06.17-10.31.43:058][543]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.31.48:762][868]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.31.48:766][868]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.31.53:805][152]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.18:260][819]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.18:262][819]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.18:281][819]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.21:791][926]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.17-10.32.22:821][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.22:824][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.22:853][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.26:230][134]BlueprintLog: New page: Compile AI_MurielPlayerCharacter
+[2022.06.17-10.32.26:246][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.26:248][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.26:249][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.26:250][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.26:341][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.06.17-10.32.26:350][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.26:351][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.26:352][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.26:377][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.26:378][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.26:430][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.27:353][168]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.32.27:362][168]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.17-10.32.27:363][168]LogPlayLevel: [PlayLevel] Compiling AI_UI before play...
+[2022.06.17-10.32.27:510][168]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.06.17-10.32.27:511][168]LogPlayLevel: PlayLevel: Blueprint regeneration took 149 ms (1 blueprints)
+[2022.06.17-10.32.27:511][168]PIE: New page: PIE session: Main_menu_level (Jun 18, 2022, 12:32:27 AM)
+[2022.06.17-10.32.27:511][168]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.32.27:585][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073205s)
+[2022.06.17-10.32.27:586][168]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.32.27:587][168]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2022.06.17-10.32.27:587][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.075101s)
+[2022.06.17-10.32.27:638][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.06.17-10.32.27:639][168]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2022.06.17-10.32.27:639][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.32.27:639][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.32.27:639][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.32.27:639][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.32.27:639][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.32.27:639][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.32.27:639][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.32.27:639][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.32.27:640][168]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.32.27:640][168]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.32.27:645][168]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.32.27:645][168]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.32.27:658][168]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.32.27:659][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.32.27:659][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.32.27:659][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.32.27:659][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.32.27:659][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.32.27:659][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.32.27:675][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.32.27:675][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.32.27:675][168]LogInit: FAudioDevice initialized.
+[2022.06.17-10.32.27:675][168]LogAudio: Display: Audio Device (ID: 49) registered with world 'Main_menu_level'.
+[2022.06.17-10.32.27:732][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.32.27:732][168]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.17-10.32.27:778][168]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.32.27:783][168]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.17-17.32.27
+[2022.06.17-10.32.27:785][168]LogWorld: Bringing up level for play took: 0.050952
+[2022.06.17-10.32.27:785][168]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2022.06.17-10.32.27:790][168]LogBlueprintUserMessages: [Main_menu_UI_custom_C_0] Hello
+[2022.06.17-10.32.27:790][168]Cmd: r.ScreenPercentage 100
+[2022.06.17-10.32.27:790][168]r.ScreenPercentage = "100"
+[2022.06.17-10.32.27:790][168]Cmd: r.PostProcessAAQuality 6
+[2022.06.17-10.32.27:790][168]r.PostProcessAAQuality = "6"
+[2022.06.17-10.32.27:790][168]Cmd: sg.PostProcessQuality 3
+[2022.06.17-10.32.27:791][168]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/TAI/tai_BT_unreal/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-10.32.27:791][168]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.17-10.32.27:792][168]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.17-10.32.27:792][168]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.17-10.32.27:792][168]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.17-10.32.27:792][168]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.17-10.32.27:792][168]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.17-10.32.27:792][168]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.17-10.32.27:792][168]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.17-10.32.27:792][168]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.17-10.32.27:792][168]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.17-10.32.27:792][168]sg.PostProcessQuality = "3"
+[2022.06.17-10.32.27:795][168]PIE: Server logged in
+[2022.06.17-10.32.27:798][168]PIE: Play in editor total start time 0.439 seconds.
+[2022.06.17-10.32.29:846][250]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.32.30:641][274]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.32.30:641][274]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.32.30:641][274]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.32.30:643][274]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.32.30:648][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.32.30:739][274]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.32.30:750][274]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.06.17-10.32.30:773][274]LogAudio: Display: Audio Device (ID: 49) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.32.30:775][274]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.32.30:775][274]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.17-10.32.30:790][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.32.30:797][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.32.30:800][274]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.32.30
+[2022.06.17-10.32.30:802][274]LogWorld: Bringing up level for play took: 0.026068
+[2022.06.17-10.32.30:805][274]LogLoad: Took 0.164851 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.06.17-10.32.32:971][387]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.32.36:618][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.32.36:618][578]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.32.36:619][578]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.32.36:638][578]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.32.36:639][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.32.36:650][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.32.36:658][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.32.36:710][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.32.36:711][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.32.36:737][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.06.17-10.32.36:762][579]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2022.06.17-10.32.57:762][894]BlueprintLog: New page: Compile AI_UI
+[2022.06.17-10.32.57:861][894]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2022.06.17-10.32.59:009][954]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.32.59:020][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.32.59:020][954]PIE: New page: PIE session: Main_menu_level (Jun 18, 2022, 12:32:59 AM)
+[2022.06.17-10.32.59:043][954]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.32.59:118][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075218s)
+[2022.06.17-10.32.59:119][954]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.32.59:120][954]LogPlayLevel: PIE: World Init took: (0.001532s)
+[2022.06.17-10.32.59:120][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.077203s)
+[2022.06.17-10.32.59:175][954]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2022.06.17-10.32.59:176][954]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2022.06.17-10.32.59:176][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.32.59:176][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.32.59:176][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.32.59:176][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.32.59:176][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.32.59:176][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.32.59:176][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.32.59:176][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.32.59:177][954]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.32.59:177][954]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.32.59:181][954]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.32.59:181][954]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.32.59:194][954]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.32.59:195][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.32.59:195][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.32.59:195][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.32.59:195][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.32.59:195][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.32.59:195][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.32.59:210][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.32.59:210][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.32.59:210][954]LogInit: FAudioDevice initialized.
+[2022.06.17-10.32.59:210][954]LogAudio: Display: Audio Device (ID: 50) registered with world 'Main_menu_level'.
+[2022.06.17-10.32.59:259][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.32.59:259][954]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.17-10.32.59:307][954]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.32.59:313][954]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.17-17.32.59
+[2022.06.17-10.32.59:315][954]LogWorld: Bringing up level for play took: 0.054149
+[2022.06.17-10.32.59:315][954]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2022.06.17-10.32.59:321][954]LogBlueprintUserMessages: [Main_menu_UI_custom_C_0] Hello
+[2022.06.17-10.32.59:321][954]Cmd: r.ScreenPercentage 100
+[2022.06.17-10.32.59:321][954]r.ScreenPercentage = "100"
+[2022.06.17-10.32.59:321][954]Cmd: r.PostProcessAAQuality 6
+[2022.06.17-10.32.59:321][954]r.PostProcessAAQuality = "6"
+[2022.06.17-10.32.59:321][954]Cmd: sg.PostProcessQuality 3
+[2022.06.17-10.32.59:321][954]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/TAI/tai_BT_unreal/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-10.32.59:321][954]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.17-10.32.59:322][954]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.17-10.32.59:322][954]sg.PostProcessQuality = "3"
+[2022.06.17-10.32.59:325][954]PIE: Server logged in
+[2022.06.17-10.32.59:326][954]PIE: Play in editor total start time 0.311 seconds.
+[2022.06.17-10.33.01:368][ 33]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.33.01:523][ 38]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.33.01:523][ 38]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.33.01:523][ 38]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.33.01:525][ 38]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.33.01:529][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.33.01:606][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.33.01:617][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.06.17-10.33.01:634][ 38]LogAudio: Display: Audio Device (ID: 50) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.33.01:635][ 38]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.33.01:636][ 38]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.17-10.33.01:646][ 38]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.33.01:651][ 38]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.33.01:654][ 38]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.33.01
+[2022.06.17-10.33.01:654][ 38]LogWorld: Bringing up level for play took: 0.017925
+[2022.06.17-10.33.01:658][ 38]LogLoad: Took 0.135393 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.06.17-10.33.03:857][152]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.33.03:857][152]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.33.11:117][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.33.11:117][539]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.33.11:119][539]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.33.11:157][539]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.33.11:158][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.33.11:169][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.33.11:178][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.33.11:229][539]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.33.11:229][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.33.11:230][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.33.11:255][539]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.06.17-10.33.11:284][540]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2022.06.17-10.33.21:364][120]BlueprintLog: New page: Compile AI_UI
+[2022.06.17-10.33.21:442][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.06.17-10.39.53:669][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2022.06.17-10.39.53:675][ 76]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_menu/Main_menu_level' took 0.069
+[2022.06.17-10.39.53:676][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/character/AI_MurielPlayerCharacter] ([1] browsable assets)...
+[2022.06.17-10.39.53:872][ 76]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/character/AI_MurielPlayerCharacter.AI_MurielPlayerCharacter]
+[2022.06.17-10.39.53:872][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/character/AI_MurielPlayerCharacter]
+[2022.06.17-10.39.53:934][ 76]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_MurielPlayerCharacter_Auto594C10B2748DCB312837972B51F5F30B0.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/AI/character/AI_MurielPlayerCharacter_Auto5.uasset'
+[2022.06.17-10.39.53:935][ 76]LogFileHelpers: Auto-saving content packages took 0.260
+[2022.06.17-10.42.31:222][550]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.42.31:234][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.42.31:234][550]PIE: New page: PIE session: Main_menu_level (Jun 18, 2022, 12:42:31 AM)
+[2022.06.17-10.42.31:234][550]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.42.31:319][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085394s)
+[2022.06.17-10.42.31:320][550]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.42.31:321][550]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2022.06.17-10.42.31:321][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.087308s)
+[2022.06.17-10.42.31:380][550]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.06.17-10.42.31:381][550]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2022.06.17-10.42.31:381][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.42.31:381][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.42.31:381][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.42.31:381][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.42.31:381][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.42.31:381][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.42.31:381][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.42.31:381][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.42.31:382][550]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.42.31:382][550]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.42.31:387][550]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.42.31:387][550]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.42.31:402][550]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.42.31:402][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.42.31:402][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.42.31:403][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.42.31:403][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.42.31:403][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.42.31:403][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.42.31:420][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.42.31:420][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.42.31:420][550]LogInit: FAudioDevice initialized.
+[2022.06.17-10.42.31:420][550]LogAudio: Display: Audio Device (ID: 51) registered with world 'Main_menu_level'.
+[2022.06.17-10.42.31:479][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.42.31:480][550]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.17-10.42.31:521][550]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.42.31:527][550]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.17-17.42.31
+[2022.06.17-10.42.31:528][550]LogWorld: Bringing up level for play took: 0.046891
+[2022.06.17-10.42.31:528][550]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2022.06.17-10.42.31:533][550]LogBlueprintUserMessages: [Main_menu_UI_custom_C_0] Hello
+[2022.06.17-10.42.31:534][550]Cmd: r.ScreenPercentage 100
+[2022.06.17-10.42.31:534][550]r.ScreenPercentage = "100"
+[2022.06.17-10.42.31:534][550]Cmd: r.PostProcessAAQuality 6
+[2022.06.17-10.42.31:534][550]r.PostProcessAAQuality = "6"
+[2022.06.17-10.42.31:534][550]Cmd: sg.PostProcessQuality 3
+[2022.06.17-10.42.31:534][550]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/TAI/tai_BT_unreal/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-10.42.31:534][550]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.17-10.42.31:534][550]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.17-10.42.31:534][550]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.17-10.42.31:534][550]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-10.42.31:534][550]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.17-10.42.31:534][550]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.17-10.42.31:534][550]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.17-10.42.31:535][550]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.17-10.42.31:536][550]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.17-10.42.31:536][550]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.17-10.42.31:536][550]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.17-10.42.31:536][550]sg.PostProcessQuality = "3"
+[2022.06.17-10.42.31:538][550]PIE: Server logged in
+[2022.06.17-10.42.31:542][550]PIE: Play in editor total start time 0.312 seconds.
+[2022.06.17-10.42.33:733][611]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.42.34:306][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.42.34:311][629]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.42.34:311][629]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.42.34:406][629]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.42.34:412][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.42.34:419][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.42.34:430][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.42.34:487][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.42.34:489][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.42.34:519][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.06.17-10.42.34:552][630]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2022.06.17-10.42.52:711][616]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_menu/Main_menu_UI_custom.Main_menu_UI_custom
+[2022.06.17-10.43.02:132][107]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.17-10.43.02:218][107]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2022.06.17-10.43.03:055][147]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.43.03:064][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.43.03:064][147]PIE: New page: PIE session: Main_menu_level (Jun 18, 2022, 12:43:03 AM)
+[2022.06.17-10.43.03:064][147]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.43.03:146][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081919s)
+[2022.06.17-10.43.03:148][147]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.43.03:149][147]LogPlayLevel: PIE: World Init took: (0.002428s)
+[2022.06.17-10.43.03:149][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.084992s)
+[2022.06.17-10.43.03:211][147]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2022.06.17-10.43.03:211][147]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2022.06.17-10.43.03:211][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.43.03:211][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.43.03:212][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.43.03:212][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.43.03:212][147]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.43.03:212][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.43.03:212][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.43.03:212][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.43.03:212][147]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.43.03:212][147]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.43.03:218][147]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.43.03:218][147]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.43.03:232][147]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.43.03:232][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.43.03:232][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.43.03:232][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.43.03:233][147]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.43.03:233][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.43.03:233][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.43.03:249][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.43.03:249][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.43.03:249][147]LogInit: FAudioDevice initialized.
+[2022.06.17-10.43.03:249][147]LogAudio: Display: Audio Device (ID: 52) registered with world 'Main_menu_level'.
+[2022.06.17-10.43.03:305][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.43.03:305][147]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.17-10.43.03:357][147]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.43.03:365][147]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.17-17.43.03
+[2022.06.17-10.43.03:367][147]LogWorld: Bringing up level for play took: 0.060496
+[2022.06.17-10.43.03:367][147]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2022.06.17-10.43.03:375][147]Cmd: r.ScreenPercentage 100
+[2022.06.17-10.43.03:375][147]r.ScreenPercentage = "100"
+[2022.06.17-10.43.03:375][147]Cmd: r.PostProcessAAQuality 6
+[2022.06.17-10.43.03:375][147]r.PostProcessAAQuality = "6"
+[2022.06.17-10.43.03:375][147]Cmd: sg.PostProcessQuality 3
+[2022.06.17-10.43.03:375][147]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/TAI/tai_BT_unreal/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-10.43.03:375][147]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.17-10.43.03:375][147]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.17-10.43.03:375][147]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.17-10.43.03:375][147]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-10.43.03:375][147]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.17-10.43.03:376][147]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.17-10.43.03:377][147]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.17-10.43.03:377][147]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.17-10.43.03:377][147]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.17-10.43.03:377][147]sg.PostProcessQuality = "3"
+[2022.06.17-10.43.03:383][147]PIE: Server logged in
+[2022.06.17-10.43.03:390][147]PIE: Play in editor total start time 0.33 seconds.
+[2022.06.17-10.43.05:427][227]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.43.06:419][257]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.43.06:419][257]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.43.06:419][257]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.43.06:420][257]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.43.06:426][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.43.06:548][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.43.06:568][257]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2022.06.17-10.43.06:594][257]LogAudio: Display: Audio Device (ID: 52) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.43.06:595][257]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.43.06:596][257]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.17-10.43.06:613][257]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.43.06:620][257]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.43.06:623][257]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.43.06
+[2022.06.17-10.43.06:624][257]LogWorld: Bringing up level for play took: 0.027671
+[2022.06.17-10.43.06:630][257]LogLoad: Took 0.210732 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.06.17-10.43.08:750][366]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.43.13:108][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.43.13:109][586]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.43.13:110][586]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.43.13:141][586]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.43.13:142][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.43.13:152][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.43.13:161][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.43.13:218][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.43.13:219][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.43.13:248][586]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.06.17-10.43.13:276][587]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2022.06.17-10.43.47:348][346]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.06.17-10.50.07:203][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.06.17-10.50.07:209][ 61]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_menu/Main_menu_level' took 0.074
+[2022.06.17-10.50.07:210][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main_menu/Main_menu_UI_custom] ([1] browsable assets)...
+[2022.06.17-10.50.07:210][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main_menu/Main_menu_UI_custom]
+[2022.06.17-10.50.07:210][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_UI_custom" FILE="../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/Main_menu/Main_menu_UI_custom_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.06.17-10.50.07:303][ 61]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_UI_custom_Auto6AED0244943205A2AB2B6FE9F49B09F27.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/Main_menu/Main_menu_UI_custom_Auto6.uasset'
+[2022.06.17-10.50.07:304][ 61]LogFileHelpers: Auto-saving content packages took 0.095
+[2022.06.17-10.51.10:365][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_UI_custom" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_UI_custom.uasset" SILENT=true
+[2022.06.17-10.51.10:442][545]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_UI_custom1A2B9F594A4EB8963166C19DC25E4D27.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_UI_custom.uasset'
+[2022.06.17-10.51.10:463][545]AssetCheck: New page: Asset Save: Main_menu_UI_custom
+[2022.06.17-10.51.10:463][545]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_menu/Main_menu_UI_custom.Main_menu_UI_custom
+[2022.06.17-10.51.11:829][597]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.51.11:840][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.51.11:840][597]PIE: New page: PIE session: Main_menu_level (Jun 18, 2022, 12:51:11 AM)
+[2022.06.17-10.51.11:841][597]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.51.11:928][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088345s)
+[2022.06.17-10.51.11:929][597]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.51.11:930][597]LogPlayLevel: PIE: World Init took: (0.001683s)
+[2022.06.17-10.51.11:930][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.090431s)
+[2022.06.17-10.51.11:992][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.06.17-10.51.11:994][597]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2022.06.17-10.51.11:994][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.51.11:994][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.51.11:994][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.51.11:994][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.51.11:994][597]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.51.11:994][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.51.11:994][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.51.11:994][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.51.11:995][597]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.51.11:995][597]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.51.12:000][597]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.51.12:000][597]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.51.12:011][597]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.51.12:011][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.51.12:011][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.51.12:011][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.51.12:014][597]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.51.12:014][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.51.12:014][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.51.12:030][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.51.12:030][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.51.12:030][597]LogInit: FAudioDevice initialized.
+[2022.06.17-10.51.12:030][597]LogAudio: Display: Audio Device (ID: 53) registered with world 'Main_menu_level'.
+[2022.06.17-10.51.12:082][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.51.12:082][597]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.17-10.51.12:126][597]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.51.12:132][597]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.17-17.51.12
+[2022.06.17-10.51.12:136][597]LogWorld: Bringing up level for play took: 0.052765
+[2022.06.17-10.51.12:136][597]LogOnline: OSS: Creating online subsystem instance for: :Context_107
+[2022.06.17-10.51.12:142][597]Cmd: r.ScreenPercentage 100
+[2022.06.17-10.51.12:142][597]r.ScreenPercentage = "100"
+[2022.06.17-10.51.12:143][597]Cmd: r.PostProcessAAQuality 6
+[2022.06.17-10.51.12:143][597]r.PostProcessAAQuality = "6"
+[2022.06.17-10.51.12:143][597]Cmd: sg.PostProcessQuality 3
+[2022.06.17-10.51.12:143][597]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/TAI/tai_BT_unreal/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-10.51.12:143][597]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.17-10.51.12:143][597]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.17-10.51.12:143][597]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.17-10.51.12:143][597]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-10.51.12:143][597]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.17-10.51.12:143][597]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.17-10.51.12:143][597]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.17-10.51.12:143][597]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.17-10.51.12:144][597]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.17-10.51.12:145][597]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.17-10.51.12:145][597]sg.PostProcessQuality = "3"
+[2022.06.17-10.51.12:151][597]PIE: Server logged in
+[2022.06.17-10.51.12:155][597]PIE: Play in editor total start time 0.318 seconds.
+[2022.06.17-10.51.14:188][675]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.51.21:130][868]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.51.21:130][868]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.51.21:130][868]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.51.21:131][868]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.51.21:137][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.51.21:243][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.51.21:253][868]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.06.17-10.51.21:273][868]LogAudio: Display: Audio Device (ID: 53) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.51.21:274][868]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.51.21:275][868]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.17-10.51.21:296][868]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.51.21:302][868]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.51.21:305][868]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.51.21
+[2022.06.17-10.51.21:306][868]LogWorld: Bringing up level for play took: 0.030851
+[2022.06.17-10.51.21:311][868]LogLoad: Took 0.180743 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.06.17-10.51.23:658][904]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.51.23:658][904]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.51.47:899][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.51.47:899][ 68]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.51.47:901][ 68]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.51.47:921][ 68]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.51.47:922][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.51.47:943][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.51.47:955][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.51.48:013][ 68]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.51.48:014][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.51.48:015][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.51.48:038][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.06.17-10.51.48:192][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2022.06.17-10.55.42:511][296]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.06.17-10.55.47:499][352]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.17-10.55.47:583][352]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2022.06.17-10.55.49:693][472]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.55.49:702][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.55.49:702][472]PIE: New page: PIE session: Main_menu_level (Jun 18, 2022, 12:55:49 AM)
+[2022.06.17-10.55.49:702][472]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.55.49:782][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079232s)
+[2022.06.17-10.55.49:783][472]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.55.49:783][472]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2022.06.17-10.55.49:784][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.081249s)
+[2022.06.17-10.55.49:844][472]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2022.06.17-10.55.49:844][472]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2022.06.17-10.55.49:844][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.55.49:845][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.55.49:845][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.55.49:845][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.55.49:845][472]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.55.49:845][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.55.49:845][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.55.49:845][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.55.49:846][472]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.55.49:846][472]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.55.49:850][472]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.55.49:850][472]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.55.49:860][472]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.55.49:862][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.55.49:862][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.55.49:862][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.55.49:862][472]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.55.49:862][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.55.49:862][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.55.49:879][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.55.49:879][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.55.49:879][472]LogInit: FAudioDevice initialized.
+[2022.06.17-10.55.49:879][472]LogAudio: Display: Audio Device (ID: 54) registered with world 'Main_menu_level'.
+[2022.06.17-10.55.49:910][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.55.49:911][472]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.17-10.55.49:951][472]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.55.49:956][472]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.17-17.55.49
+[2022.06.17-10.55.49:958][472]LogWorld: Bringing up level for play took: 0.046441
+[2022.06.17-10.55.49:958][472]LogOnline: OSS: Creating online subsystem instance for: :Context_108
+[2022.06.17-10.55.49:963][472]Cmd: r.ScreenPercentage 100
+[2022.06.17-10.55.49:963][472]r.ScreenPercentage = "100"
+[2022.06.17-10.55.49:963][472]Cmd: r.PostProcessAAQuality 6
+[2022.06.17-10.55.49:963][472]r.PostProcessAAQuality = "6"
+[2022.06.17-10.55.49:963][472]Cmd: sg.PostProcessQuality 3
+[2022.06.17-10.55.49:964][472]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/TAI/tai_BT_unreal/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.17-10.55.49:964][472]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.17-10.55.49:965][472]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.17-10.55.49:965][472]sg.PostProcessQuality = "3"
+[2022.06.17-10.55.49:974][472]PIE: Server logged in
+[2022.06.17-10.55.49:981][472]PIE: Play in editor total start time 0.282 seconds.
+[2022.06.17-10.55.52:058][553]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.55.53:190][588]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.55.53:190][588]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.55.53:190][588]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.55.53:192][588]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.55.53:196][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.55.53:281][588]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.55.53:295][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.06.17-10.55.53:312][588]LogAudio: Display: Audio Device (ID: 54) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.55.53:314][588]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.55.53:314][588]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.17-10.55.53:324][588]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.55.53:329][588]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.55.53:331][588]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.55.53
+[2022.06.17-10.55.53:333][588]LogWorld: Bringing up level for play took: 0.017936
+[2022.06.17-10.55.53:337][588]LogLoad: Took 0.147527 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.06.17-10.55.55:519][705]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.55.55:520][705]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.55.58:838][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.55.58:838][861]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.55.58:839][861]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.55.58:876][861]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.55.58:877][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.55.58:884][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.55.58:895][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.55.58:949][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.55.58:950][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.55.58:952][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.55.58:976][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.06.17-10.55.59:005][862]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2022.06.17-10.57.00:836][562]LogEditorTransaction: Undo Move Anchor
+[2022.06.17-10.57.07:118][970]LogEditorTransaction: Undo Move Anchor
+[2022.06.17-10.57.23:558][235]BlueprintLog: New page: Compile INGAME_UI
+[2022.06.17-10.57.23:626][235]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2022.06.17-10.57.24:983][313]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.17-10.57.24:992][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-10.57.24:992][313]PIE: New page: PIE session: Main_menu_level (Jun 18, 2022, 12:57:24 AM)
+[2022.06.17-10.57.24:993][313]LogPlayLevel: Creating play world package: /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.57.25:068][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075759s)
+[2022.06.17-10.57.25:069][313]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.06.17-10.57.25:070][313]LogPlayLevel: PIE: World Init took: (0.001633s)
+[2022.06.17-10.57.25:070][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_menu/Main_menu_level.Main_menu_level to /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level (0.077702s)
+[2022.06.17-10.57.25:127][313]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2022.06.17-10.57.25:128][313]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2022.06.17-10.57.25:128][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-10.57.25:128][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-10.57.25:128][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-10.57.25:128][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-10.57.25:128][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-10.57.25:128][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-10.57.25:128][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-10.57.25:129][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-10.57.25:129][313]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.17-10.57.25:129][313]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-10.57.25:134][313]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-10.57.25:134][313]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-10.57.25:146][313]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.17-10.57.25:146][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-10.57.25:146][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-10.57.25:146][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-10.57.25:147][313]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-10.57.25:147][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-10.57.25:147][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-10.57.25:163][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-10.57.25:163][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-10.57.25:163][313]LogInit: FAudioDevice initialized.
+[2022.06.17-10.57.25:163][313]LogAudio: Display: Audio Device (ID: 55) registered with world 'Main_menu_level'.
+[2022.06.17-10.57.25:220][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-10.57.25:221][313]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.06.17-10.57.25:262][313]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.57.25:267][313]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.06.17-17.57.25
+[2022.06.17-10.57.25:268][313]LogWorld: Bringing up level for play took: 0.047669
+[2022.06.17-10.57.25:269][313]LogOnline: OSS: Creating online subsystem instance for: :Context_109
+[2022.06.17-10.57.25:273][313]Cmd: r.ScreenPercentage 100
+[2022.06.17-10.57.25:273][313]r.ScreenPercentage = "100"
+[2022.06.17-10.57.25:273][313]Cmd: r.PostProcessAAQuality 6
+[2022.06.17-10.57.25:274][313]r.PostProcessAAQuality = "6"
+[2022.06.17-10.57.25:274][313]Cmd: sg.PostProcessQuality 3
+[2022.06.17-10.57.25:274][313]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/TAI/tai_BT_unreal/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.17-10.57.25:274][313]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.17-10.57.25:275][313]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.17-10.57.25:275][313]sg.PostProcessQuality = "3"
+[2022.06.17-10.57.25:278][313]PIE: Server logged in
+[2022.06.17-10.57.25:282][313]PIE: Play in editor total start time 0.293 seconds.
+[2022.06.17-10.57.27:327][393]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.57.28:336][424]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.57.28:336][424]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.06.17-10.57.28:336][424]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.06.17-10.57.28:338][424]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.28:344][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.28:439][424]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-10.57.28:457][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.06.17-10.57.28:475][424]LogAudio: Display: Audio Device (ID: 55) registered with world 'ThirdPersonExampleMap'.
+[2022.06.17-10.57.28:476][424]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.17-10.57.28:477][424]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.17-10.57.28:488][424]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.17-10.57.28:493][424]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.17-10.57.28:496][424]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.17-17.57.28
+[2022.06.17-10.57.28:497][424]LogWorld: Bringing up level for play took: 0.019968
+[2022.06.17-10.57.28:501][424]LogLoad: Took 0.165682 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.06.17-10.57.30:657][544]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.57.30:658][544]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.17-10.57.38:720][792]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.17-10.57.38:779][792]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.17-10.57.38:779][792]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.38:780][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.38:787][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-10.57.38:797][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.38:853][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.57.38:855][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-10.57.38:879][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.06.17-10.57.38:907][793]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2022.06.17-10.57.44:343][100]LogSlate: Window 'Main_menu_UI_custom' being destroyed
+[2022.06.17-10.57.44:350][100]LogSlate: Window 'Main_menu_UI_custom' being destroyed
+[2022.06.17-10.57.44:372][100]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.44:372][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.44:522][100]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.44:522][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.44:533][100]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.44:533][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.44:667][100]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.44:667][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.44:739][100]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.44:739][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.44:750][100]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.44:750][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.44:828][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.17-10.57.44:828][100]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.44:828][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.44:905][100]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.44:905][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.44:918][100]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-10.57.44:918][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-10.57.46:664][202]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.06.17-10.57.47:736][202]LogSlate: Window 'Save Content' being destroyed
+[2022.06.17-10.57.47:982][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/character/AI_MurielPlayerCharacter" FILE="../../../../TAI/tai_BT_unreal/Content/AI/character/AI_MurielPlayerCharacter.uasset" SILENT=true
+[2022.06.17-10.57.48:020][202]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_MurielPlayerCharacterFA347D084EAA44EFCC63178940597E6C.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/character/AI_MurielPlayerCharacter.uasset'
+[2022.06.17-10.57.48:021][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/AI_UI" FILE="../../../../TAI/tai_BT_unreal/Content/Witget_in_game/AI_UI.uasset" SILENT=true
+[2022.06.17-10.57.48:025][202]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_UI333F39B646226CF7BBC732BA100CF031.tmp' to '../../../../TAI/tai_BT_unreal/Content/Witget_in_game/AI_UI.uasset'
+[2022.06.17-10.57.48:207][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/INGAME_UI" FILE="../../../../TAI/tai_BT_unreal/Content/Witget_in_game/INGAME_UI.uasset" SILENT=true
+[2022.06.17-10.57.48:212][202]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/INGAME_UIF525D0E84462D768C34FCCB16E2D2CC9.tmp' to '../../../../TAI/tai_BT_unreal/Content/Witget_in_game/INGAME_UI.uasset'
+[2022.06.17-10.57.48:213][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_UI_custom" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_UI_custom.uasset" SILENT=true
+[2022.06.17-10.57.48:294][202]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_UI_custom5DDA074843DC3BBB00B92C8C9C06A51F.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_UI_custom.uasset'
+[2022.06.17-10.57.48:304][202]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Witget_in_game/AI_UI.
+[2022.06.17-10.57.48:312][202]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-10.57.48:312][202]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_menu/Main_menu_UI_custom.Main_menu_UI_custom
+[2022.06.17-10.57.48:313][202]LogContentValidation: Display: Validating Blueprint /Game/AI/character/AI_MurielPlayerCharacter.AI_MurielPlayerCharacter
+[2022.06.17-10.57.48:313][202]LogContentValidation: Display: Validating WidgetBlueprint /Game/Witget_in_game/INGAME_UI.INGAME_UI
+[2022.06.17-10.57.48:314][202]LogContentValidation: Display: Validating WidgetBlueprint /Game/Witget_in_game/AI_UI.AI_UI
+[2022.06.17-10.57.48:931][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.17-10.57.49:025][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.06.17-10.57.49:351][236]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level07FB2D5A4E9BFAC485DBEC9225BF898C.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.17-10.57.49:470][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level_BuiltData" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level_BuiltData.uasset" SILENT=true
+[2022.06.17-10.57.52:002][236]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level_BuiltDataCA35630E48574DA88512998063297539.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level_BuiltData.uasset'
+[2022.06.17-10.57.52:064][236]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-10.57.52:064][236]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.17-10.57.52:064][236]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_menu/Main_menu_level_BuiltData.Main_menu_level_BuiltData
+[2022.06.17-11.01.02:654][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.06.17-11.01.04:214][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.17-11.01.04:244][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.06.17-11.01.04:600][877]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_levelC060530C4C933D92306729ADE6226D75.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level.umap'
+[2022.06.17-11.01.05:132][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_menu/Main_menu_level_BuiltData" FILE="../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level_BuiltData.uasset" SILENT=true
+[2022.06.17-11.01.06:819][877]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Main_menu_level_BuiltDataD27D7EC14A6579B982A81397097101A1.tmp' to '../../../../TAI/tai_BT_unreal/Content/Main_menu/Main_menu_level_BuiltData.uasset'
+[2022.06.17-11.01.06:856][877]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-11.01.06:856][877]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.06.17-11.01.06:856][877]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_menu/Main_menu_level_BuiltData.Main_menu_level_BuiltData
