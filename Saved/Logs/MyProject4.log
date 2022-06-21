@@ -1682,3 +1682,27 @@ Script call stack:
 [2022.06.21-03.30.52:994][ 59]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.21-03.30.52:994][ 59]LogContentValidation: Display: Validating World /Game/Level_0/level_0.level_0
 [2022.06.21-03.30.52:995][ 59]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_0/level_0_BuiltData.level_0_BuiltData
+[2022.06.21-03.32.53:276][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.06.21-03.32.54:493][904]LogSlate: Window 'Save Content' being destroyed
+[2022.06.21-03.32.54:581][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/AI_target_UI" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Witget_in_game/AI_target_UI.uasset" SILENT=true
+[2022.06.21-03.32.54:586][904]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/AI_target_UI16E5FAB041C03EDB914D789F1965E98F.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Witget_in_game/AI_target_UI.uasset'
+[2022.06.21-03.32.54:586][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/avata" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Witget_in_game/avata.uasset" SILENT=true
+[2022.06.21-03.32.55:225][904]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/avataF9497901485D59199BAEC2AD29666771.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Witget_in_game/avata.uasset'
+[2022.06.21-03.32.55:226][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/health-bar" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Witget_in_game/health-bar.uasset" SILENT=true
+[2022.06.21-03.32.55:235][904]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/health-bar7BC5B246481268E9059A52B97C792B87.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Witget_in_game/health-bar.uasset'
+[2022.06.21-03.32.55:236][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/INGAME_UI" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Witget_in_game/INGAME_UI.uasset" SILENT=true
+[2022.06.21-03.32.55:241][904]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/INGAME_UIE474AEB449C4B1054FBC819FC9088737.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Witget_in_game/INGAME_UI.uasset'
+[2022.06.21-03.32.55:316][904]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.21-03.32.55:316][904]LogContentValidation: Display: Validating WidgetBlueprint /Game/Witget_in_game/AI_target_UI.AI_target_UI
+[2022.06.21-03.32.55:316][904]LogContentValidation: Display: Validating Texture2D /Game/Witget_in_game/avata.avata
+[2022.06.21-03.32.55:316][904]LogContentValidation: Display: Validating Texture2D /Game/Witget_in_game/health-bar.health-bar
+[2022.06.21-03.32.55:316][904]LogContentValidation: Display: Validating WidgetBlueprint /Game/Witget_in_game/INGAME_UI.INGAME_UI
+[2022.06.21-03.32.55:817][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0/level_0" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Level_0/level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.21-03.32.55:851][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.21-03.32.55:866][937]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/level_0C478E6FB44AD29E4B553E59C54A4ED98.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Level_0/level_0.umap'
+[2022.06.21-03.32.55:945][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0/level_0_BuiltData" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/Level_0/level_0_BuiltData.uasset" SILENT=true
+[2022.06.21-03.32.56:006][937]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/level_0_BuiltData5E6671C2444631C9CC041083195A33E1.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/Level_0/level_0_BuiltData.uasset'
+[2022.06.21-03.32.56:017][937]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.21-03.32.56:017][937]LogContentValidation: Display: Validating World /Game/Level_0/level_0.level_0
+[2022.06.21-03.32.56:017][937]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_0/level_0_BuiltData.level_0_BuiltData
+[2022.06.21-03.32.56:903][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
