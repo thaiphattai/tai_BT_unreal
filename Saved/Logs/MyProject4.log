@@ -13457,3 +13457,1217 @@ Script call stack:
 	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
 	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
 
+[2022.06.23-10.42.40:910][794]BlueprintLog: New page: Compile AuroraPlayerCharacter
+[2022.06.23-10.42.40:968][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.40:970][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.40:972][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.40:974][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.40:975][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.40:976][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.41:094][794]LogUObjectHash: Compacting FUObjectHashTables data took   9.26ms
+[2022.06.23-10.42.41:109][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.41:111][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.41:113][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.41:114][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.41:252][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.41:254][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.41:256][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.41:489][795]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.42.41:498][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.42.41:498][795]PIE: New page: PIE session: level_0 (Jun 24, 2022, 12:42:41 AM)
+[2022.06.23-10.42.41:498][795]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.42.41:510][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012201s)
+[2022.06.23-10.42.41:512][795]LogAIModule: Creating AISystem for world level_0
+[2022.06.23-10.42.41:512][795]LogPlayLevel: PIE: World Init took: (0.002354s)
+[2022.06.23-10.42.41:513][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.014771s)
+[2022.06.23-10.42.41:593][795]LogUObjectHash: Compacting FUObjectHashTables data took   9.66ms
+[2022.06.23-10.42.41:595][795]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2022.06.23-10.42.41:596][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.42.41:596][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.42.41:596][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.42.41:596][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.42.41:596][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.42.41:596][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.42.41:596][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.42.41:596][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.42.41:597][795]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.23-10.42.41:597][795]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.42.41:602][795]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.42.41:602][795]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.42.41:612][795]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.23-10.42.41:613][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.42.41:613][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.42.41:613][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.42.41:613][795]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.42.41:614][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.42.41:614][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.42.41:631][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.42.41:631][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.42.41:631][795]LogInit: FAudioDevice initialized.
+[2022.06.23-10.42.41:631][795]LogAudio: Display: Audio Device (ID: 68) registered with world 'level_0'.
+[2022.06.23-10.42.41:678][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.42.41:678][795]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.23-10.42.41:681][795]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.42.41:682][795]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.42.41:688][795]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.06.23-17.42.41
+[2022.06.23-10.42.41:688][795]LogWorld: Bringing up level for play took: 0.009746
+[2022.06.23-10.42.41:689][795]LogOnline: OSS: Creating online subsystem instance for: :Context_123
+[2022.06.23-10.42.41:706][795]PIE: Server logged in
+[2022.06.23-10.42.41:716][795]PIE: Play in editor total start time 0.219 seconds.
+[2022.06.23-10.42.43:455][857]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.42.43:455][857]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.42.45:292][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.42.45:292][930]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.42.45:293][930]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.42.45:309][930]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.42.45:310][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.42.45:455][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.42.45:483][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.42.45:548][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.42.45:548][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.42.45:550][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.42.45:577][930]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2022.06.23-10.42.45:826][931]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2022.06.23-10.43.47:012][306]BlueprintLog: New page: Compile INGAME_UI
+[2022.06.23-10.43.47:101][306]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2022.06.23-10.43.47:114][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.47:116][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.47:117][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.47:251][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.47:253][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.47:254][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.48:456][371]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.43.48:464][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.43.48:464][371]PIE: New page: PIE session: level_0 (Jun 24, 2022, 12:43:48 AM)
+[2022.06.23-10.43.48:491][371]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.43.48:503][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012257s)
+[2022.06.23-10.43.48:505][371]LogAIModule: Creating AISystem for world level_0
+[2022.06.23-10.43.48:505][371]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2022.06.23-10.43.48:505][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.014413s)
+[2022.06.23-10.43.48:578][371]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
+[2022.06.23-10.43.48:581][371]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2022.06.23-10.43.48:581][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.43.48:581][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.43.48:581][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.43.48:581][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.43.48:581][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.43.48:581][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.43.48:581][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.43.48:581][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.43.48:582][371]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.23-10.43.48:582][371]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.43.48:587][371]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.43.48:587][371]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.43.48:598][371]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.23-10.43.48:599][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.43.48:599][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.43.48:599][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.43.48:599][371]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.43.48:599][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.43.48:599][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.43.48:617][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.43.48:617][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.43.48:617][371]LogInit: FAudioDevice initialized.
+[2022.06.23-10.43.48:617][371]LogAudio: Display: Audio Device (ID: 69) registered with world 'level_0'.
+[2022.06.23-10.43.48:676][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.43.48:677][371]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.23-10.43.48:679][371]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.43.48:681][371]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.48:688][371]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.06.23-17.43.48
+[2022.06.23-10.43.48:689][371]LogWorld: Bringing up level for play took: 0.011621
+[2022.06.23-10.43.48:690][371]LogOnline: OSS: Creating online subsystem instance for: :Context_124
+[2022.06.23-10.43.48:697][371]PIE: Server logged in
+[2022.06.23-10.43.48:699][371]PIE: Play in editor total start time 0.236 seconds.
+[2022.06.23-10.43.50:811][460]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.43.50:811][460]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.43.51:642][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.43.51:642][496]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.43.51:643][496]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.43.51:677][496]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.43.51:678][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.43.51:690][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.43.51:719][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.43.51:785][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.43.51:786][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.43.51:787][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.43.51:815][496]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2022.06.23-10.43.51:875][497]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2022.06.23-10.43.58:083][840]BlueprintLog: New page: Compile INGAME_UI
+[2022.06.23-10.43.58:168][840]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2022.06.23-10.43.58:176][840]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.58:178][840]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.58:179][840]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.58:190][840]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.58:192][840]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.58:193][840]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.59:050][887]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.43.59:058][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.43.59:058][887]PIE: New page: PIE session: level_0 (Jun 24, 2022, 12:43:59 AM)
+[2022.06.23-10.43.59:090][887]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.43.59:102][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011976s)
+[2022.06.23-10.43.59:104][887]LogAIModule: Creating AISystem for world level_0
+[2022.06.23-10.43.59:104][887]LogPlayLevel: PIE: World Init took: (0.002174s)
+[2022.06.23-10.43.59:104][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.014465s)
+[2022.06.23-10.43.59:181][887]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2022.06.23-10.43.59:183][887]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2022.06.23-10.43.59:183][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.43.59:183][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.43.59:183][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.43.59:183][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.43.59:183][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.43.59:183][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.43.59:183][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.43.59:183][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.43.59:185][887]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.23-10.43.59:185][887]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.43.59:189][887]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.43.59:189][887]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.43.59:200][887]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.23-10.43.59:201][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.43.59:201][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.43.59:201][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.43.59:202][887]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.43.59:202][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.43.59:202][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.43.59:216][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.43.59:217][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.43.59:217][887]LogInit: FAudioDevice initialized.
+[2022.06.23-10.43.59:217][887]LogAudio: Display: Audio Device (ID: 70) registered with world 'level_0'.
+[2022.06.23-10.43.59:274][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.43.59:275][887]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.23-10.43.59:277][887]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.43.59:278][887]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.43.59:284][887]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.06.23-17.43.59
+[2022.06.23-10.43.59:284][887]LogWorld: Bringing up level for play took: 0.008908
+[2022.06.23-10.43.59:285][887]LogOnline: OSS: Creating online subsystem instance for: :Context_125
+[2022.06.23-10.43.59:293][887]PIE: Server logged in
+[2022.06.23-10.43.59:295][887]PIE: Play in editor total start time 0.237 seconds.
+[2022.06.23-10.44.01:385][973]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.44.04:912][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.44.04:912][117]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.44.04:914][117]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.44.04:955][117]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.44.04:956][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.44.04:965][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.44.04:995][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.44.05:063][117]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.44.05:064][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.44.05:065][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.44.05:094][117]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2022.06.23-10.44.05:156][118]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2022.06.23-10.45.16:084][682]BlueprintLog: New page: Compile INGAME_UI
+[2022.06.23-10.45.16:172][682]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2022.06.23-10.45.16:185][682]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.16:187][682]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.16:189][682]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.16:202][682]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.16:204][682]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.16:207][682]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.17:666][767]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.45.17:674][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.45.17:674][767]PIE: New page: PIE session: level_0 (Jun 24, 2022, 12:45:17 AM)
+[2022.06.23-10.45.17:674][767]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.45.17:687][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012916s)
+[2022.06.23-10.45.17:688][767]LogAIModule: Creating AISystem for world level_0
+[2022.06.23-10.45.17:689][767]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2022.06.23-10.45.17:689][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.014492s)
+[2022.06.23-10.45.17:765][767]LogUObjectHash: Compacting FUObjectHashTables data took   8.91ms
+[2022.06.23-10.45.17:767][767]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2022.06.23-10.45.17:768][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.45.17:768][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.45.17:768][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.45.17:768][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.45.17:768][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.45.17:768][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.45.17:768][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.45.17:768][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.45.17:769][767]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.23-10.45.17:769][767]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.45.17:774][767]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.45.17:774][767]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.45.17:785][767]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.23-10.45.17:786][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.45.17:786][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.45.17:786][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.45.17:786][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.45.17:786][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.45.17:787][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.45.17:787][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.45.17:787][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.45.17:787][767]LogInit: FAudioDevice initialized.
+[2022.06.23-10.45.17:787][767]LogAudio: Display: Audio Device (ID: 71) registered with world 'level_0'.
+[2022.06.23-10.45.17:837][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.45.17:837][767]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.23-10.45.17:840][767]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.45.17:841][767]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.17:846][767]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.06.23-17.45.17
+[2022.06.23-10.45.17:848][767]LogWorld: Bringing up level for play took: 0.009490
+[2022.06.23-10.45.17:848][767]LogOnline: OSS: Creating online subsystem instance for: :Context_126
+[2022.06.23-10.45.17:860][767]PIE: Server logged in
+[2022.06.23-10.45.17:863][767]PIE: Play in editor total start time 0.19 seconds.
+[2022.06.23-10.45.20:015][856]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.45.22:402][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.45.22:402][959]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.45.22:403][959]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.45.22:447][959]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.45.22:448][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.45.22:457][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.45.22:487][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.45.22:555][959]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.45.22:555][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.45.22:557][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.45.22:583][959]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2022.06.23-10.45.22:651][960]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2022.06.23-10.45.37:367][868]BlueprintLog: New page: Compile INGAME_UI
+[2022.06.23-10.45.37:453][868]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2022.06.23-10.45.37:463][868]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.37:465][868]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.37:466][868]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.37:477][868]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.37:480][868]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.37:482][868]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.37:958][894]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.45.37:966][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.45.37:966][894]PIE: New page: PIE session: level_0 (Jun 24, 2022, 12:45:37 AM)
+[2022.06.23-10.45.37:967][894]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.45.37:980][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012943s)
+[2022.06.23-10.45.37:981][894]LogAIModule: Creating AISystem for world level_0
+[2022.06.23-10.45.37:982][894]LogPlayLevel: PIE: World Init took: (0.001872s)
+[2022.06.23-10.45.37:982][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.015036s)
+[2022.06.23-10.45.38:057][894]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2022.06.23-10.45.38:060][894]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2022.06.23-10.45.38:060][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.45.38:060][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.45.38:060][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.45.38:060][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.45.38:060][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.45.38:060][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.45.38:060][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.45.38:060][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.45.38:061][894]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.23-10.45.38:061][894]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.45.38:065][894]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.45.38:065][894]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.45.38:077][894]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.23-10.45.38:077][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.45.38:077][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.45.38:077][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.45.38:078][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.45.38:078][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.45.38:078][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.45.38:094][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.45.38:094][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.45.38:094][894]LogInit: FAudioDevice initialized.
+[2022.06.23-10.45.38:094][894]LogAudio: Display: Audio Device (ID: 72) registered with world 'level_0'.
+[2022.06.23-10.45.38:149][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.45.38:149][894]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.23-10.45.38:152][894]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.45.38:152][894]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.38:157][894]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.06.23-17.45.38
+[2022.06.23-10.45.38:158][894]LogWorld: Bringing up level for play took: 0.008446
+[2022.06.23-10.45.38:159][894]LogOnline: OSS: Creating online subsystem instance for: :Context_127
+[2022.06.23-10.45.38:166][894]PIE: Server logged in
+[2022.06.23-10.45.38:168][894]PIE: Play in editor total start time 0.203 seconds.
+[2022.06.23-10.45.40:314][981]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.45.50:702][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.45.50:702][410]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.45.50:704][410]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.45.50:743][410]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.45.50:744][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.45.50:755][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.45.50:787][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.45.50:853][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.45.50:854][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.45.50:855][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.45.50:884][410]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2022.06.23-10.45.50:952][411]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2022.06.23-10.45.52:144][477]BlueprintLog: New page: Compile INGAME_UI
+[2022.06.23-10.45.52:229][477]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2022.06.23-10.45.52:234][477]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.52:235][477]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.52:237][477]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.52:248][477]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.52:251][477]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.45.52:252][477]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:535][ 26]BlueprintLog: New page: Compile AuroraPlayerCharacter
+[2022.06.23-10.46.22:597][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:599][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:600][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:602][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:603][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:605][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:714][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   9.26ms
+[2022.06.23-10.46.22:728][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:729][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:731][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:732][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:885][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:886][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.46.22:888][ 26]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:331][401]BlueprintLog: New page: Compile AuroraPlayerCharacter
+[2022.06.23-10.47.12:393][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:396][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:397][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:398][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:400][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:402][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:519][401]LogUObjectHash: Compacting FUObjectHashTables data took   9.16ms
+[2022.06.23-10.47.12:532][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:534][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:536][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:537][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:684][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:686][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.12:687][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.13:049][409]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.47.13:057][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.47.13:057][409]PIE: New page: PIE session: level_0 (Jun 24, 2022, 12:47:13 AM)
+[2022.06.23-10.47.13:057][409]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.47.13:070][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012097s)
+[2022.06.23-10.47.13:071][409]LogAIModule: Creating AISystem for world level_0
+[2022.06.23-10.47.13:071][409]LogPlayLevel: PIE: World Init took: (0.001875s)
+[2022.06.23-10.47.13:072][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.014189s)
+[2022.06.23-10.47.13:148][409]LogUObjectHash: Compacting FUObjectHashTables data took   8.97ms
+[2022.06.23-10.47.13:150][409]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2022.06.23-10.47.13:150][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.47.13:150][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.47.13:150][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.47.13:150][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.47.13:150][409]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.47.13:150][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.47.13:150][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.47.13:150][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.47.13:152][409]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.23-10.47.13:152][409]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.47.13:157][409]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.47.13:157][409]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.47.13:169][409]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.23-10.47.13:169][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.47.13:169][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.47.13:170][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.47.13:170][409]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.47.13:170][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.47.13:170][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.47.13:185][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.47.13:185][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.47.13:185][409]LogInit: FAudioDevice initialized.
+[2022.06.23-10.47.13:185][409]LogAudio: Display: Audio Device (ID: 73) registered with world 'level_0'.
+[2022.06.23-10.47.13:241][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.47.13:241][409]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.23-10.47.13:244][409]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.47.13:245][409]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.13:251][409]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.06.23-17.47.13
+[2022.06.23-10.47.13:252][409]LogWorld: Bringing up level for play took: 0.009779
+[2022.06.23-10.47.13:252][409]LogOnline: OSS: Creating online subsystem instance for: :Context_128
+[2022.06.23-10.47.13:269][409]PIE: Server logged in
+[2022.06.23-10.47.13:278][409]PIE: Play in editor total start time 0.222 seconds.
+[2022.06.23-10.47.15:390][501]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.47.19:937][692]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 63
+[2022.06.23-10.47.20:422][713]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 133
+[2022.06.23-10.47.20:422][713]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 233
+[2022.06.23-10.47.23:195][822]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 277
+[2022.06.23-10.47.23:195][822]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 377
+[2022.06.23-10.47.23:657][840]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 436
+[2022.06.23-10.47.23:658][840]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 536
+[2022.06.23-10.47.25:903][927]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.47.26:511][953]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 581
+[2022.06.23-10.47.26:962][972]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 639
+[2022.06.23-10.47.26:963][972]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 739
+[2022.06.23-10.47.29:836][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 783
+[2022.06.23-10.47.29:837][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 883
+[2022.06.23-10.47.32:435][179]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.47.32:459][180]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.47.32:586][185]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 945
+[2022.06.23-10.47.34:806][273]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.47.35:502][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.47.35:502][301]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.47.35:503][301]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.47.35:536][301]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.47.35:537][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.47.35:692][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.47.35:721][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.47.35:790][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.47.35:792][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.47.35:820][301]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2022.06.23-10.47.36:071][302]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2022.06.23-10.47.36:783][335]BlueprintLog: New page: Compile AuroraPlayerCharacter
+[2022.06.23-10.47.36:842][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.36:844][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.36:845][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.36:846][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.36:847][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.36:848][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.36:955][335]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2022.06.23-10.47.36:964][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.36:966][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.36:968][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.36:968][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.37:119][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.37:121][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.47.37:122][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:073][478]BlueprintLog: New page: Compile AuroraPlayerCharacter
+[2022.06.23-10.48.17:135][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:137][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:138][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:140][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:142][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:143][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:258][478]LogUObjectHash: Compacting FUObjectHashTables data took   9.27ms
+[2022.06.23-10.48.17:272][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:273][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:275][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:276][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:424][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:426][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:428][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:649][479]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.48.17:657][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.48.17:657][479]PIE: New page: PIE session: level_0 (Jun 24, 2022, 12:48:17 AM)
+[2022.06.23-10.48.17:657][479]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.48.17:670][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012297s)
+[2022.06.23-10.48.17:672][479]LogAIModule: Creating AISystem for world level_0
+[2022.06.23-10.48.17:672][479]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2022.06.23-10.48.17:672][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.014410s)
+[2022.06.23-10.48.17:749][479]LogUObjectHash: Compacting FUObjectHashTables data took   8.29ms
+[2022.06.23-10.48.17:751][479]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2022.06.23-10.48.17:752][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.48.17:752][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.48.17:752][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.48.17:752][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.48.17:752][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.48.17:752][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.48.17:752][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.48.17:752][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.48.17:752][479]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.23-10.48.17:752][479]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.48.17:757][479]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.48.17:757][479]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.48.17:768][479]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.23-10.48.17:769][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.48.17:769][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.48.17:769][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.48.17:769][479]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.48.17:769][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.48.17:769][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.48.17:785][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.48.17:785][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.48.17:785][479]LogInit: FAudioDevice initialized.
+[2022.06.23-10.48.17:785][479]LogAudio: Display: Audio Device (ID: 74) registered with world 'level_0'.
+[2022.06.23-10.48.17:826][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.48.17:826][479]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.23-10.48.17:829][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.48.17:831][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.48.17:838][479]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.06.23-17.48.17
+[2022.06.23-10.48.17:839][479]LogWorld: Bringing up level for play took: 0.011673
+[2022.06.23-10.48.17:839][479]LogOnline: OSS: Creating online subsystem instance for: :Context_129
+[2022.06.23-10.48.17:856][479]PIE: Server logged in
+[2022.06.23-10.48.17:865][479]PIE: Play in editor total start time 0.208 seconds.
+[2022.06.23-10.48.19:623][552]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.48.21:292][624]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 55
+[2022.06.23-10.48.24:759][776]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 115
+[2022.06.23-10.48.24:759][776]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 215
+[2022.06.23-10.48.25:224][795]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 260
+[2022.06.23-10.48.25:224][795]LogBlueprintUserMessages: [ThirdPersonCharacter_18] 360
+[2022.06.23-10.48.30:232][  0]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.23-10.48.32:568][103]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.23-10.48.37:602][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.48.37:602][327]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.06.23-10.48.37:603][327]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.48.37:646][327]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.48.37:647][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.48.37:805][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.48.37:834][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.48.37:902][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.48.37:903][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.48.37:905][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.48.37:934][327]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2022.06.23-10.48.38:184][328]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2022.06.23-10.49.06:211][697]BlueprintLog: New page: Compile AuroraPlayerCharacter
+[2022.06.23-10.49.06:271][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:273][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:274][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:276][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:277][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:278][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:392][697]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2022.06.23-10.49.06:402][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:405][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:406][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:408][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:559][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:561][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:562][697]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.49.06:710][697]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2022.06.23-10.49.06:712][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0/level_0" FILE="../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/Level_0/level_0_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.23-10.49.06:730][697]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/level_0_Auto5146A03D3496F5182876C1EAB779FDEA3.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/Level_0/level_0_Auto5.umap'
+[2022.06.23-10.49.06:731][697]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_0/level_0' took 0.098
+[2022.06.23-10.49.06:732][697]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2022.06.23-10.49.06:732][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AI_PC] ([1] browsable assets)...
+[2022.06.23-10.49.06:732][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_PC]
+[2022.06.23-10.49.06:732][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_PC" FILE="../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/AI/AI_PC_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.06.23-10.49.06:744][697]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_PC_Auto5C1728A8742B547023EC606B1717BC0CD.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/AI/AI_PC_Auto5.uasset'
+[2022.06.23-10.49.06:746][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonAurora/Characters/Heroes/Aurora/AuroraPlayerCharacter] ([1] browsable assets)...
+[2022.06.23-10.49.06:834][697]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ParagonAurora/Characters/Heroes/Aurora/AuroraPlayerCharacter.AuroraPlayerCharacter]
+[2022.06.23-10.49.06:834][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonAurora/Characters/Heroes/Aurora/AuroraPlayerCharacter]
+[2022.06.23-10.49.06:962][697]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AuroraPlayerCharacter_Auto56694783A4DC40FE1C98821892B98E627.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/ParagonAurora/Characters/Heroes/Aurora/AuroraPlayerCharacter_Auto5.uasset'
+[2022.06.23-10.49.06:964][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/character/AI_MurielPlayerCharacter] ([2] browsable assets)...
+[2022.06.23-10.49.07:039][697]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/character/AI_MurielPlayerCharacter.AI_MurielPlayerCharacter]
+[2022.06.23-10.49.07:121][697]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/character/AI_MurielPlayerCharacter.AI_MurielPlayerCharacter]
+[2022.06.23-10.49.07:121][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/character/AI_MurielPlayerCharacter]
+[2022.06.23-10.49.07:198][697]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_MurielPlayerCharacter_Auto5A589C2084A4A6C1BDDF1CCAE7FA46450.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/AI/character/AI_MurielPlayerCharacter_Auto5.uasset'
+[2022.06.23-10.49.07:200][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Witget_in_game/INGAME_UI] ([2] browsable assets)...
+[2022.06.23-10.49.07:200][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Witget_in_game/INGAME_UI]
+[2022.06.23-10.49.07:200][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/INGAME_UI" FILE="../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/Witget_in_game/INGAME_UI_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.06.23-10.49.07:212][697]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/INGAME_UI_Auto50B28A8B747F104CE23BDDB94FDD3EB6C.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/Witget_in_game/INGAME_UI_Auto5.uasset'
+[2022.06.23-10.49.07:213][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Projectile/projectile] ([2] browsable assets)...
+[2022.06.23-10.49.07:213][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Projectile/projectile]
+[2022.06.23-10.49.07:213][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectile/projectile" FILE="../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/Projectile/projectile_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.06.23-10.49.07:221][697]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/projectile_Auto5775A7B364AAAB9267483FBB354382A51.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/Projectile/projectile_Auto5.uasset'
+[2022.06.23-10.49.07:222][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Spawn_magic_attack] ([1] browsable assets)...
+[2022.06.23-10.49.07:222][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Spawn_magic_attack]
+[2022.06.23-10.49.07:222][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_magic_attack" FILE="../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/AI/Spawn_magic_attack_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.06.23-10.49.07:228][697]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Spawn_magic_attack_Auto54DFC410B4407E89DB6354DAB641B0BD6.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/AI/Spawn_magic_attack_Auto5.uasset'
+[2022.06.23-10.49.07:228][697]LogFileHelpers: Auto-saving content packages took 0.497
+[2022.06.23-10.55.46:419][929]BlueprintLog: New page: Compile AuroraPlayerCharacter
+[2022.06.23-10.55.46:481][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:483][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:484][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:486][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:487][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:489][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:601][929]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2022.06.23-10.55.46:616][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:617][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:619][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:620][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:772][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:774][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.46:775][929]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.23-10.55.47:902][957]LogSlate: Window 'INGAME_UI' being destroyed
+[2022.06.23-10.55.47:909][957]LogSlate: Window 'INGAME_UI' being destroyed
+[2022.06.23-10.55.47:920][957]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.23-10.55.47:920][957]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.55.47:921][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.55.48:090][957]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.55.48:090][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.55.48:260][957]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.55.48:260][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.55.48:278][957]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.55.48:278][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.55.48:380][957]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.55.48:380][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.55.48:493][957]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.55.48:493][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.55.48:695][957]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.55.48:695][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.55.48:734][957]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.23-10.55.48:734][957]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.55.48:734][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.55.48:936][957]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.55.48:936][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.55.48:952][957]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.55.48:952][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.55.49:256][958]LogUObjectHash: Compacting FUObjectHashTables data took  10.68ms
+[2022.06.23-10.55.51:322][958]LogSlate: Window 'Save Content' being destroyed
+[2022.06.23-10.55.51:777][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/AI_heath_UI" FILE="../../../../TAI/tai_BT_unreal/Content/Witget_in_game/AI_heath_UI.uasset" SILENT=true
+[2022.06.23-10.55.51:783][958]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_heath_UI18E8EA124CF1B2F400AE218C840F1559.tmp' to '../../../../TAI/tai_BT_unreal/Content/Witget_in_game/AI_heath_UI.uasset'
+[2022.06.23-10.55.51:785][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/character/AI_MurielPlayerCharacter" FILE="../../../../TAI/tai_BT_unreal/Content/AI/character/AI_MurielPlayerCharacter.uasset" SILENT=true
+[2022.06.23-10.55.51:858][958]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_MurielPlayerCharacterC8546D224A2DD13BF5F797B0F6C34D88.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/character/AI_MurielPlayerCharacter.uasset'
+[2022.06.23-10.55.51:859][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_PC" FILE="../../../../TAI/tai_BT_unreal/Content/AI/AI_PC.uasset" SILENT=true
+[2022.06.23-10.55.51:871][958]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_PCC4170B5548D037A96E4BF6ADFBB7CFF5.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/AI_PC.uasset'
+[2022.06.23-10.55.52:046][958]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AuroraPlayerCharacter475E454347FDA24B21F8DAB3339747F8.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/AuroraPlayerCharacter.uasset'
+[2022.06.23-10.55.52:047][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Witget_in_game/INGAME_UI" FILE="../../../../TAI/tai_BT_unreal/Content/Witget_in_game/INGAME_UI.uasset" SILENT=true
+[2022.06.23-10.55.52:059][958]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/INGAME_UIBC54033241BB670254406AA40930B093.tmp' to '../../../../TAI/tai_BT_unreal/Content/Witget_in_game/INGAME_UI.uasset'
+[2022.06.23-10.55.52:060][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0/level_0" FILE="../../../../TAI/tai_BT_unreal/Content/Level_0/level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.23-10.55.52:252][958]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2022.06.23-10.55.52:275][958]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/level_07579FAF34D0AFFC08DC33D9971826E2A.tmp' to '../../../../TAI/tai_BT_unreal/Content/Level_0/level_0.umap'
+[2022.06.23-10.55.52:307][958]LogFileHelpers: Saving map 'level_0' took 0.247
+[2022.06.23-10.55.52:308][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectile/projectile" FILE="../../../../TAI/tai_BT_unreal/Content/Projectile/projectile.uasset" SILENT=true
+[2022.06.23-10.55.52:317][958]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/projectileBB9A1757449ACF9B441B2C903BF0B81C.tmp' to '../../../../TAI/tai_BT_unreal/Content/Projectile/projectile.uasset'
+[2022.06.23-10.55.52:318][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/spawn_attack" FILE="../../../../TAI/tai_BT_unreal/Content/AI/spawn_attack.uasset" SILENT=true
+[2022.06.23-10.55.52:328][958]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/spawn_attack85DA06554993A829144EF6AC6646E84F.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/spawn_attack.uasset'
+[2022.06.23-10.55.52:329][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_magic_attack" FILE="../../../../TAI/tai_BT_unreal/Content/AI/Spawn_magic_attack.uasset" SILENT=true
+[2022.06.23-10.55.52:335][958]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Spawn_magic_attack881FC9984B0E2990EFC6E4953E4143FA.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/Spawn_magic_attack.uasset'
+[2022.06.23-10.55.52:359][958]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.23-10.55.52:359][958]LogContentValidation: Display: Validating Blueprint /Game/ParagonAurora/Characters/Heroes/Aurora/AuroraPlayerCharacter.AuroraPlayerCharacter
+[2022.06.23-10.55.52:359][958]LogContentValidation: Display: Validating Blueprint /Game/AI/character/AI_MurielPlayerCharacter.AI_MurielPlayerCharacter
+[2022.06.23-10.55.52:360][958]LogContentValidation: Display: Validating WidgetBlueprint /Game/Witget_in_game/AI_heath_UI.AI_heath_UI
+[2022.06.23-10.55.52:361][958]LogContentValidation: Display: Validating Blueprint /Game/AI/AI_PC.AI_PC
+[2022.06.23-10.55.52:361][958]LogContentValidation: Display: Validating WidgetBlueprint /Game/Witget_in_game/INGAME_UI.INGAME_UI
+[2022.06.23-10.55.52:362][958]LogContentValidation: Display: Validating Blueprint /Game/Projectile/projectile.projectile
+[2022.06.23-10.55.52:362][958]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawn_magic_attack.Spawn_magic_attack
+[2022.06.23-10.55.52:362][958]LogContentValidation: Display: Validating Blueprint /Game/AI/spawn_attack.spawn_attack
+[2022.06.23-10.55.52:362][958]LogContentValidation: Display: Validating World /Game/Level_0/level_0.level_0
+[2022.06.23-10.55.52:628][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0/level_0" FILE="../../../../TAI/tai_BT_unreal/Content/Level_0/level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.23-10.55.52:673][966]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.06.23-10.55.52:698][966]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/level_04F3651724B12C89AE799AFA349D58959.tmp' to '../../../../TAI/tai_BT_unreal/Content/Level_0/level_0.umap'
+[2022.06.23-10.55.52:818][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0/level_0_BuiltData" FILE="../../../../TAI/tai_BT_unreal/Content/Level_0/level_0_BuiltData.uasset" SILENT=true
+[2022.06.23-10.55.52:920][966]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/level_0_BuiltDataCCBA119840EEA99C186D988CA2B009AF.tmp' to '../../../../TAI/tai_BT_unreal/Content/Level_0/level_0_BuiltData.uasset'
+[2022.06.23-10.55.52:934][966]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.23-10.55.52:934][966]LogContentValidation: Display: Validating World /Game/Level_0/level_0.level_0
+[2022.06.23-10.55.52:934][966]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_0/level_0_BuiltData.level_0_BuiltData
+[2022.06.23-10.56.04:963][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2022.06.23-10.56.06:674][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0/level_0" FILE="../../../../TAI/tai_BT_unreal/Content/Level_0/level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.23-10.56.06:704][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.06.23-10.56.06:728][858]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/level_0560E4A98456EF60FB3C78EB872250B41.tmp' to '../../../../TAI/tai_BT_unreal/Content/Level_0/level_0.umap'
+[2022.06.23-10.56.06:870][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_0/level_0_BuiltData" FILE="../../../../TAI/tai_BT_unreal/Content/Level_0/level_0_BuiltData.uasset" SILENT=true
+[2022.06.23-10.56.07:056][858]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/level_0_BuiltData2DE3DFED4C601A228F2548AD5D9D97EF.tmp' to '../../../../TAI/tai_BT_unreal/Content/Level_0/level_0_BuiltData.uasset'
+[2022.06.23-10.56.07:072][858]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.23-10.56.07:072][858]LogContentValidation: Display: Validating World /Game/Level_0/level_0.level_0
+[2022.06.23-10.56.07:072][858]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_0/level_0_BuiltData.level_0_BuiltData
