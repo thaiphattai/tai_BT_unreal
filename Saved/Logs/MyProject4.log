@@ -18116,3 +18116,383 @@ Script Stack (0 frames):
 [2022.06.27-15.02.48:098][197]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.27-15.02.48:099][197]LogContentValidation: Display: Validating Blueprint /Game/AI/BB_TASK_Attack.BB_TASK_Attack
 [2022.06.27-15.02.48:099][197]LogContentValidation: Display: Validating Blueprint /Game/AI/spawn_AI_maigic_attack.spawn_AI_maigic_attack
+[2022.06.27-15.06.10:957][ 73]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{36bf8b1c-ddb6-48d0-b4b1-ff4d0c098fc2}.
+[2022.06.27-15.06.10:957][ 73]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.27-15.06.10:977][ 73]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-15.06.10:977][ 73]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-15.11.49:362][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Spawn_magic_attack.Spawn_magic_attack
+[2022.06.27-15.12.55:419][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.06.27-15.12.55:425][795]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_0/level_0' took 0.054
+[2022.06.27-15.12.55:425][795]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Spawn_magic_attack] ([1] browsable assets)...
+[2022.06.27-15.12.55:425][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Spawn_magic_attack]
+[2022.06.27-15.12.55:425][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_magic_attack" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Saved/Autosaves/Game/AI/Spawn_magic_attack_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.06.27-15.12.55:429][795]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Spawn_magic_attack_Auto2973F64284D9C11AFD14F17BBD6DB7A12.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Autosaves/Game/AI/Spawn_magic_attack_Auto2.uasset'
+[2022.06.27-15.12.55:430][795]LogFileHelpers: Auto-saving content packages took 0.005
+[2022.06.27-15.13.01:761][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.06.27-15.13.01:777][527]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/Spawn_magic_attack_2.
+[2022.06.27-15.13.01:853][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_magic_attack_2" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack_2.uasset" SILENT=true
+[2022.06.27-15.13.01:858][527]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Spawn_magic_attack_2FF6AB0994712806062D0FAA45E7828CE.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack_2.uasset'
+[2022.06.27-15.13.02:222][527]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Spawn_magic_attack_2.
+[2022.06.27-15.13.02:230][527]AssetCheck: New page: Asset Save: Spawn_magic_attack_2
+[2022.06.27-15.13.02:230][527]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawn_magic_attack_2.Spawn_magic_attack_2
+[2022.06.27-15.13.10:497][492]LogContentBrowser: Attempting asset rename: Spawn_magic_attack_2 -> Spawn_AI_magic_attack_
+[2022.06.27-15.13.10:887][492]LogMetaData: Removing '/Game/AI/Spawn_AI_magic_attack_.SKEL_Spawn_AI_magic_attack__C' ref from Metadata '/Game/AI/Spawn_magic_attack_2.PackageMetaData'
+[2022.06.27-15.13.10:887][492]LogMetaData: Removing '/Game/AI/Spawn_AI_magic_attack_.Spawn_AI_magic_attack__C' ref from Metadata '/Game/AI/Spawn_magic_attack_2.PackageMetaData'
+[2022.06.27-15.13.10:887][492]LogMetaData: Removing '/Game/AI/Spawn_AI_magic_attack_.SKEL_Spawn_AI_magic_attack__C:Received_NotifyBegin' ref from Metadata '/Game/AI/Spawn_magic_attack_2.PackageMetaData'
+[2022.06.27-15.13.10:887][492]LogMetaData: Removing '/Game/AI/Spawn_AI_magic_attack_.Spawn_AI_magic_attack__C:Received_NotifyBegin' ref from Metadata '/Game/AI/Spawn_magic_attack_2.PackageMetaData'
+[2022.06.27-15.13.10:902][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_AI_magic_attack_" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_AI_magic_attack_.uasset" SILENT=true
+[2022.06.27-15.13.10:907][492]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Spawn_AI_magic_attack_BCB50285482779D43E4ED6B6CEE23F89.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_AI_magic_attack_.uasset'
+[2022.06.27-15.13.11:307][492]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2022.06.27-15.13.11:367][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.06.27-15.13.11:415][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.06.27-15.13.11:512][492]SourceControl: rm 'Content/AI/Spawn_magic_attack_2.uasset'
+[2022.06.27-15.13.11:580][492]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Spawn_AI_magic_attack_.
+[2022.06.27-15.13.11:589][492]AssetCheck: New page: Asset Save: Spawn_AI_magic_attack_
+[2022.06.27-15.13.11:589][492]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawn_AI_magic_attack_.Spawn_AI_magic_attack_
+[2022.06.27-15.13.12:517][599]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AI/WG_interact.WG_interact
+[2022.06.27-15.13.15:086][804]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.13.15:086][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.13.15:096][804]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.13.15:096][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.13.29:420][266]LogEditorTransaction: Undo Delete current selection
+[2022.06.27-15.14.32:202][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/spawn_AI_attackattack.spawn_AI_attackattack
+[2022.06.27-15.14.53:602][952]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.14.53:603][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.14.54:155][  5]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.14.54:155][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.14.59:125][480]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/spawn_AI_maigic_attack.spawn_AI_maigic_attack
+[2022.06.27-15.15.08:689][389]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Spawn_AI_magic_attack_.Spawn_AI_magic_attack_
+[2022.06.27-15.15.12:934][777]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.15.12:934][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.15.14:105][887]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.15.14:105][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.15.15:477][  8]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Spawn_AI_magic_attack_.Spawn_AI_magic_attack_
+[2022.06.27-15.15.19:936][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.06.27-15.15.21:647][452]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.27-15.15.21:744][452]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.15.21:744][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.15.21:783][452]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/Spawn_AI_magic_attack_.Spawn_AI_magic_attack_
+[2022.06.27-15.16.08:112][452]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2022.06.27-15.16.08:169][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.06.27-15.16.08:219][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.06.27-15.16.08:322][452]SourceControl: rm 'Content/AI/Spawn_AI_magic_attack_.uasset'
+[2022.06.27-15.16.52:631][ 57]LogContentBrowser: Attempting asset rename: Spawn_magic_attack -> Spawn_magic_attack
+[2022.06.27-15.16.59:432][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/spawn_AI_maigic_attack.spawn_AI_maigic_attack
+[2022.06.27-15.17.19:577][813]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.17.19:577][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.17.22:632][134]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.17.22:632][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.17.40:180][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.06.27-15.17.40:219][169]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/Spawn_magic_attack_2.
+[2022.06.27-15.17.40:299][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_magic_attack_2" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack_2.uasset" SILENT=true
+[2022.06.27-15.17.40:303][169]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Spawn_magic_attack_20F67B39A46311A6AD7C4DD92D85EB5F4.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack_2.uasset'
+[2022.06.27-15.17.40:676][169]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Spawn_magic_attack_2.
+[2022.06.27-15.17.40:684][169]AssetCheck: New page: Asset Save: Spawn_magic_attack_2
+[2022.06.27-15.17.40:684][169]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawn_magic_attack_2.Spawn_magic_attack_2
+[2022.06.27-15.17.48:960][129]LogContentBrowser: Attempting asset rename: Spawn_magic_attack_2 -> Spawn_magic_attack_AI
+[2022.06.27-15.17.49:469][129]LogMetaData: Removing '/Game/AI/Spawn_magic_attack_AI.SKEL_Spawn_magic_attack_AI_C' ref from Metadata '/Game/AI/Spawn_magic_attack_2.PackageMetaData'
+[2022.06.27-15.17.49:469][129]LogMetaData: Removing '/Game/AI/Spawn_magic_attack_AI.Spawn_magic_attack_AI_C' ref from Metadata '/Game/AI/Spawn_magic_attack_2.PackageMetaData'
+[2022.06.27-15.17.49:469][129]LogMetaData: Removing '/Game/AI/Spawn_magic_attack_AI.SKEL_Spawn_magic_attack_AI_C:Received_NotifyBegin' ref from Metadata '/Game/AI/Spawn_magic_attack_2.PackageMetaData'
+[2022.06.27-15.17.49:469][129]LogMetaData: Removing '/Game/AI/Spawn_magic_attack_AI.Spawn_magic_attack_AI_C:Received_NotifyBegin' ref from Metadata '/Game/AI/Spawn_magic_attack_2.PackageMetaData'
+[2022.06.27-15.17.49:490][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_magic_attack_AI" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack_AI.uasset" SILENT=true
+[2022.06.27-15.17.49:494][129]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Spawn_magic_attack_AI455C1ACD4E2F5C75BB7C32A5E69BE097.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack_AI.uasset'
+[2022.06.27-15.17.49:867][129]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.06.27-15.17.49:924][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.06.27-15.17.49:964][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.06.27-15.17.50:064][129]SourceControl: rm 'Content/AI/Spawn_magic_attack_2.uasset'
+[2022.06.27-15.17.50:133][129]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Spawn_magic_attack_AI.
+[2022.06.27-15.17.50:143][129]AssetCheck: New page: Asset Save: Spawn_magic_attack_AI
+[2022.06.27-15.17.50:143][129]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawn_magic_attack_AI.Spawn_magic_attack_AI
+[2022.06.27-15.17.51:326][264]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Spawn_magic_attack_AI.Spawn_magic_attack_AI
+[2022.06.27-15.18.05:780][875]LogSlate: Window 'Replace References' being destroyed
+[2022.06.27-15.18.05:785][875]LogSlate: Window 'Replace References' being destroyed
+[2022.06.27-15.18.11:245][505]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.18.11:245][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.18.41:264][491]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Spawn_magic_attack_AI.Spawn_magic_attack_AI
+[2022.06.27-15.18.46:085][996]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.18.46:085][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.19.09:579][548]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Spawn_magic_attack_AI.Spawn_magic_attack_AI
+[2022.06.27-15.19.14:915][120]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.19.14:915][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.19.17:895][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.06.27-15.19.19:114][442]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.27-15.19.19:298][442]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.06.27-15.19.19:348][442]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.06.27-15.19.19:391][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.06.27-15.19.19:486][442]SourceControl: rm 'Content/AI/Spawn_magic_attack_AI.uasset'
+[2022.06.27-15.19.21:650][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.06.27-15.19.21:657][688]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/Spawn_magic_attack_2.
+[2022.06.27-15.19.21:722][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_magic_attack_2" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack_2.uasset" SILENT=true
+[2022.06.27-15.19.21:726][688]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Spawn_magic_attack_2BD107D704E0E1FAFE287A3841D779D2B.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack_2.uasset'
+[2022.06.27-15.19.22:098][688]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Spawn_magic_attack_2.
+[2022.06.27-15.19.22:107][688]AssetCheck: New page: Asset Save: Spawn_magic_attack_2
+[2022.06.27-15.19.22:107][688]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawn_magic_attack_2.Spawn_magic_attack_2
+[2022.06.27-15.19.24:330][925]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Spawn_magic_attack_2.Spawn_magic_attack_2
+[2022.06.27-15.19.27:508][256]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.19.27:508][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.19.29:917][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.06.27-15.19.31:158][517]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.27-15.19.31:319][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.06.27-15.19.31:368][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.27-15.19.31:410][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.06.27-15.19.31:503][517]SourceControl: rm 'Content/AI/Spawn_magic_attack_2.uasset'
+[2022.06.27-15.19.32:357][607]LogContentBrowser: Deferred new asset file creation: Spawn_magic_attack1
+[2022.06.27-15.19.32:373][607]LogContentBrowser: Creating deferred item: Spawn_magic_attack1
+[2022.06.27-15.19.33:714][768]LogContentBrowser: Attempting asset rename: Spawn_magic_attack1 -> Spawn_magic_attack1
+[2022.06.27-15.19.33:840][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.06.27-15.19.33:847][768]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/Spawn_magic_attack1.
+[2022.06.27-15.19.33:921][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_magic_attack1" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack1.uasset" SILENT=true
+[2022.06.27-15.19.33:925][768]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Spawn_magic_attack1D75DFAA1450426BE40E7F68166E2F1BC.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack1.uasset'
+[2022.06.27-15.19.34:184][768]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Spawn_magic_attack1.
+[2022.06.27-15.19.34:185][768]LogContentBrowser: End creating deferred item Spawn_magic_attack1
+[2022.06.27-15.19.34:185][768]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Spawn_magic_attack1.
+[2022.06.27-15.19.34:193][768]AssetCheck: New page: Asset Save: Spawn_magic_attack1
+[2022.06.27-15.19.34:193][768]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawn_magic_attack1.Spawn_magic_attack1
+[2022.06.27-15.19.35:604][934]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Spawn_magic_attack1.Spawn_magic_attack1
+[2022.06.27-15.19.38:621][246]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.19.38:621][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.19.46:007][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.06.27-15.19.47:027][ 98]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.27-15.19.47:180][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.06.27-15.19.47:228][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.06.27-15.19.47:269][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.27-15.19.47:358][ 98]SourceControl: rm 'Content/AI/Spawn_magic_attack1.uasset'
+[2022.06.27-15.20.25:250][425]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/spawn_AI_maigic_attack.spawn_AI_maigic_attack
+[2022.06.27-15.20.41:488][151]LogContentBrowser: Attempting asset rename: spawn_AI_maigic_attack -> spawn_AI_maigic_attack
+[2022.06.27-15.22.55:924][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.06.27-15.22.55:934][ 78]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_0/level_0' took 0.069
+[2022.06.27-15.22.55:935][ 78]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Spawn_magic_attack] ([1] browsable assets)...
+[2022.06.27-15.22.55:935][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Spawn_magic_attack]
+[2022.06.27-15.22.55:935][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_magic_attack" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Saved/Autosaves/Game/AI/Spawn_magic_attack_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.06.27-15.22.55:939][ 78]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Spawn_magic_attack_Auto35DDC517E4F84E463A21D19865056F9CA.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Autosaves/Game/AI/Spawn_magic_attack_Auto3.uasset'
+[2022.06.27-15.22.55:939][ 78]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/spawn_AI_maigic_attack] ([2] browsable assets)...
+[2022.06.27-15.22.55:940][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/spawn_AI_maigic_attack]
+[2022.06.27-15.22.55:948][ 78]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/spawn_AI_maigic_attack_Auto3E2E9B53540A0384EF74A76909F514961.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Autosaves/Game/AI/spawn_AI_maigic_attack_Auto3.uasset'
+[2022.06.27-15.22.55:948][ 78]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.06.27-16.13.24:941][114]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{56b9966b-433d-43da-9bc2-794a69f80d4b}.
+[2022.06.27-16.13.24:941][114]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.27-16.13.24:965][114]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-16.13.24:965][114]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-16.15.15:000][247]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.27-16.15.15:008][247]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.27-16.15.15:008][247]LogPlayLevel: [PlayLevel] Compiling Spawn_magic_attack before play...
+[2022.06.27-16.15.15:032][247]LogPlayLevel: [PlayLevel] Compiling spawn_AI_maigic_attack before play...
+[2022.06.27-16.15.15:090][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2022.06.27-16.15.15:104][247]LogPlayLevel: PlayLevel: Blueprint regeneration took 97 ms (2 blueprints)
+[2022.06.27-16.15.15:104][247]PIE: New page: PIE session: level_0 (Jun 28, 2022, 6:15:15 AM)
+[2022.06.27-16.15.15:131][247]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.06.27-16.15.15:142][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010929s)
+[2022.06.27-16.15.15:143][247]LogAIModule: Creating AISystem for world level_0
+[2022.06.27-16.15.15:143][247]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2022.06.27-16.15.15:143][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.012385s)
+[2022.06.27-16.15.15:189][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.06.27-16.15.15:190][247]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2022.06.27-16.15.15:190][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.27-16.15.15:190][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.27-16.15.15:191][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.27-16.15.15:191][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.27-16.15.15:191][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.27-16.15.15:191][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.27-16.15.15:191][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.27-16.15.15:191][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.27-16.15.15:191][247]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.27-16.15.15:191][247]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.27-16.15.15:219][247]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-16.15.15:219][247]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-16.15.15:232][247]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.06.27-16.15.15:232][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.27-16.15.15:232][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.27-16.15.15:232][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.27-16.15.15:232][247]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.27-16.15.15:232][247]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.27-16.15.15:232][247]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.27-16.15.15:245][247]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.27-16.15.15:245][247]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.27-16.15.15:245][247]LogInit: FAudioDevice initialized.
+[2022.06.27-16.15.15:245][247]LogAudio: Display: Audio Device (ID: 53) registered with world 'level_0'.
+[2022.06.27-16.15.15:282][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.27-16.15.15:283][247]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.27-16.15.15:287][247]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.27-16.15.15:300][247]LogScript: Warning: Script Msg: Divide by zero detected: -0.000061 / 0
+Script call stack:
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.06.27-16.15.15:302][247]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.06.27-23.15.15
+[2022.06.27-16.15.15:303][247]LogWorld: Bringing up level for play took: 0.019320
+[2022.06.27-16.15.15:304][247]LogOnline: OSS: Creating online subsystem instance for: :Context_122
+[2022.06.27-16.15.15:315][247]PIE: Server logged in
+[2022.06.27-16.15.15:317][247]PIE: Play in editor total start time 0.312 seconds.
+[2022.06.27-16.15.17:353][481]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.27-16.15.36:144][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.27-16.15.36:144][703]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.06.27-16.15.36:144][703]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.27-16.15.36:149][703]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.15.36:150][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-16.15.36:163][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.27-16.15.36:176][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-16.15.36:222][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-16.15.36:223][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-16.15.36:245][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.06.27-16.15.36:291][704]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2022.06.27-16.15.37:310][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.27-16.29.23:629][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.06.27-16.29.24:779][208]LogSlate: Window 'Save Content' being destroyed
+[2022.06.27-16.29.24:861][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/spawn_AI_maigic_attack" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/spawn_AI_maigic_attack.uasset" SILENT=true
+[2022.06.27-16.29.24:868][208]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/spawn_AI_maigic_attack0FD64D2D4189A3344A75DC9FC0759DFE.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/spawn_AI_maigic_attack.uasset'
+[2022.06.27-16.29.24:885][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawn_magic_attack" FILE="../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack.uasset" SILENT=true
+[2022.06.27-16.29.24:889][208]LogSavePackage: Moving '../../../../Unreal Engine Project/tai_BT_unreal/Saved/Spawn_magic_attack554D5F9744354F40A3EA5CBB5EEA7A7C.tmp' to '../../../../Unreal Engine Project/tai_BT_unreal/Content/AI/Spawn_magic_attack.uasset'
+[2022.06.27-16.29.24:903][208]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.27-16.29.24:903][208]LogContentValidation: Display: Validating Blueprint /Game/AI/Spawn_magic_attack.Spawn_magic_attack
+[2022.06.27-16.29.24:903][208]LogContentValidation: Display: Validating Blueprint /Game/AI/spawn_AI_maigic_attack.spawn_AI_maigic_attack
+[2022.06.27-16.42.45:136][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.06.27-16.42.47:386][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.06.27-16.42.47:403][528]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.27-16.42.47:403][528]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.47:403][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-16.42.47:484][528]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.47:484][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-16.42.47:572][528]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.27-16.42.47:572][528]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.47:572][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-16.42.47:636][528]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.47:636][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-16.42.47:687][528]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.47:687][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-16.42.47:732][528]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.47:732][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-16.42.47:770][528]LogSlate: Window 'AI_BehaviorTree' being destroyed
+[2022.06.27-16.42.47:919][528]LogSlate: Window 'MyProject4 - Unreal Editor' being destroyed
+[2022.06.27-16.42.48:128][529]Cmd: QUIT_EDITOR
+[2022.06.27-16.42.48:128][529]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.06.27-16.42.48:218][529]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.06.27-16.42.48:583][529]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.06.27-16.42.48:583][529]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.06.27-16.42.48:583][529]LogAudio: Display: Audio Device unregistered from world 'level_0'.
+[2022.06.27-16.42.48:583][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-16.42.48:584][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-16.42.48:610][529]LogAudio: Display: Audio Device Manager Shutdown
+[2022.06.27-16.42.48:640][529]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.27-16.42.48:644][529]LogExit: Preparing to exit.
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C00B9A00] Windows
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C00B9900] Default__DeviceProfile
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C008EA00] WindowsNoEditor
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C00BB400] WindowsServer
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C008CF00] WindowsClient
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C00B9000] IOS
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C008FC00] iPadAir
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C00BB100] iPadAir2
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C0036900] IPadPro
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C0036A00] iPadAir3
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C00B9B00] iPadAir4
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C0037F00] iPadMini2
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C00B8C00] iPadMini3
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C0035A00] iPadMini4
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C00BA000] iPadMini5
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082200] iPhone6
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082300] iPodTouch6
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C008C200] iPhone7
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C008C400] iPodTouch7
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C0083900] iPhone5S
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C008ED00] iPhone6Plus
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C0081800] iPhone6S
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C008E000] iPhone6SPlus
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080900] iPhone7Plus
+[2022.06.27-16.42.49:851][529]LogDeviceProfile: Device profile begin destroy: [00000144C008D400] iPhoneSE
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0083500] iPhone8
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008F700] iPhone8Plus
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082F00] iPhoneX
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008D900] iPhoneXS
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082900] iPhoneXSMax
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008F500] iPhoneXR
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0083A00] iPhone11
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008D600] iPhone11Pro
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082C00] iPhone11ProMax
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008D300] iPhoneSE2
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080700] iPhone12Mini
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008D000] iPhone12
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080600] iPhone12Pro
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0083100] iPhone12ProMax
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C00B8500] iPadPro105
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0083C00] iPadPro129
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C00BBD00] iPadPro97
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080C00] iPadPro2_129
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C00BBF00] iPad5
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0081F00] iPad6
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008FA00] iPad7
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0081E00] iPad8
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008CD00] iPadPro11
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080A00] iPadPro2_11
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008DA00] iPadPro3_129
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0083700] iPadPro4_129
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008FD00] AppleTV
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0083000] AppleTV4K
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008F600] TVOS
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082800] Mac
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008EE00] MacClient
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080800] MacNoEditor
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008F000] MacServer
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080400] Linux
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008CB00] LinuxAArch64
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082600] LinuxNoEditor
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008D700] LinuxAArch64NoEditor
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0083D00] LinuxClient
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008F800] LinuxAArch64Client
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080D00] LinuxServer
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008D500] LinuxAArch64Server
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082B00] Android
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008DD00] Android_Low
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082400] Android_Mid
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008C900] Android_High
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0083F00] Android_Default
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008C100] Android_Adreno4xx
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0081400] Android_Adreno5xx_Low
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008CC00] Android_Adreno5xx
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080F00] Android_Adreno6xx
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008E800] Android_Adreno6xx_Vulkan
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082A00] Android_Mali_T6xx
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008C300] Android_Mali_T7xx
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0081600] Android_Mali_T8xx
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008FE00] Android_Mali_G71
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080300] Android_Mali_G72
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008DE00] Android_Mali_G72_Vulkan
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0081500] Android_Mali_G76
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008E300] Android_Mali_G76_Vulkan
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0080200] Android_Mali_G77
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C008C800] Android_Mali_G77_Vulkan
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0082D00] Android_Vulkan_SM5
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C00B9400] Android_PowerVR_G6xxx
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0034700] Android_PowerVR_GT7xxx
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C00BB700] Android_PowerVR_GE8xxx
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0035900] Android_PowerVR_GM9xxx
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C00BAE00] Android_PowerVR_GM9xxx_Vulkan
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0035000] Android_TegraK1
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C00B8800] Android_Unknown_Vulkan
+[2022.06.27-16.42.49:852][529]LogDeviceProfile: Device profile begin destroy: [00000144C0034600] Lumin
+[2022.06.27-16.42.49:853][529]LogDeviceProfile: Device profile begin destroy: [00000144C00B9700] Lumin_Desktop
+[2022.06.27-16.42.49:853][529]LogDeviceProfile: Device profile begin destroy: [00000144C0035F00] HoloLens
+[2022.06.27-16.42.51:272][529]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:284][529]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:294][529]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:304][529]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:312][529]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:318][529]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:324][529]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:329][529]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:335][529]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:341][529]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:347][529]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:352][529]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:358][529]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:363][529]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:369][529]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:374][529]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.51:723][529]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.06.27-16.42.52:107][529]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-16.42.52:108][529]LogExit: Editor shut down
+[2022.06.27-16.42.52:108][529]LogExit: Transaction tracking system shut down
