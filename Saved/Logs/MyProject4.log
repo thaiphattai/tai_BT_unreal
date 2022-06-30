@@ -7973,3 +7973,1703 @@ Script call stack:
 [2022.06.30-10.12.50:150][876]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/INGAME_UIB2E8E65C47F1BF4B016DC3B3277504AC.tmp' to '../../../../TAI/tai_BT_unreal/Content/Widget_in_game/INGAME_UI.uasset'
 [2022.06.30-10.12.50:173][876]AssetCheck: New page: Asset Save: INGAME_UI
 [2022.06.30-10.12.50:174][876]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget_in_game/INGAME_UI.INGAME_UI
+[2022.06.30-10.14.54:250][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.06.30-10.16.02:881][568]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.30-10.16.02:968][569]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2022.06.30-10.16.02:968][569]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2022.06.30-10.16.02:968][569]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2022.06.30-10.16.02:968][569]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.06.30-10.16.04:606][592]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.06.30-10.16.07:398][648]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Hair.M_Aurora_Hair
+[2022.06.30-10.16.31:139][441]LogLinker: Warning: Failed to load '/Game/ParagonAurora/Characters/Heroes/Ice/Meshes/Ice': Can't find file.
+[2022.06.30-10.16.31:139][441]LogLinker: Warning: Failed to load '/Game/ParagonAurora/Characters/Heroes/Ice/Meshes/Ice': Can't find file.
+[2022.06.30-10.16.31:140][441]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ParagonAurora/Characters/Heroes/Ice/Meshes/Ice.Ice'
+[2022.06.30-10.16.32:522][497]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonAurora/Characters/Heroes/Aurora/Meshes/Aurora.Aurora
+[2022.06.30-10.16.32:776][497]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2022.06.30-10.16.32:811][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.30-10.16.32:841][497]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.06.30-10.16.34:660][497]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2022.06.30-10.17.42:271][ 28]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Sword.M_Aurora_Sword
+[2022.06.30-10.17.42:319][ 28]LogMaterial: Display: Missing cached shader map for material M_Aurora_Sword, compiling. 
+[2022.06.30-10.17.42:564][ 28]LogMaterial: Display: Missing cached shader map for material M_Aurora_Sword, compiling. 
+[2022.06.30-10.17.42:620][ 28]LogMaterial: Display: Missing cached shader map for material M_Aurora_Sword, compiling. 
+[2022.06.30-10.17.42:687][ 28]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2022.06.30-10.17.42:687][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2022.06.30-10.17.42:687][ 28]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2022.06.30-10.17.42:687][ 28]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2022.06.30-10.17.42:692][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_12, compiling. 
+[2022.06.30-10.17.42:698][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2022.06.30-10.17.42:704][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.06.30-10.17.42:709][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2022.06.30-10.17.42:715][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2022.06.30-10.17.42:720][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.06.30-10.17.42:724][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2022.06.30-10.17.42:728][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_5, compiling. 
+[2022.06.30-10.17.42:733][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.06.30-10.17.42:738][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2022.06.30-10.17.42:744][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_9, compiling. 
+[2022.06.30-10.17.42:749][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.30-10.17.42:755][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.06.30-10.17.42:760][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_13, compiling. 
+[2022.06.30-10.17.42:766][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_11, compiling. 
+[2022.06.30-10.17.42:771][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2022.06.30-10.17.43:386][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 114
+[2022.06.30-10.17.43:420][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 113
+[2022.06.30-10.17.43:533][ 35]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 112
+[2022.06.30-10.17.43:940][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 111
+[2022.06.30-10.17.44:123][ 47]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 110
+[2022.06.30-10.17.44:173][ 48]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 109
+[2022.06.30-10.17.44:565][ 57]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 108
+[2022.06.30-10.17.44:565][ 57]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 107
+[2022.06.30-10.17.44:799][ 65]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 106
+[2022.06.30-10.17.44:997][ 71]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 105
+[2022.06.30-10.17.45:173][ 75]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 104
+[2022.06.30-10.17.45:691][ 90]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 103
+[2022.06.30-10.17.45:925][ 97]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2022.06.30-10.17.46:080][ 99]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.30-10.17.46:107][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 101
+[2022.06.30-10.17.46:156][100]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 134
+[2022.06.30-10.17.46:269][100]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/ParagonAurora/Characters/Global/MaterialFunctions/MF_CharacterEffects.MF_CharacterEffects
+[2022.06.30-10.17.46:277][100]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 133
+[2022.06.30-10.17.46:394][100]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 132
+[2022.06.30-10.17.46:395][100]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.30-10.17.46:401][100]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.30-10.17.46:409][100]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.30-10.17.46:417][100]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.30-10.17.46:445][100]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.30-10.17.46:459][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2022.06.30-10.17.46:466][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_2, compiling. 
+[2022.06.30-10.17.46:473][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_3, compiling. 
+[2022.06.30-10.17.46:479][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_6, compiling. 
+[2022.06.30-10.17.46:485][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2022.06.30-10.17.46:502][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_1, compiling. 
+[2022.06.30-10.17.46:508][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2022.06.30-10.17.46:512][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.30-10.17.46:518][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.06.30-10.17.46:523][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_4, compiling. 
+[2022.06.30-10.17.46:604][100]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 196
+[2022.06.30-10.17.46:779][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 195
+[2022.06.30-10.17.47:113][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 194
+[2022.06.30-10.17.47:346][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 193
+[2022.06.30-10.17.47:476][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 192
+[2022.06.30-10.17.47:791][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 191
+[2022.06.30-10.17.48:166][142]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 190
+[2022.06.30-10.17.48:696][157]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 189
+[2022.06.30-10.17.48:782][159]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 188
+[2022.06.30-10.17.48:885][162]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 187
+[2022.06.30-10.17.49:514][182]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 186
+[2022.06.30-10.17.49:566][184]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 185
+[2022.06.30-10.17.49:594][185]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 184
+[2022.06.30-10.17.49:975][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 183
+[2022.06.30-10.17.50:057][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 182
+[2022.06.30-10.17.50:203][207]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 181
+[2022.06.30-10.17.50:232][208]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 180
+[2022.06.30-10.17.50:544][219]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 179
+[2022.06.30-10.17.50:932][232]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 178
+[2022.06.30-10.17.51:323][244]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 177
+[2022.06.30-10.17.51:472][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 176
+[2022.06.30-10.17.51:971][263]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 175
+[2022.06.30-10.17.52:167][269]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 174
+[2022.06.30-10.17.52:340][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 173
+[2022.06.30-10.17.52:682][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 172
+[2022.06.30-10.17.52:837][289]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 171
+[2022.06.30-10.17.53:122][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 170
+[2022.06.30-10.17.53:412][306]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 169
+[2022.06.30-10.17.53:613][312]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 168
+[2022.06.30-10.17.53:838][319]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 167
+[2022.06.30-10.17.54:363][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2022.06.30-10.17.54:398][332]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 165
+[2022.06.30-10.17.54:432][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 164
+[2022.06.30-10.17.54:664][338]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 163
+[2022.06.30-10.17.55:172][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 162
+[2022.06.30-10.17.55:280][356]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 161
+[2022.06.30-10.17.55:895][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 160
+[2022.06.30-10.17.56:075][379]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 159
+[2022.06.30-10.17.56:111][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 158
+[2022.06.30-10.17.56:383][388]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 157
+[2022.06.30-10.17.56:464][390]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 156
+[2022.06.30-10.17.56:645][394]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 155
+[2022.06.30-10.17.56:699][395]MaterialEditorStats: Base pass shader: 415 instructions
+[2022.06.30-10.17.56:699][395]MaterialEditorStats: Base pass shader with Surface Lightmap: 452 instructions
+[2022.06.30-10.17.56:699][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 497 instructions
+[2022.06.30-10.17.56:699][395]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.30-10.17.56:699][395]MaterialEditorStats: Base pass vertex shader: 201 instructions
+[2022.06.30-10.17.56:699][395]MaterialEditorStats: Texture samplers: 11/16
+[2022.06.30-10.17.56:699][395]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(18)
+[2022.06.30-10.17.56:699][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.30-10.17.56:798][398]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 154
+[2022.06.30-10.17.57:056][406]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 153
+[2022.06.30-10.17.57:087][407]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 152
+[2022.06.30-10.17.57:215][411]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 151
+[2022.06.30-10.17.57:556][421]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 150
+[2022.06.30-10.17.57:726][426]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 149
+[2022.06.30-10.17.57:827][429]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 148
+[2022.06.30-10.17.57:827][429]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 147
+[2022.06.30-10.17.58:213][441]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2022.06.30-10.17.58:364][447]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 145
+[2022.06.30-10.17.58:364][447]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 144
+[2022.06.30-10.17.58:390][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 143
+[2022.06.30-10.17.58:905][462]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 142
+[2022.06.30-10.17.58:971][463]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 141
+[2022.06.30-10.17.59:013][465]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 140
+[2022.06.30-10.17.59:044][466]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 139
+[2022.06.30-10.17.59:587][481]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 138
+[2022.06.30-10.17.59:623][482]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 137
+[2022.06.30-10.17.59:623][482]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 136
+[2022.06.30-10.17.59:733][485]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 135
+[2022.06.30-10.18.00:268][499]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 134
+[2022.06.30-10.18.00:339][501]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 133
+[2022.06.30-10.18.00:339][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 132
+[2022.06.30-10.18.00:387][502]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 131
+[2022.06.30-10.18.00:931][517]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 130
+[2022.06.30-10.18.00:931][517]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 129
+[2022.06.30-10.18.00:962][518]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 128
+[2022.06.30-10.18.01:058][521]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 127
+[2022.06.30-10.18.01:596][536]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 126
+[2022.06.30-10.18.01:627][537]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 125
+[2022.06.30-10.18.01:653][538]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 124
+[2022.06.30-10.18.01:682][539]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 123
+[2022.06.30-10.18.02:154][553]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2022.06.30-10.18.02:209][555]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2022.06.30-10.18.02:209][555]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 120
+[2022.06.30-10.18.02:258][557]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 119
+[2022.06.30-10.18.02:711][569]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 118
+[2022.06.30-10.18.02:768][571]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 117
+[2022.06.30-10.18.02:795][572]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 116
+[2022.06.30-10.18.02:825][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 115
+[2022.06.30-10.18.03:332][588]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 114
+[2022.06.30-10.18.03:361][589]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 113
+[2022.06.30-10.18.03:361][589]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 112
+[2022.06.30-10.18.03:386][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 111
+[2022.06.30-10.18.03:892][605]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 110
+[2022.06.30-10.18.03:918][606]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 109
+[2022.06.30-10.18.03:944][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 108
+[2022.06.30-10.18.04:000][609]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 107
+[2022.06.30-10.18.04:444][621]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 106
+[2022.06.30-10.18.04:504][623]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 105
+[2022.06.30-10.18.04:504][623]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 104
+[2022.06.30-10.18.04:563][625]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 103
+[2022.06.30-10.18.05:020][637]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2022.06.30-10.18.05:049][638]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 101
+[2022.06.30-10.18.05:078][639]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 100
+[2022.06.30-10.18.05:103][640]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 99
+[2022.06.30-10.18.05:588][652]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 98
+[2022.06.30-10.18.05:637][654]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 97
+[2022.06.30-10.18.05:666][655]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 96
+[2022.06.30-10.18.06:039][665]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 95
+[2022.06.30-10.18.06:135][668]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 94
+[2022.06.30-10.18.06:239][671]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 93
+[2022.06.30-10.18.06:321][673]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 92
+[2022.06.30-10.18.06:427][676]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 91
+[2022.06.30-10.18.06:585][680]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 90
+[2022.06.30-10.18.06:771][685]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 89
+[2022.06.30-10.18.07:223][698]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 88
+[2022.06.30-10.18.07:256][699]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 87
+[2022.06.30-10.18.07:752][712]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2022.06.30-10.18.07:891][716]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 85
+[2022.06.30-10.18.07:996][719]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2022.06.30-10.18.08:140][723]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 83
+[2022.06.30-10.18.08:172][724]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2022.06.30-10.18.08:410][731]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 81
+[2022.06.30-10.18.08:410][731]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2022.06.30-10.18.08:693][739]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 79
+[2022.06.30-10.18.08:980][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 78
+[2022.06.30-10.18.09:238][753]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2022.06.30-10.18.09:272][754]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2022.06.30-10.18.09:480][760]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2022.06.30-10.18.09:694][766]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2022.06.30-10.18.09:909][771]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2022.06.30-10.18.09:915][771]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.30-10.18.10:199][777]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2022.06.30-10.18.10:476][785]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2022.06.30-10.18.10:793][792]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2022.06.30-10.18.11:001][796]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2022.06.30-10.18.11:145][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2022.06.30-10.18.11:389][804]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 69
+[2022.06.30-10.18.11:552][804]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ParagonAurora/Characters/Global/Hair/Materials/M_HairSheet_Master2.M_HairSheet_Master2
+[2022.06.30-10.18.11:588][804]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2022.06.30-10.18.11:588][804]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2022.06.30-10.18.11:652][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 67
+[2022.06.30-10.18.11:652][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2022.06.30-10.18.11:775][804]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2022.06.30-10.18.11:851][804]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2022.06.30-10.18.11:924][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_11, compiling. 
+[2022.06.30-10.18.11:929][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_12, compiling. 
+[2022.06.30-10.18.11:935][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.06.30-10.18.11:940][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2022.06.30-10.18.11:945][804]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 137
+[2022.06.30-10.18.11:945][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_5, compiling. 
+[2022.06.30-10.18.11:951][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2022.06.30-10.18.11:958][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_7, compiling. 
+[2022.06.30-10.18.11:964][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2022.06.30-10.18.11:970][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_8, compiling. 
+[2022.06.30-10.18.11:977][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_11, compiling. 
+[2022.06.30-10.18.11:983][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_18, compiling. 
+[2022.06.30-10.18.11:989][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_19, compiling. 
+[2022.06.30-10.18.11:993][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2022.06.30-10.18.11:999][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2022.06.30-10.18.12:006][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2022.06.30-10.18.12:011][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2022.06.30-10.18.12:017][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2022.06.30-10.18.12:024][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_9, compiling. 
+[2022.06.30-10.18.12:030][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_137, compiling. 
+[2022.06.30-10.18.12:035][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_101, compiling. 
+[2022.06.30-10.18.12:040][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_100, compiling. 
+[2022.06.30-10.18.12:046][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_16, compiling. 
+[2022.06.30-10.18.12:052][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2022.06.30-10.18.12:057][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2022.06.30-10.18.12:062][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_138, compiling. 
+[2022.06.30-10.18.12:068][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_10, compiling. 
+[2022.06.30-10.18.12:072][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_13, compiling. 
+[2022.06.30-10.18.12:078][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_15, compiling. 
+[2022.06.30-10.18.12:084][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_18, compiling. 
+[2022.06.30-10.18.12:090][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_14, compiling. 
+[2022.06.30-10.18.12:096][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 240
+[2022.06.30-10.18.12:096][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_17, compiling. 
+[2022.06.30-10.18.12:101][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.30-10.18.12:107][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFresnel_0, compiling. 
+[2022.06.30-10.18.12:112][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 251
+[2022.06.30-10.18.12:112][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2022.06.30-10.18.12:118][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2022.06.30-10.18.12:124][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2022.06.30-10.18.12:129][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_13, compiling. 
+[2022.06.30-10.18.12:135][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_19, compiling. 
+[2022.06.30-10.18.12:140][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_20, compiling. 
+[2022.06.30-10.18.12:145][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_21, compiling. 
+[2022.06.30-10.18.12:152][804]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 278
+[2022.06.30-10.18.12:152][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_17, compiling. 
+[2022.06.30-10.18.12:158][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_9, compiling. 
+[2022.06.30-10.18.12:729][805]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 289
+[2022.06.30-10.18.12:729][805]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 288
+[2022.06.30-10.18.12:729][805]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 287
+[2022.06.30-10.18.12:729][805]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 286
+[2022.06.30-10.18.13:178][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 285
+[2022.06.30-10.18.13:320][818]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 284
+[2022.06.30-10.18.13:320][818]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 283
+[2022.06.30-10.18.13:356][819]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 282
+[2022.06.30-10.18.13:878][833]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 281
+[2022.06.30-10.18.13:909][834]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 280
+[2022.06.30-10.18.13:909][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 279
+[2022.06.30-10.18.14:062][839]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 278
+[2022.06.30-10.18.14:480][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 277
+[2022.06.30-10.18.14:621][855]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 276
+[2022.06.30-10.18.14:621][855]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 275
+[2022.06.30-10.18.14:621][855]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 274
+[2022.06.30-10.18.15:211][870]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 273
+[2022.06.30-10.18.15:244][871]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 272
+[2022.06.30-10.18.15:244][871]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 271
+[2022.06.30-10.18.15:313][873]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 270
+[2022.06.30-10.18.15:862][887]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 269
+[2022.06.30-10.18.15:975][890]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 268
+[2022.06.30-10.18.15:975][890]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 267
+[2022.06.30-10.18.15:975][890]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 266
+[2022.06.30-10.18.16:572][904]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 265
+[2022.06.30-10.18.16:621][905]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 264
+[2022.06.30-10.18.16:707][907]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 263
+[2022.06.30-10.18.16:906][912]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 262
+[2022.06.30-10.18.17:059][916]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 261
+[2022.06.30-10.18.17:140][918]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 260
+[2022.06.30-10.18.17:611][930]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 259
+[2022.06.30-10.18.17:715][933]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 258
+[2022.06.30-10.18.18:172][946]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 257
+[2022.06.30-10.18.18:203][947]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 256
+[2022.06.30-10.18.18:351][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 255
+[2022.06.30-10.18.18:688][961]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 254
+[2022.06.30-10.18.18:726][962]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 253
+[2022.06.30-10.18.18:764][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 252
+[2022.06.30-10.18.19:130][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 251
+[2022.06.30-10.18.19:355][979]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 250
+[2022.06.30-10.18.19:392][980]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 249
+[2022.06.30-10.18.19:582][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 248
+[2022.06.30-10.18.20:055][997]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 247
+[2022.06.30-10.18.20:123][999]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 246
+[2022.06.30-10.18.20:513][ 11]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 245
+[2022.06.30-10.18.20:546][ 12]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 244
+[2022.06.30-10.18.20:648][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 243
+[2022.06.30-10.18.20:782][ 19]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 242
+[2022.06.30-10.18.21:069][ 27]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 241
+[2022.06.30-10.18.21:171][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 240
+[2022.06.30-10.18.21:548][ 41]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 239
+[2022.06.30-10.18.21:713][ 46]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 238
+[2022.06.30-10.18.21:746][ 47]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 237
+[2022.06.30-10.18.22:020][ 55]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 236
+[2022.06.30-10.18.22:326][ 64]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 235
+[2022.06.30-10.18.23:075][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 234
+[2022.06.30-10.18.23:108][ 86]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 233
+[2022.06.30-10.18.23:108][ 86]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 232
+[2022.06.30-10.18.23:860][107]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 231
+[2022.06.30-10.18.23:933][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 230
+[2022.06.30-10.18.24:035][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 229
+[2022.06.30-10.18.24:457][124]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 228
+[2022.06.30-10.18.24:600][128]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 227
+[2022.06.30-10.18.24:770][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 226
+[2022.06.30-10.18.24:966][138]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 225
+[2022.06.30-10.18.25:223][145]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 224
+[2022.06.30-10.18.25:631][156]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 223
+[2022.06.30-10.18.25:970][165]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 222
+[2022.06.30-10.18.26:201][172]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 221
+[2022.06.30-10.18.26:864][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 220
+[2022.06.30-10.18.26:972][194]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 219
+[2022.06.30-10.18.27:039][196]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 218
+[2022.06.30-10.18.27:552][210]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 217
+[2022.06.30-10.18.27:659][213]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 216
+[2022.06.30-10.18.27:829][218]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 215
+[2022.06.30-10.18.28:412][234]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 214
+[2022.06.30-10.18.28:639][240]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 213
+[2022.06.30-10.18.28:710][242]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 212
+[2022.06.30-10.18.29:353][260]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 211
+[2022.06.30-10.18.29:388][261]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 210
+[2022.06.30-10.18.29:491][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 209
+[2022.06.30-10.18.29:662][269]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 208
+[2022.06.30-10.18.30:253][286]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 207
+[2022.06.30-10.18.30:253][286]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 206
+[2022.06.30-10.18.30:709][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 205
+[2022.06.30-10.18.30:845][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 204
+[2022.06.30-10.18.31:208][313]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 203
+[2022.06.30-10.18.31:413][319]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 202
+[2022.06.30-10.18.31:413][319]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 201
+[2022.06.30-10.18.31:600][323]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 200
+[2022.06.30-10.18.31:763][326]MaterialEditorStats: Base pass shader: 264 instructions
+[2022.06.30-10.18.31:763][326]MaterialEditorStats: Base pass shader with Surface Lightmap: 419 instructions
+[2022.06.30-10.18.31:763][326]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 463 instructions
+[2022.06.30-10.18.31:763][326]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2022.06.30-10.18.31:763][326]MaterialEditorStats: Base pass vertex shader: 204 instructions
+[2022.06.30-10.18.31:763][326]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.30-10.18.31:763][326]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(7)
+[2022.06.30-10.18.31:763][326]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.30-10.18.31:835][328]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 199
+[2022.06.30-10.18.32:019][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 198
+[2022.06.30-10.18.32:167][337]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 197
+[2022.06.30-10.18.32:342][342]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 196
+[2022.06.30-10.18.32:409][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 195
+[2022.06.30-10.18.32:619][350]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 194
+[2022.06.30-10.18.32:953][359]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 193
+[2022.06.30-10.18.33:060][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 192
+[2022.06.30-10.18.33:060][362]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 191
+[2022.06.30-10.18.33:226][367]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 190
+[2022.06.30-10.18.33:418][372]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.30-10.18.33:449][372]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.30-10.18.33:470][372]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.30-10.18.33:501][372]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.30-10.18.33:620][375]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 216
+[2022.06.30-10.18.33:657][376]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 215
+[2022.06.30-10.18.33:790][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 214
+[2022.06.30-10.18.33:790][380]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 213
+[2022.06.30-10.18.34:389][395]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 212
+[2022.06.30-10.18.34:446][395]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 211
+[2022.06.30-10.18.34:446][395]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 210
+[2022.06.30-10.18.34:446][395]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 209
+[2022.06.30-10.18.34:812][404]LogMaterialEditor: Saving and Compiling material MF_CharacterEffects
+[2022.06.30-10.18.36:009][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 208
+[2022.06.30-10.18.36:009][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 207
+[2022.06.30-10.18.36:009][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 206
+[2022.06.30-10.18.36:009][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 205
+[2022.06.30-10.18.36:009][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 204
+[2022.06.30-10.18.36:009][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 203
+[2022.06.30-10.18.36:009][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 202
+[2022.06.30-10.18.36:009][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 201
+[2022.06.30-10.18.36:082][404]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.06.30-10.18.36:172][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 173
+[2022.06.30-10.18.36:172][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 172
+[2022.06.30-10.18.36:172][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 171
+[2022.06.30-10.18.36:176][404]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.06.30-10.18.36:200][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 197
+[2022.06.30-10.18.36:289][404]LogMaterial: Display: Missing cached shader map for material M_TearDuct_2, compiling. 
+[2022.06.30-10.18.36:498][404]LogMaterial: Display: Missing cached shader map for material M_TearLine, compiling. 
+[2022.06.30-10.18.36:721][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 356
+[2022.06.30-10.18.36:721][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 355
+[2022.06.30-10.18.36:721][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 354
+[2022.06.30-10.18.36:729][404]LogMaterial: Display: Missing cached shader map for material M_Aurora_Armor, compiling. 
+[2022.06.30-10.18.36:857][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 546
+[2022.06.30-10.18.36:871][404]LogMaterial: Display: Missing cached shader map for material M_Aurora_Body, compiling. 
+[2022.06.30-10.18.36:997][404]LogMaterial: Display: Missing cached shader map for material M_Aurora_Body_Metals, compiling. 
+[2022.06.30-10.18.37:112][404]LogMaterial: Display: Missing cached shader map for material M_Aurora_Body_Skin, compiling. 
+[2022.06.30-10.18.37:231][404]LogMaterial: Display: Missing cached shader map for material M_Aurora_Dress, compiling. 
+[2022.06.30-10.18.37:383][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 942
+[2022.06.30-10.18.37:383][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 941
+[2022.06.30-10.18.37:383][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 940
+[2022.06.30-10.18.37:383][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 939
+[2022.06.30-10.18.37:390][404]LogMaterial: Display: Missing cached shader map for material M_Aurora_Dress_Skin, compiling. 
+[2022.06.30-10.18.37:501][404]LogMaterial: Display: Missing cached shader map for material M_Aurora_Head, compiling. 
+[2022.06.30-10.18.37:631][404]LogMaterial: Display: Missing cached shader map for material M_Aurora_Sword, compiling. 
+[2022.06.30-10.18.37:768][404]LogMaterial: Display: Missing cached shader map for material M_Mouth_Master, compiling. 
+[2022.06.30-10.18.37:881][404]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2022.06.30-10.18.38:016][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1466
+[2022.06.30-10.18.38:016][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1465
+[2022.06.30-10.18.38:016][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1464
+[2022.06.30-10.18.38:016][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1463
+[2022.06.30-10.18.38:043][404]LogMaterial: Display: Missing cached shader map for material M_EyelashMaster_N, compiling. 
+[2022.06.30-10.18.38:149][404]LogMaterial: Display: Missing cached shader map for material M_EyeRefractive, compiling. 
+[2022.06.30-10.18.38:280][404]LogMaterial: Display: Missing cached shader map for material M_Aurora_Sword, compiling. 
+[2022.06.30-10.18.38:397][404]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2022.06.30-10.18.38:710][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1953
+[2022.06.30-10.18.38:710][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2012
+[2022.06.30-10.18.38:710][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2011
+[2022.06.30-10.18.38:710][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2010
+[2022.06.30-10.18.38:713][404]LogMaterial: Display: Missing cached shader map for material M_EyelashMaster_N, compiling. 
+[2022.06.30-10.18.38:801][404]LogMaterial: Display: Missing cached shader map for material M_EyeRefractive, compiling. 
+[2022.06.30-10.18.38:932][404]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2022.06.30-10.18.39:069][404]LogMaterial: Display: Missing cached shader map for material M_Mouth_Master, compiling. 
+[2022.06.30-10.18.40:180][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2453
+[2022.06.30-10.18.40:180][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2452
+[2022.06.30-10.18.40:180][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2451
+[2022.06.30-10.18.40:180][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2558
+[2022.06.30-10.18.40:180][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2557
+[2022.06.30-10.18.40:180][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2556
+[2022.06.30-10.18.40:180][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2555
+[2022.06.30-10.18.40:180][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2554
+[2022.06.30-10.18.40:494][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2553
+[2022.06.30-10.18.40:506][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2552
+[2022.06.30-10.18.40:566][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2551
+[2022.06.30-10.18.40:626][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2550
+[2022.06.30-10.18.40:709][404]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2022.06.30-10.18.40:902][404]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/MF_CharacterEffects715C299A42CF5BE8896734A90BA0069A.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Global/MaterialFunctions/MF_CharacterEffects.uasset'
+[2022.06.30-10.18.40:985][404]AssetCheck: New page: Asset Save: MF_CharacterEffects
+[2022.06.30-10.18.40:985][404]LogContentValidation: Display: Validating MaterialFunction /Game/ParagonAurora/Characters/Global/MaterialFunctions/MF_CharacterEffects.MF_CharacterEffects
+[2022.06.30-10.18.41:388][409]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2583
+[2022.06.30-10.18.41:497][411]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2582
+[2022.06.30-10.18.41:754][414]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2581
+[2022.06.30-10.18.41:821][415]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2580
+[2022.06.30-10.18.42:422][427]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2579
+[2022.06.30-10.18.42:423][427]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2578
+[2022.06.30-10.18.42:423][427]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2577
+[2022.06.30-10.18.42:493][428]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2576
+[2022.06.30-10.18.43:171][441]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2575
+[2022.06.30-10.18.43:171][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2574
+[2022.06.30-10.18.43:266][443]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2573
+[2022.06.30-10.18.43:316][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2572
+[2022.06.30-10.18.43:926][455]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2571
+[2022.06.30-10.18.44:034][457]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2570
+[2022.06.30-10.18.44:034][457]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2569
+[2022.06.30-10.18.44:092][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2568
+[2022.06.30-10.18.44:734][471]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2567
+[2022.06.30-10.18.44:734][471]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2566
+[2022.06.30-10.18.44:801][472]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2565
+[2022.06.30-10.18.44:859][473]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2564
+[2022.06.30-10.18.45:447][485]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2563
+[2022.06.30-10.18.45:502][486]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2562
+[2022.06.30-10.18.45:547][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2561
+[2022.06.30-10.18.45:597][488]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2560
+[2022.06.30-10.18.46:215][499]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2559
+[2022.06.30-10.18.46:337][501]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2558
+[2022.06.30-10.18.46:337][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2557
+[2022.06.30-10.18.46:337][501]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2556
+[2022.06.30-10.18.47:046][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2555
+[2022.06.30-10.18.47:046][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2554
+[2022.06.30-10.18.47:107][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2553
+[2022.06.30-10.18.47:181][517]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2552
+[2022.06.30-10.18.47:778][528]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2551
+[2022.06.30-10.18.47:779][528]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2550
+[2022.06.30-10.18.47:873][530]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2549
+[2022.06.30-10.18.47:873][530]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2548
+[2022.06.30-10.18.48:515][543]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2547
+[2022.06.30-10.18.48:564][544]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2546
+[2022.06.30-10.18.48:630][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2545
+[2022.06.30-10.18.48:630][545]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2544
+[2022.06.30-10.18.49:268][557]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2543
+[2022.06.30-10.18.49:323][558]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2542
+[2022.06.30-10.18.49:323][558]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2541
+[2022.06.30-10.18.49:376][559]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2540
+[2022.06.30-10.18.49:979][571]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2539
+[2022.06.30-10.18.49:980][571]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2538
+[2022.06.30-10.18.50:074][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2537
+[2022.06.30-10.18.50:125][574]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2536
+[2022.06.30-10.18.50:687][584]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2535
+[2022.06.30-10.18.50:732][585]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2534
+[2022.06.30-10.18.50:778][586]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2533
+[2022.06.30-10.18.50:778][586]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2532
+[2022.06.30-10.18.51:390][598]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2531
+[2022.06.30-10.18.51:442][599]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2530
+[2022.06.30-10.18.51:499][600]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2529
+[2022.06.30-10.18.51:545][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2528
+[2022.06.30-10.18.52:166][612]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2527
+[2022.06.30-10.18.52:167][612]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2526
+[2022.06.30-10.18.52:224][613]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2525
+[2022.06.30-10.18.52:224][613]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2524
+[2022.06.30-10.18.52:813][625]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2523
+[2022.06.30-10.18.52:862][626]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2522
+[2022.06.30-10.18.52:975][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2521
+[2022.06.30-10.18.52:975][628]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2520
+[2022.06.30-10.18.53:599][640]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2519
+[2022.06.30-10.18.53:661][641]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2518
+[2022.06.30-10.18.53:661][641]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2517
+[2022.06.30-10.18.53:711][642]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2516
+[2022.06.30-10.18.54:346][654]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2515
+[2022.06.30-10.18.54:434][656]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2514
+[2022.06.30-10.18.54:476][657]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2513
+[2022.06.30-10.18.54:518][658]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2512
+[2022.06.30-10.18.55:148][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2511
+[2022.06.30-10.18.55:150][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2510
+[2022.06.30-10.18.55:150][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2509
+[2022.06.30-10.18.55:150][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2508
+[2022.06.30-10.18.55:750][685]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2507
+[2022.06.30-10.18.55:794][686]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2506
+[2022.06.30-10.18.55:885][688]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2505
+[2022.06.30-10.18.55:932][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2504
+[2022.06.30-10.18.56:526][702]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2503
+[2022.06.30-10.18.56:526][702]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2502
+[2022.06.30-10.18.56:526][702]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2501
+[2022.06.30-10.18.56:575][703]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2500
+[2022.06.30-10.18.57:206][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2499
+[2022.06.30-10.18.57:206][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2498
+[2022.06.30-10.18.57:342][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2497
+[2022.06.30-10.18.57:342][718]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2496
+[2022.06.30-10.18.58:016][731]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2495
+[2022.06.30-10.18.58:016][731]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2494
+[2022.06.30-10.18.58:016][731]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2493
+[2022.06.30-10.18.58:063][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2492
+[2022.06.30-10.18.58:652][743]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2491
+[2022.06.30-10.18.58:706][744]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2490
+[2022.06.30-10.18.58:803][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2489
+[2022.06.30-10.18.58:846][747]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2488
+[2022.06.30-10.18.59:424][758]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2487
+[2022.06.30-10.18.59:424][758]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2486
+[2022.06.30-10.18.59:485][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2485
+[2022.06.30-10.18.59:528][760]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2484
+[2022.06.30-10.19.00:136][772]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2483
+[2022.06.30-10.19.00:136][772]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2482
+[2022.06.30-10.19.00:255][774]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2481
+[2022.06.30-10.19.00:255][774]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2480
+[2022.06.30-10.19.00:861][786]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2479
+[2022.06.30-10.19.00:965][788]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2478
+[2022.06.30-10.19.00:965][788]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2477
+[2022.06.30-10.19.01:418][797]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2476
+[2022.06.30-10.19.01:532][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2475
+[2022.06.30-10.19.01:588][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2474
+[2022.06.30-10.19.01:722][803]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2473
+[2022.06.30-10.19.01:803][805]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2472
+[2022.06.30-10.19.02:052][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2471
+[2022.06.30-10.19.02:215][813]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2470
+[2022.06.30-10.19.02:679][822]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2469
+[2022.06.30-10.19.02:742][823]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2468
+[2022.06.30-10.19.03:257][833]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2467
+[2022.06.30-10.19.03:458][837]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2466
+[2022.06.30-10.19.03:548][839]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2465
+[2022.06.30-10.19.03:648][841]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2464
+[2022.06.30-10.19.03:698][842]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2463
+[2022.06.30-10.19.03:967][847]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2462
+[2022.06.30-10.19.03:967][847]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2461
+[2022.06.30-10.19.04:325][854]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2460
+[2022.06.30-10.19.04:570][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2459
+[2022.06.30-10.19.04:832][864]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2458
+[2022.06.30-10.19.04:932][866]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2457
+[2022.06.30-10.19.05:174][870]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2456
+[2022.06.30-10.19.05:351][873]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2455
+[2022.06.30-10.19.05:565][878]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2454
+[2022.06.30-10.19.06:060][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2453
+[2022.06.30-10.19.06:297][891]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2452
+[2022.06.30-10.19.06:811][901]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2451
+[2022.06.30-10.19.06:861][902]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2450
+[2022.06.30-10.19.07:017][905]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2449
+[2022.06.30-10.19.07:417][913]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2448
+[2022.06.30-10.19.07:417][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2447
+[2022.06.30-10.19.07:470][914]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2446
+[2022.06.30-10.19.07:610][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2445
+[2022.06.30-10.19.07:909][923]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2444
+[2022.06.30-10.19.08:052][926]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2443
+[2022.06.30-10.19.08:053][926]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2442
+[2022.06.30-10.19.08:503][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2441
+[2022.06.30-10.19.08:558][936]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2440
+[2022.06.30-10.19.08:652][938]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2439
+[2022.06.30-10.19.09:168][948]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2438
+[2022.06.30-10.19.09:424][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2437
+[2022.06.30-10.19.09:623][957]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2436
+[2022.06.30-10.19.09:811][961]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2435
+[2022.06.30-10.19.09:925][963]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2434
+[2022.06.30-10.19.09:925][963]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2433
+[2022.06.30-10.19.10:224][969]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2432
+[2022.06.30-10.19.10:466][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2431
+[2022.06.30-10.19.10:732][979]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2430
+[2022.06.30-10.19.10:873][982]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2429
+[2022.06.30-10.19.11:151][987]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2428
+[2022.06.30-10.19.11:294][990]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2427
+[2022.06.30-10.19.11:696][998]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2426
+[2022.06.30-10.19.12:222][  8]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2425
+[2022.06.30-10.19.12:372][ 11]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2424
+[2022.06.30-10.19.12:464][ 13]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2423
+[2022.06.30-10.19.13:157][ 26]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2422
+[2022.06.30-10.19.13:157][ 26]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2421
+[2022.06.30-10.19.13:210][ 27]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2420
+[2022.06.30-10.19.13:672][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2419
+[2022.06.30-10.19.13:813][ 39]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2418
+[2022.06.30-10.19.13:969][ 42]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2417
+[2022.06.30-10.19.13:970][ 42]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2416
+[2022.06.30-10.19.14:399][ 50]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2415
+[2022.06.30-10.19.14:876][ 59]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2414
+[2022.06.30-10.19.15:417][ 69]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2413
+[2022.06.30-10.19.15:418][ 69]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2412
+[2022.06.30-10.19.15:929][ 79]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2411
+[2022.06.30-10.19.16:242][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2410
+[2022.06.30-10.19.16:294][ 86]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2409
+[2022.06.30-10.19.16:807][ 96]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2408
+[2022.06.30-10.19.16:855][ 97]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2407
+[2022.06.30-10.19.17:224][104]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2406
+[2022.06.30-10.19.17:559][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2405
+[2022.06.30-10.19.17:608][112]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2404
+[2022.06.30-10.19.17:980][119]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2403
+[2022.06.30-10.19.18:504][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2402
+[2022.06.30-10.19.18:504][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2401
+[2022.06.30-10.19.18:548][130]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2400
+[2022.06.30-10.19.18:911][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2399
+[2022.06.30-10.19.19:315][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2398
+[2022.06.30-10.19.19:750][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2397
+[2022.06.30-10.19.19:850][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2396
+[2022.06.30-10.19.20:216][163]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2395
+[2022.06.30-10.19.20:314][165]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2394
+[2022.06.30-10.19.20:507][169]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2393
+[2022.06.30-10.19.20:615][169]MaterialEditorStats: Base pass shader: 415 instructions
+[2022.06.30-10.19.20:615][169]MaterialEditorStats: Base pass shader with Surface Lightmap: 452 instructions
+[2022.06.30-10.19.20:615][169]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 497 instructions
+[2022.06.30-10.19.20:615][169]MaterialEditorStats: Base pass vertex shader: 99 instructions
+[2022.06.30-10.19.20:615][169]MaterialEditorStats: Base pass vertex shader: 201 instructions
+[2022.06.30-10.19.20:615][169]MaterialEditorStats: Texture samplers: 11/16
+[2022.06.30-10.19.20:615][169]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(18)
+[2022.06.30-10.19.20:615][169]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.30-10.19.20:833][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2392
+[2022.06.30-10.19.21:116][180]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2391
+[2022.06.30-10.19.21:413][186]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2390
+[2022.06.30-10.19.21:561][189]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2389
+[2022.06.30-10.19.21:561][189]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2388
+[2022.06.30-10.19.21:864][195]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2387
+[2022.06.30-10.19.21:985][197]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2386
+[2022.06.30-10.19.21:985][197]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2385
+[2022.06.30-10.19.22:372][205]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2384
+[2022.06.30-10.19.22:583][209]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2383
+[2022.06.30-10.19.22:632][210]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2382
+[2022.06.30-10.19.22:782][213]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2381
+[2022.06.30-10.19.23:309][223]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2380
+[2022.06.30-10.19.23:353][224]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2379
+[2022.06.30-10.19.23:726][231]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2378
+[2022.06.30-10.19.23:772][232]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2377
+[2022.06.30-10.19.23:916][235]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2376
+[2022.06.30-10.19.24:076][238]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2375
+[2022.06.30-10.19.24:346][243]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2374
+[2022.06.30-10.19.24:489][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2373
+[2022.06.30-10.19.24:776][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2372
+[2022.06.30-10.19.24:936][255]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2371
+[2022.06.30-10.19.24:987][256]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2370
+[2022.06.30-10.19.25:293][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2369
+[2022.06.30-10.19.25:592][268]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2368
+[2022.06.30-10.19.26:342][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2367
+[2022.06.30-10.19.26:342][282]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2366
+[2022.06.30-10.19.26:439][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2365
+[2022.06.30-10.19.27:124][297]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2364
+[2022.06.30-10.19.27:181][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2363
+[2022.06.30-10.19.27:181][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2362
+[2022.06.30-10.19.27:723][309]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2361
+[2022.06.30-10.19.27:790][310]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2360
+[2022.06.30-10.19.27:933][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2359
+[2022.06.30-10.19.28:127][317]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2358
+[2022.06.30-10.19.28:283][320]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2357
+[2022.06.30-10.19.28:827][330]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2356
+[2022.06.30-10.19.29:199][337]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2355
+[2022.06.30-10.19.29:344][340]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2354
+[2022.06.30-10.19.30:075][354]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2353
+[2022.06.30-10.19.30:076][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2352
+[2022.06.30-10.19.30:186][356]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2351
+[2022.06.30-10.19.30:698][366]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2350
+[2022.06.30-10.19.30:754][367]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2349
+[2022.06.30-10.19.31:007][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2348
+[2022.06.30-10.19.31:471][381]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2347
+[2022.06.30-10.19.31:761][387]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2346
+[2022.06.30-10.19.31:862][389]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2345
+[2022.06.30-10.19.32:457][400]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2344
+[2022.06.30-10.19.32:457][400]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2343
+[2022.06.30-10.19.32:591][403]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2342
+[2022.06.30-10.19.32:783][407]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2341
+[2022.06.30-10.19.33:341][418]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2340
+[2022.06.30-10.19.33:341][418]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2339
+[2022.06.30-10.19.33:752][426]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2329
+[2022.06.30-10.19.34:270][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2319
+[2022.06.30-10.19.34:432][439]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2309
+[2022.06.30-10.19.34:540][439]MaterialEditorStats: Base pass shader: 264 instructions
+[2022.06.30-10.19.34:540][439]MaterialEditorStats: Base pass shader with Surface Lightmap: 419 instructions
+[2022.06.30-10.19.34:540][439]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 463 instructions
+[2022.06.30-10.19.34:540][439]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2022.06.30-10.19.34:540][439]MaterialEditorStats: Base pass vertex shader: 204 instructions
+[2022.06.30-10.19.34:540][439]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.30-10.19.34:540][439]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(7)
+[2022.06.30-10.19.34:541][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.30-10.19.40:139][548]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2299
+[2022.06.30-10.19.41:077][566]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2289
+[2022.06.30-10.19.42:066][585]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2279
+[2022.06.30-10.19.43:445][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2269
+[2022.06.30-10.19.48:461][708]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2259
+[2022.06.30-10.19.48:768][714]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2249
+[2022.06.30-10.19.55:869][853]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2239
+[2022.06.30-10.19.58:487][905]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2229
+[2022.06.30-10.19.59:241][920]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2219
+[2022.06.30-10.20.01:918][973]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2209
+[2022.06.30-10.20.04:102][ 16]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2199
+[2022.06.30-10.20.05:960][ 52]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2189
+[2022.06.30-10.20.07:442][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2179
+[2022.06.30-10.20.09:961][128]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2169
+[2022.06.30-10.20.12:763][184]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2159
+[2022.06.30-10.20.13:797][205]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2149
+[2022.06.30-10.20.15:212][233]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2139
+[2022.06.30-10.20.16:050][250]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2129
+[2022.06.30-10.20.18:406][296]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2119
+[2022.06.30-10.20.25:920][440]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2109
+[2022.06.30-10.20.38:462][668]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2099
+[2022.06.30-10.20.41:525][728]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2089
+[2022.06.30-10.20.46:791][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2079
+[2022.06.30-10.20.51:974][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2069
+[2022.06.30-10.21.12:619][334]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2059
+[2022.06.30-10.21.13:538][352]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2049
+[2022.06.30-10.21.14:612][375]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2039
+[2022.06.30-10.21.22:315][539]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2029
+[2022.06.30-10.21.39:245][888]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2019
+[2022.06.30-10.21.40:173][906]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2009
+[2022.06.30-10.21.42:467][954]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1999
+[2022.06.30-10.21.45:139][ 12]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1989
+[2022.06.30-10.21.50:449][113]LogUObjectHash: Compacting FUObjectHashTables data took  16.77ms
+[2022.06.30-10.21.51:503][113]LogSlate: Window 'Save Content' being destroyed
+[2022.06.30-10.21.52:426][113]LogUObjectHash: Compacting FUObjectHashTables data took  11.82ms
+[2022.06.30-10.21.53:188][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Demonstration48999993414A0BA01C38B1B03318ED63.tmp' to '../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration.umap'
+[2022.06.30-10.21.53:283][113]LogFileHelpers: Saving map 'Demonstration' took 1.004
+[2022.06.30-10.21.53:283][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget_in_game/INGAME_UI" FILE="../../../../TAI/tai_BT_unreal/Content/Widget_in_game/INGAME_UI.uasset" SILENT=true
+[2022.06.30-10.21.53:348][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/INGAME_UIC0547E7D4E6B0D62C98B609E52D94A02.tmp' to '../../../../TAI/tai_BT_unreal/Content/Widget_in_game/INGAME_UI.uasset'
+[2022.06.30-10.21.58:923][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1979
+[2022.06.30-10.22.02:267][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1969
+[2022.06.30-10.22.07:845][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1959
+[2022.06.30-10.22.12:297][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1949
+[2022.06.30-10.22.18:439][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1939
+[2022.06.30-10.22.19:000][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1929
+[2022.06.30-10.22.19:000][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1919
+[2022.06.30-10.22.24:593][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1909
+[2022.06.30-10.22.25:710][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1899
+[2022.06.30-10.22.28:500][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1889
+[2022.06.30-10.22.30:176][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1879
+[2022.06.30-10.22.32:408][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1869
+[2022.06.30-10.22.34:644][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1859
+[2022.06.30-10.22.36:322][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1849
+[2022.06.30-10.22.36:881][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1839
+[2022.06.30-10.22.38:556][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1829
+[2022.06.30-10.22.41:345][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1819
+[2022.06.30-10.22.41:903][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1809
+[2022.06.30-10.22.44:125][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1799
+[2022.06.30-10.22.45:245][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1789
+[2022.06.30-10.22.47:483][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1779
+[2022.06.30-10.22.48:376][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1769
+[2022.06.30-10.22.48:935][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_Armor1759AC0D40AA5F0CC311809F1D868676.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Armor.uasset'
+[2022.06.30-10.22.50:056][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1759
+[2022.06.30-10.22.51:172][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1749
+[2022.06.30-10.22.57:320][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1739
+[2022.06.30-10.22.57:878][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1729
+[2022.06.30-10.23.00:113][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1719
+[2022.06.30-10.23.00:672][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1709
+[2022.06.30-10.23.04:575][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1699
+[2022.06.30-10.23.06:251][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1689
+[2022.06.30-10.23.06:806][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1679
+[2022.06.30-10.23.07:443][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1669
+[2022.06.30-10.23.07:614][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_Body77E9C0C94E4C44E817F1C48BC2A913CB.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Body.uasset'
+[2022.06.30-10.23.09:843][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1659
+[2022.06.30-10.23.10:401][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1649
+[2022.06.30-10.23.13:189][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1639
+[2022.06.30-10.23.13:746][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1629
+[2022.06.30-10.23.17:089][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1619
+[2022.06.30-10.23.17:648][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1609
+[2022.06.30-10.23.19:880][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1599
+[2022.06.30-10.23.20:121][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1589
+[2022.06.30-10.23.20:271][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_Body_Metals2873D1024BF1D71FF2D66990F8D0CEF9.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Body_Metals.uasset'
+[2022.06.30-10.23.22:497][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1579
+[2022.06.30-10.23.22:497][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1569
+[2022.06.30-10.23.26:961][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1559
+[2022.06.30-10.23.27:517][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1549
+[2022.06.30-10.23.29:752][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1539
+[2022.06.30-10.23.29:752][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1529
+[2022.06.30-10.23.33:651][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1519
+[2022.06.30-10.23.34:317][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1509
+[2022.06.30-10.23.34:547][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_Body_Skin639084724C414CECF101DFB634138DC1.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Body_Skin.uasset'
+[2022.06.30-10.23.36:214][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1499
+[2022.06.30-10.23.39:010][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1489
+[2022.06.30-10.23.42:356][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1479
+[2022.06.30-10.23.43:471][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1469
+[2022.06.30-10.23.44:590][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1459
+[2022.06.30-10.23.48:498][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1449
+[2022.06.30-10.23.49:616][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1439
+[2022.06.30-10.23.51:848][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1429
+[2022.06.30-10.23.51:848][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1419
+[2022.06.30-10.23.57:438][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1409
+[2022.06.30-10.23.57:996][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1399
+[2022.06.30-10.23.59:674][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1389
+[2022.06.30-10.24.00:234][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1379
+[2022.06.30-10.24.01:907][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1369
+[2022.06.30-10.24.04:172][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1359
+[2022.06.30-10.24.04:733][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1349
+[2022.06.30-10.24.05:705][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1339
+[2022.06.30-10.24.05:980][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_Dress859D5ECE45178661437BD1A3F30F1689.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Dress.uasset'
+[2022.06.30-10.24.06:540][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1329
+[2022.06.30-10.24.09:889][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1319
+[2022.06.30-10.24.11:003][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1309
+[2022.06.30-10.24.12:670][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1299
+[2022.06.30-10.24.12:670][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1289
+[2022.06.30-10.24.16:559][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1279
+[2022.06.30-10.24.17:525][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1269
+[2022.06.30-10.24.17:525][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1259
+[2022.06.30-10.24.17:595][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1249
+[2022.06.30-10.24.17:670][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_Dress_Skin92DE0B9642C6D41D1F3B43A8B57EF842.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Dress_Skin.uasset'
+[2022.06.30-10.24.17:782][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_Hair24277F244589015187A33B913D65D90D.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Hair.uasset'
+[2022.06.30-10.24.23:349][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1239
+[2022.06.30-10.24.23:908][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1229
+[2022.06.30-10.24.24:467][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1219
+[2022.06.30-10.24.25:027][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1209
+[2022.06.30-10.24.28:933][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1199
+[2022.06.30-10.24.30:047][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1189
+[2022.06.30-10.24.30:395][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1179
+[2022.06.30-10.24.30:395][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1169
+[2022.06.30-10.24.30:627][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_HeadA604924C413002BC257FD38E295C9B19.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Head.uasset'
+[2022.06.30-10.24.33:421][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1159
+[2022.06.30-10.24.36:214][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1149
+[2022.06.30-10.24.37:319][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1139
+[2022.06.30-10.24.37:874][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1129
+[2022.06.30-10.24.41:771][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1119
+[2022.06.30-10.24.44:002][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1109
+[2022.06.30-10.24.44:002][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1099
+[2022.06.30-10.24.44:170][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1089
+[2022.06.30-10.24.44:337][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_Sword888C90CC46D6934A54EB3298339A1C6D.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Sword.uasset'
+[2022.06.30-10.24.44:452][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_EyelashMaster_AuroraB551FA8B46E834C845BCA9B170234B38.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_EyelashMaster_Aurora.uasset'
+[2022.06.30-10.24.46:128][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1079
+[2022.06.30-10.24.48:364][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1069
+[2022.06.30-10.24.50:598][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1059
+[2022.06.30-10.24.50:598][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1049
+[2022.06.30-10.24.52:279][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1039
+[2022.06.30-10.24.54:518][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1029
+[2022.06.30-10.24.55:076][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1019
+[2022.06.30-10.24.56:193][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1009
+[2022.06.30-10.24.56:193][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 999
+[2022.06.30-10.25.00:660][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 989
+[2022.06.30-10.25.00:660][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 979
+[2022.06.30-10.25.02:337][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 969
+[2022.06.30-10.25.06:242][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 959
+[2022.06.30-10.25.09:033][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 949
+[2022.06.30-10.25.09:033][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 939
+[2022.06.30-10.25.10:151][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 929
+[2022.06.30-10.25.14:624][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 919
+[2022.06.30-10.25.15:184][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 909
+[2022.06.30-10.25.16:859][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 899
+[2022.06.30-10.25.17:416][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 889
+[2022.06.30-10.25.22:445][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 879
+[2022.06.30-10.25.23:002][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 869
+[2022.06.30-10.25.24:673][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 859
+[2022.06.30-10.25.24:673][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 849
+[2022.06.30-10.25.27:459][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 839
+[2022.06.30-10.25.28:571][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 829
+[2022.06.30-10.25.30:249][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 819
+[2022.06.30-10.25.30:249][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 809
+[2022.06.30-10.25.33:027][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 799
+[2022.06.30-10.25.35:260][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 789
+[2022.06.30-10.25.37:495][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 779
+[2022.06.30-10.25.37:495][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 769
+[2022.06.30-10.25.40:854][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 759
+[2022.06.30-10.25.42:530][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 749
+[2022.06.30-10.25.43:086][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 739
+[2022.06.30-10.25.43:644][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 729
+[2022.06.30-10.25.46:993][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 719
+[2022.06.30-10.25.49:232][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 709
+[2022.06.30-10.25.49:233][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 699
+[2022.06.30-10.25.49:726][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_EyelashMaster_N6074AED6469B4E210DCCC690F3884883.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Global/Eyelash/M_EyelashMaster_N.uasset'
+[2022.06.30-10.25.50:849][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 689
+[2022.06.30-10.25.55:870][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 679
+[2022.06.30-10.25.56:985][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 669
+[2022.06.30-10.25.56:985][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 659
+[2022.06.30-10.26.01:452][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 649
+[2022.06.30-10.26.02:569][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 639
+[2022.06.30-10.26.02:569][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 629
+[2022.06.30-10.26.04:240][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 619
+[2022.06.30-10.26.09:829][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 609
+[2022.06.30-10.26.09:829][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 599
+[2022.06.30-10.26.10:389][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 589
+[2022.06.30-10.26.10:948][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 579
+[2022.06.30-10.26.14:856][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 569
+[2022.06.30-10.26.14:856][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 559
+[2022.06.30-10.26.14:856][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 549
+[2022.06.30-10.26.15:121][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 539
+[2022.06.30-10.26.15:319][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_EyeRefractiveA973611C4AA49DFD4F904389A9C679A9.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Global/Eyes/Materials/M_EyeRefractive.uasset'
+[2022.06.30-10.26.15:506][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_HairSheet_Master27C0812E3418435959317E9A49D3BCAB8.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Global/Hair/Materials/M_HairSheet_Master2.uasset'
+[2022.06.30-10.26.15:649][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Mouth_MasterC10A914C467B202385F153ADFC8ECCAA.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Global/Mouth/Materials/M_Mouth_Master.uasset'
+[2022.06.30-10.26.15:755][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Mouth_MId_color1B2D5A6E44EAD9CAC357B1BFB253F4FB.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Global/Mouth/Materials/M_Mouth_MId_color.uasset'
+[2022.06.30-10.26.15:872][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_TearDuct_2C505E1304B4B415CAC12E493DFC87160.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Global/Eyes/Materials/M_TearDuct_2.uasset'
+[2022.06.30-10.26.15:927][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_TearLine365A9FFB491AA76F2C861C874B0711A9.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Global/Eyes/Materials/M_TearLine.uasset'
+[2022.06.30-10.26.15:966][113]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/MI_Aurora_Eye74CBA5EF4FC7E99B238B3EA13558120E.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/MI_Aurora_Eye.uasset'
+[2022.06.30-10.26.16:023][113]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.30-10.26.16:023][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Global/Eyes/Materials/M_TearDuct_2.M_TearDuct_2
+[2022.06.30-10.26.16:023][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Global/Eyes/Materials/M_TearLine.M_TearLine
+[2022.06.30-10.26.16:023][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Armor.M_Aurora_Armor
+[2022.06.30-10.26.16:023][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Body.M_Aurora_Body
+[2022.06.30-10.26.16:023][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Body_Metals.M_Aurora_Body_Metals
+[2022.06.30-10.26.16:023][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Body_Skin.M_Aurora_Body_Skin
+[2022.06.30-10.26.16:024][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Dress.M_Aurora_Dress
+[2022.06.30-10.26.16:024][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Dress_Skin.M_Aurora_Dress_Skin
+[2022.06.30-10.26.16:024][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Head.M_Aurora_Head
+[2022.06.30-10.26.16:024][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Sword.M_Aurora_Sword
+[2022.06.30-10.26.16:024][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Global/Mouth/Materials/M_Mouth_Master.M_Mouth_Master
+[2022.06.30-10.26.16:024][113]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ParagonAurora/Characters/Global/Mouth/Materials/M_Mouth_MId_color.M_Mouth_MId_color
+[2022.06.30-10.26.16:024][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Global/Hair/Materials/M_HairSheet_Master2.M_HairSheet_Master2
+[2022.06.30-10.26.16:024][113]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Hair.M_Aurora_Hair
+[2022.06.30-10.26.16:025][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Global/Eyelash/M_EyelashMaster_N.M_EyelashMaster_N
+[2022.06.30-10.26.16:025][113]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_EyelashMaster_Aurora.M_EyelashMaster_Aurora
+[2022.06.30-10.26.16:025][113]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Global/Eyes/Materials/M_EyeRefractive.M_EyeRefractive
+[2022.06.30-10.26.16:025][113]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/MI_Aurora_Eye.MI_Aurora_Eye
+[2022.06.30-10.26.16:025][113]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget_in_game/INGAME_UI.INGAME_UI
+[2022.06.30-10.26.16:029][113]LogContentValidation: Display: Validating World /Game/SpaceshipInterior/Maps/Demonstration.Demonstration
+[2022.06.30-10.26.19:963][192]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 529
+[2022.06.30-10.26.21:974][235]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 519
+[2022.06.30-10.26.22:973][254]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 509
+[2022.06.30-10.26.23:511][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 499
+[2022.06.30-10.26.28:736][378]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 489
+[2022.06.30-10.26.29:113][386]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 479
+[2022.06.30-10.26.29:201][388]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 469
+[2022.06.30-10.26.29:855][403]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 459
+[2022.06.30-10.26.36:453][550]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 449
+[2022.06.30-10.26.37:785][580]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 439
+[2022.06.30-10.26.38:248][588]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 429
+[2022.06.30-10.26.42:071][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 419
+[2022.06.30-10.26.47:763][798]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 409
+[2022.06.30-10.26.48:748][820]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 399
+[2022.06.30-10.26.50:634][861]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 389
+[2022.06.30-10.26.56:127][978]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 379
+[2022.06.30-10.26.57:143][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 369
+[2022.06.30-10.26.59:376][ 48]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 359
+[2022.06.30-10.27.01:532][ 93]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 349
+[2022.06.30-10.27.09:895][224]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 339
+[2022.06.30-10.27.11:900][257]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 329
+[2022.06.30-10.27.13:842][288]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 319
+[2022.06.30-10.27.14:567][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 309
+[2022.06.30-10.27.19:192][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 299
+[2022.06.30-10.27.22:450][424]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 289
+[2022.06.30-10.27.24:784][459]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 279
+[2022.06.30-10.27.26:521][485]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 269
+[2022.06.30-10.27.32:291][553]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 259
+[2022.06.30-10.27.38:542][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 249
+[2022.06.30-10.27.39:628][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 239
+[2022.06.30-10.27.42:797][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 229
+[2022.06.30-10.27.45:003][790]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 219
+[2022.06.30-10.27.50:419][876]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 209
+[2022.06.30-10.27.52:929][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 199
+[2022.06.30-10.27.57:031][  1]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 189
+[2022.06.30-10.27.58:049][ 21]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 179
+[2022.06.30-10.28.02:816][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 169
+[2022.06.30-10.28.06:135][169]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 159
+[2022.06.30-10.28.09:245][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 149
+[2022.06.30-10.28.10:236][239]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 139
+[2022.06.30-10.28.11:664][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 129
+[2022.06.30-10.28.16:079][350]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 119
+[2022.06.30-10.28.16:578][360]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 109
+[2022.06.30-10.28.19:309][412]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 99
+[2022.06.30-10.28.19:368][413]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 89
+[2022.06.30-10.28.25:482][527]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 79
+[2022.06.30-10.28.25:748][532]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2022.06.30-10.28.29:634][599]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2022.06.30-10.28.29:974][606]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2022.06.30-10.28.35:204][718]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2022.06.30-10.28.35:204][718]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2022.06.30-10.28.36:200][741]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2022.06.30-10.28.36:283][743]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.06.30-10.28.38:502][793]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2022.06.30-10.28.39:847][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.06.30-10.28.40:686][843]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.06.30-10.28.41:295][857]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.06.30-10.28.41:901][871]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.06.30-10.28.41:995][873]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.06.30-10.28.57:749][201]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.30-10.28.57:760][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-10.28.57:760][201]PIE: New page: PIE session: Demonstration (Jul 1, 2022, 12:28:57 AM)
+[2022.06.30-10.28.57:796][201]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.06.30-10.28.57:878][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082548s)
+[2022.06.30-10.28.57:879][201]LogAIModule: Creating AISystem for world Demonstration
+[2022.06.30-10.28.57:880][201]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2022.06.30-10.28.57:880][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.084588s)
+[2022.06.30-10.28.57:963][201]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2022.06.30-10.28.57:985][201]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2022.06.30-10.28.57:985][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-10.28.57:985][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-10.28.57:985][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-10.28.57:985][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-10.28.57:985][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-10.28.57:985][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.30-10.28.57:985][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-10.28.57:985][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-10.28.57:986][201]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.30-10.28.57:986][201]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.30-10.28.57:991][201]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.30-10.28.57:991][201]LogAudioMixer: Display: 1: FrontRight
+[2022.06.30-10.28.58:006][201]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.30-10.28.58:007][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-10.28.58:007][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-10.28.58:007][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-10.28.58:008][201]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.30-10.28.58:008][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.30-10.28.58:008][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.30-10.28.58:024][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.30-10.28.58:024][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.30-10.28.58:024][201]LogInit: FAudioDevice initialized.
+[2022.06.30-10.28.58:024][201]LogAudio: Display: Audio Device (ID: 77) registered with world 'Demonstration'.
+[2022.06.30-10.28.58:062][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-10.28.58:062][201]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.30-10.28.58:116][201]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.06.30-17.28.58
+[2022.06.30-10.28.58:118][201]LogWorld: Bringing up level for play took: 0.055713
+[2022.06.30-10.28.58:119][201]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2022.06.30-10.28.58:122][201]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.30-10.28.58:136][201]PIE: Server logged in
+[2022.06.30-10.28.58:138][201]PIE: Play in editor total start time 0.38 seconds.
+[2022.06.30-10.29.00:197][241]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.30-10.29.31:180][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-10.29.31:180][135]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.06.30-10.29.31:181][135]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.30-10.29.31:255][135]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.29.31:263][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.29.31:276][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-10.29.31:298][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.29.31:360][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-10.29.31:360][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.30-10.29.31:361][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.30-10.29.31:394][135]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2022.06.30-10.29.31:480][136]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2022.06.30-10.30.09:097][642]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_HairA27684834FABEA0DF3DB3B93C30E26EF.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Hair.uasset'
+[2022.06.30-10.30.09:114][642]AssetCheck: New page: Asset Save: M_Aurora_Hair
+[2022.06.30-10.30.09:114][642]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Hair.M_Aurora_Hair
+[2022.06.30-10.30.10:855][715]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.30.10:855][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.30.12:470][748]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AuroraA4715DB74999BB45C8E2B7B3C1DB36ED.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Meshes/Aurora.uasset'
+[2022.06.30-10.30.12:501][748]AssetCheck: New page: Asset Save: Aurora
+[2022.06.30-10.30.12:501][748]LogContentValidation: Display: Validating SkeletalMesh /Game/ParagonAurora/Characters/Heroes/Aurora/Meshes/Aurora.Aurora
+[2022.06.30-10.30.13:519][784]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.30.13:520][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.30.18:711][980]LogMaterialEditor: Saving and Compiling material M_Aurora_Sword
+[2022.06.30-10.30.18:853][980]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_Aurora_Sword7FD7CA004D4033A437E4B5B0890A5F73.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Sword.uasset'
+[2022.06.30-10.30.18:873][980]AssetCheck: New page: Asset Save: M_Aurora_Sword
+[2022.06.30-10.30.18:873][980]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Heroes/Aurora/Materials/M_Aurora_Sword.M_Aurora_Sword
+[2022.06.30-10.30.20:274][ 38]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.30.20:274][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.30.21:228][ 74]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.30.21:228][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.30.23:651][168]LogMaterialEditor: Saving and Compiling material M_HairSheet_Master2
+[2022.06.30-10.30.23:819][168]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/M_HairSheet_Master2AD1118F94B6DB3662DDFA399034FA2C2.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Global/Hair/Materials/M_HairSheet_Master2.uasset'
+[2022.06.30-10.30.23:841][168]AssetCheck: New page: Asset Save: M_HairSheet_Master2
+[2022.06.30-10.30.23:841][168]LogContentValidation: Display: Validating Material /Game/ParagonAurora/Characters/Global/Hair/Materials/M_HairSheet_Master2.M_HairSheet_Master2
+[2022.06.30-10.30.25:396][232]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.30.25:397][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.30.27:913][340]BlueprintLog: New page: Compile Main_menu_UI_custom
+[2022.06.30-10.30.28:060][340]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2022.06.30-10.30.30:690][439]LogUObjectHash: Compacting FUObjectHashTables data took   8.32ms
+[2022.06.30-10.30.31:112][439]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/DemonstrationD0ED43FC4177ECAAD9079782C24812C0.tmp' to '../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration.umap'
+[2022.06.30-10.30.31:229][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceshipInterior/Maps/Demonstration_BuiltData" FILE="../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration_BuiltData.uasset" SILENT=true
+[2022.06.30-10.30.32:891][439]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Demonstration_BuiltDataC05D1E21438E606E7F3096ADEE87D360.tmp' to '../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration_BuiltData.uasset'
+[2022.06.30-10.30.32:930][439]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.30-10.30.32:930][439]LogContentValidation: Display: Validating World /Game/SpaceshipInterior/Maps/Demonstration.Demonstration
+[2022.06.30-10.30.32:931][439]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SpaceshipInterior/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2022.06.30-10.30.33:865][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.06.30-10.30.35:529][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.06.30-10.30.36:521][540]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.30-10.30.36:531][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-10.30.36:531][540]PIE: New page: PIE session: Demonstration (Jul 1, 2022, 12:30:36 AM)
+[2022.06.30-10.30.36:531][540]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.06.30-10.30.36:618][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087256s)
+[2022.06.30-10.30.36:619][540]LogAIModule: Creating AISystem for world Demonstration
+[2022.06.30-10.30.36:620][540]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2022.06.30-10.30.36:620][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.088936s)
+[2022.06.30-10.30.36:679][540]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.06.30-10.30.36:681][540]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2022.06.30-10.30.36:681][540]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-10.30.36:681][540]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-10.30.36:681][540]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-10.30.36:681][540]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-10.30.36:681][540]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-10.30.36:681][540]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.30-10.30.36:681][540]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-10.30.36:681][540]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-10.30.36:682][540]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.30-10.30.36:682][540]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.30-10.30.36:687][540]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.30-10.30.36:687][540]LogAudioMixer: Display: 1: FrontRight
+[2022.06.30-10.30.36:698][540]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.30-10.30.36:699][540]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-10.30.36:699][540]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-10.30.36:699][540]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-10.30.36:699][540]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.30-10.30.36:699][540]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.30-10.30.36:699][540]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.30-10.30.36:713][540]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.30-10.30.36:714][540]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.30-10.30.36:714][540]LogInit: FAudioDevice initialized.
+[2022.06.30-10.30.36:714][540]LogAudio: Display: Audio Device (ID: 78) registered with world 'Demonstration'.
+[2022.06.30-10.30.36:750][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-10.30.36:750][540]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.30-10.30.36:806][540]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.06.30-17.30.36
+[2022.06.30-10.30.36:808][540]LogWorld: Bringing up level for play took: 0.056890
+[2022.06.30-10.30.36:808][540]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2022.06.30-10.30.36:811][540]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.30-10.30.36:827][540]PIE: Server logged in
+[2022.06.30-10.30.36:831][540]PIE: Play in editor total start time 0.302 seconds.
+[2022.06.30-10.30.38:888][582]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.30-10.30.40:899][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-10.30.40:899][629]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.06.30-10.30.40:900][629]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.30-10.30.40:978][629]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.30.40:986][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.30.40:998][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-10.30.41:019][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.30.41:080][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.30-10.30.41:082][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.30-10.30.41:111][629]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2022.06.30-10.30.41:188][630]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2022.06.30-10.30.49:119][974]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ParagonAurora/Characters/Global/Hair/Materials/M_HairSheet_Master2.M_HairSheet_Master2
+[2022.06.30-10.30.49:129][974]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2022.06.30-10.30.49:237][974]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2022.06.30-10.30.49:283][974]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2022.06.30-10.30.49:323][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_11, compiling. 
+[2022.06.30-10.30.49:327][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2022.06.30-10.30.49:327][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2022.06.30-10.30.49:327][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2022.06.30-10.30.49:328][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2022.06.30-10.30.49:328][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_12, compiling. 
+[2022.06.30-10.30.49:332][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.06.30-10.30.49:336][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2022.06.30-10.30.49:341][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_5, compiling. 
+[2022.06.30-10.30.49:347][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2022.06.30-10.30.49:352][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_7, compiling. 
+[2022.06.30-10.30.49:357][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2022.06.30-10.30.49:363][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_8, compiling. 
+[2022.06.30-10.30.49:368][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_11, compiling. 
+[2022.06.30-10.30.49:373][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_18, compiling. 
+[2022.06.30-10.30.49:379][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_19, compiling. 
+[2022.06.30-10.30.49:384][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2022.06.30-10.30.49:389][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2022.06.30-10.30.49:394][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2022.06.30-10.30.49:399][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2022.06.30-10.30.49:404][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2022.06.30-10.30.49:409][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_9, compiling. 
+[2022.06.30-10.30.49:414][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_137, compiling. 
+[2022.06.30-10.30.49:418][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_101, compiling. 
+[2022.06.30-10.30.49:424][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_100, compiling. 
+[2022.06.30-10.30.49:428][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_16, compiling. 
+[2022.06.30-10.30.49:433][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2022.06.30-10.30.49:439][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2022.06.30-10.30.49:444][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_138, compiling. 
+[2022.06.30-10.30.49:449][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_10, compiling. 
+[2022.06.30-10.30.49:455][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_13, compiling. 
+[2022.06.30-10.30.49:460][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_15, compiling. 
+[2022.06.30-10.30.49:465][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_18, compiling. 
+[2022.06.30-10.30.49:470][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_14, compiling. 
+[2022.06.30-10.30.49:475][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_17, compiling. 
+[2022.06.30-10.30.49:481][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.30-10.30.49:486][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFresnel_0, compiling. 
+[2022.06.30-10.30.49:491][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2022.06.30-10.30.49:495][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2022.06.30-10.30.49:500][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2022.06.30-10.30.49:506][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_13, compiling. 
+[2022.06.30-10.30.49:511][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_19, compiling. 
+[2022.06.30-10.30.49:517][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_20, compiling. 
+[2022.06.30-10.30.49:522][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_21, compiling. 
+[2022.06.30-10.30.49:527][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_17, compiling. 
+[2022.06.30-10.30.49:532][974]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_9, compiling. 
+[2022.06.30-10.30.50:055][975]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 224
+[2022.06.30-10.30.50:055][975]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 223
+[2022.06.30-10.30.50:548][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 222
+[2022.06.30-10.30.50:668][988]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 221
+[2022.06.30-10.30.51:109][994]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 220
+[2022.06.30-10.30.51:155][995]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 219
+[2022.06.30-10.30.51:320][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 218
+[2022.06.30-10.30.51:489][  7]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 217
+[2022.06.30-10.30.51:640][ 13]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 216
+[2022.06.30-10.30.51:691][ 15]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 215
+[2022.06.30-10.30.51:767][ 18]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 214
+[2022.06.30-10.30.52:041][ 26]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 213
+[2022.06.30-10.30.52:285][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 212
+[2022.06.30-10.30.52:352][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 211
+[2022.06.30-10.30.52:483][ 40]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 210
+[2022.06.30-10.30.52:987][ 53]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 209
+[2022.06.30-10.30.53:070][ 55]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 208
+[2022.06.30-10.30.53:448][ 66]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 207
+[2022.06.30-10.30.53:478][ 67]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 206
+[2022.06.30-10.30.53:573][ 70]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 205
+[2022.06.30-10.30.53:707][ 73]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 204
+[2022.06.30-10.30.54:012][ 81]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 203
+[2022.06.30-10.30.54:109][ 84]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 202
+[2022.06.30-10.30.54:446][ 94]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 201
+[2022.06.30-10.30.54:692][101]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 200
+[2022.06.30-10.30.54:692][101]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 199
+[2022.06.30-10.30.54:920][108]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 198
+[2022.06.30-10.30.55:217][117]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 197
+[2022.06.30-10.30.55:500][125]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/ParagonAurora/Characters/Global/MaterialFunctions/MF_CharacterEffects.MF_CharacterEffects
+[2022.06.30-10.30.55:631][125]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2022.06.30-10.30.55:637][125]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.06.30-10.30.55:644][125]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2022.06.30-10.30.55:651][125]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.06.30-10.30.55:680][125]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2022.06.30-10.30.55:697][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2022.06.30-10.30.55:703][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_2, compiling. 
+[2022.06.30-10.30.55:707][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_3, compiling. 
+[2022.06.30-10.30.55:713][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_6, compiling. 
+[2022.06.30-10.30.55:720][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2022.06.30-10.30.55:722][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_1, compiling. 
+[2022.06.30-10.30.55:727][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2022.06.30-10.30.55:732][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.06.30-10.30.55:737][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.06.30-10.30.55:743][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_4, compiling. 
+[2022.06.30-10.30.55:904][126]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 261
+[2022.06.30-10.30.55:904][126]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 260
+[2022.06.30-10.30.55:939][127]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 259
+[2022.06.30-10.30.56:673][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 258
+[2022.06.30-10.30.56:701][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 257
+[2022.06.30-10.30.56:701][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 256
+[2022.06.30-10.30.57:220][170]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 255
+[2022.06.30-10.30.57:220][170]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 254
+[2022.06.30-10.30.57:439][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 253
+[2022.06.30-10.30.57:706][186]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 252
+[2022.06.30-10.30.57:776][188]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 251
+[2022.06.30-10.30.58:215][200]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 250
+[2022.06.30-10.30.58:641][212]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 249
+[2022.06.30-10.30.58:770][215]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 248
+[2022.06.30-10.30.59:542][238]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 247
+[2022.06.30-10.30.59:573][239]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 246
+[2022.06.30-10.30.59:573][239]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 245
+[2022.06.30-10.31.00:134][256]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 244
+[2022.06.30-10.31.00:167][257]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 243
+[2022.06.30-10.31.00:397][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 242
+[2022.06.30-10.31.00:867][277]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 241
+[2022.06.30-10.31.01:163][286]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 240
+[2022.06.30-10.31.01:292][290]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 239
+[2022.06.30-10.31.01:893][308]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 238
+[2022.06.30-10.31.01:893][308]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 237
+[2022.06.30-10.31.02:013][312]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 236
+[2022.06.30-10.31.02:173][317]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 235
+[2022.06.30-10.31.02:724][334]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 234
+[2022.06.30-10.31.02:758][335]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 233
+[2022.06.30-10.31.03:139][347]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 232
+[2022.06.30-10.31.03:328][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 231
+[2022.06.30-10.31.03:688][364]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 230
+[2022.06.30-10.31.03:849][369]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 229
+[2022.06.30-10.31.03:926][371]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 228
+[2022.06.30-10.31.04:104][375]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 227
+[2022.06.30-10.31.04:239][378]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 226
+[2022.06.30-10.31.04:243][378]MaterialEditorStats: Base pass shader: 264 instructions
+[2022.06.30-10.31.04:243][378]MaterialEditorStats: Base pass shader with Surface Lightmap: 419 instructions
+[2022.06.30-10.31.04:243][378]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 463 instructions
+[2022.06.30-10.31.04:243][378]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2022.06.30-10.31.04:243][378]MaterialEditorStats: Base pass vertex shader: 204 instructions
+[2022.06.30-10.31.04:243][378]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.30-10.31.04:243][378]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(7)
+[2022.06.30-10.31.04:243][378]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.30-10.31.04:439][384]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 225
+[2022.06.30-10.31.04:639][390]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 224
+[2022.06.30-10.31.04:871][397]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 223
+[2022.06.30-10.31.04:871][397]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 222
+[2022.06.30-10.31.05:061][403]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 221
+[2022.06.30-10.31.05:468][415]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 220
+[2022.06.30-10.31.05:533][417]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 219
+[2022.06.30-10.31.05:660][421]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 218
+[2022.06.30-10.31.05:694][422]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 217
+[2022.06.30-10.31.06:198][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 216
+[2022.06.30-10.31.06:297][440]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 215
+[2022.06.30-10.31.06:331][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 214
+[2022.06.30-10.31.06:331][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 213
+[2022.06.30-10.31.06:890][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 212
+[2022.06.30-10.31.06:956][460]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 211
+[2022.06.30-10.31.07:017][462]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 210
+[2022.06.30-10.31.07:170][467]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 209
+[2022.06.30-10.31.07:652][481]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 208
+[2022.06.30-10.31.07:685][482]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 207
+[2022.06.30-10.31.07:780][485]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 206
+[2022.06.30-10.31.07:780][485]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 205
+[2022.06.30-10.31.08:381][503]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 204
+[2022.06.30-10.31.08:410][504]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 203
+[2022.06.30-10.31.08:410][504]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 202
+[2022.06.30-10.31.08:501][507]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 201
+[2022.06.30-10.31.09:069][524]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 200
+[2022.06.30-10.31.09:129][526]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 199
+[2022.06.30-10.31.09:130][526]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 198
+[2022.06.30-10.31.09:192][528]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 197
+[2022.06.30-10.31.09:787][546]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 196
+[2022.06.30-10.31.09:787][546]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 195
+[2022.06.30-10.31.09:818][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 194
+[2022.06.30-10.31.09:849][548]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 193
+[2022.06.30-10.31.10:455][566]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 192
+[2022.06.30-10.31.10:488][567]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 191
+[2022.06.30-10.31.10:550][569]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 190
+[2022.06.30-10.31.10:550][569]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 189
+[2022.06.30-10.31.11:159][587]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 188
+[2022.06.30-10.31.11:254][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 187
+[2022.06.30-10.31.11:284][591]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 186
+[2022.06.30-10.31.11:284][591]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 185
+[2022.06.30-10.31.11:889][609]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 184
+[2022.06.30-10.31.11:922][610]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 183
+[2022.06.30-10.31.11:987][612]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 182
+[2022.06.30-10.31.12:018][613]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 181
+[2022.06.30-10.31.12:567][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 180
+[2022.06.30-10.31.12:599][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 179
+[2022.06.30-10.31.12:693][632]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 178
+[2022.06.30-10.31.12:726][633]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 177
+[2022.06.30-10.31.13:310][650]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 176
+[2022.06.30-10.31.13:374][652]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 175
+[2022.06.30-10.31.13:405][653]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 174
+[2022.06.30-10.31.13:405][653]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 173
+[2022.06.30-10.31.14:011][671]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 172
+[2022.06.30-10.31.14:011][671]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 171
+[2022.06.30-10.31.14:104][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 170
+[2022.06.30-10.31.14:197][677]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 169
+[2022.06.30-10.31.14:747][693]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 168
+[2022.06.30-10.31.14:747][693]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 167
+[2022.06.30-10.31.14:778][694]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 166
+[2022.06.30-10.31.14:809][695]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 165
+[2022.06.30-10.31.15:418][713]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 164
+[2022.06.30-10.31.15:451][714]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 163
+[2022.06.30-10.31.15:511][716]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 162
+[2022.06.30-10.31.15:511][716]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 161
+[2022.06.30-10.31.16:119][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 160
+[2022.06.30-10.31.16:150][735]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 159
+[2022.06.30-10.31.16:182][736]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 158
+[2022.06.30-10.31.16:243][738]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 157
+[2022.06.30-10.31.16:858][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 156
+[2022.06.30-10.31.16:858][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 155
+[2022.06.30-10.31.16:924][758]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 154
+[2022.06.30-10.31.16:924][758]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 153
+[2022.06.30-10.31.17:511][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 152
+[2022.06.30-10.31.17:573][778]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 151
+[2022.06.30-10.31.17:667][781]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 150
+[2022.06.30-10.31.17:793][785]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 149
+[2022.06.30-10.31.18:230][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 148
+[2022.06.30-10.31.18:294][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 147
+[2022.06.30-10.31.18:357][802]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2022.06.30-10.31.18:418][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 145
+[2022.06.30-10.31.18:955][820]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 144
+[2022.06.30-10.31.18:987][821]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 143
+[2022.06.30-10.31.19:050][823]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 142
+[2022.06.30-10.31.19:050][823]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 141
+[2022.06.30-10.31.19:682][842]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 140
+[2022.06.30-10.31.19:716][843]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 139
+[2022.06.30-10.31.19:716][843]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 138
+[2022.06.30-10.31.19:782][845]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 137
+[2022.06.30-10.31.20:377][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 136
+[2022.06.30-10.31.20:472][866]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 135
+[2022.06.30-10.31.20:472][866]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 134
+[2022.06.30-10.31.20:504][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 133
+[2022.06.30-10.31.21:077][884]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 132
+[2022.06.30-10.31.21:139][886]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 131
+[2022.06.30-10.31.21:140][886]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 130
+[2022.06.30-10.31.21:231][889]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 129
+[2022.06.30-10.31.21:783][905]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 128
+[2022.06.30-10.31.21:852][907]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 127
+[2022.06.30-10.31.21:884][908]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 126
+[2022.06.30-10.31.21:917][909]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 125
+[2022.06.30-10.31.22:529][927]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 124
+[2022.06.30-10.31.22:562][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 123
+[2022.06.30-10.31.22:627][930]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2022.06.30-10.31.22:660][931]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2022.06.30-10.31.23:231][948]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 120
+[2022.06.30-10.31.23:296][950]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 119
+[2022.06.30-10.31.23:296][950]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 118
+[2022.06.30-10.31.23:360][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 117
+[2022.06.30-10.31.23:932][969]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 116
+[2022.06.30-10.31.24:033][972]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 115
+[2022.06.30-10.31.24:033][972]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 114
+[2022.06.30-10.31.24:097][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 113
+[2022.06.30-10.31.24:644][990]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 112
+[2022.06.30-10.31.24:705][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 111
+[2022.06.30-10.31.24:736][993]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 110
+[2022.06.30-10.31.24:767][994]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 109
+[2022.06.30-10.31.25:335][ 11]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 108
+[2022.06.30-10.31.25:397][ 13]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 107
+[2022.06.30-10.31.25:397][ 13]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 106
+[2022.06.30-10.31.25:458][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 105
+[2022.06.30-10.31.26:046][ 32]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 104
+[2022.06.30-10.31.26:077][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 103
+[2022.06.30-10.31.26:108][ 34]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2022.06.30-10.31.26:138][ 35]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 101
+[2022.06.30-10.31.26:715][ 52]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 100
+[2022.06.30-10.31.26:811][ 55]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 99
+[2022.06.30-10.31.26:874][ 57]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 98
+[2022.06.30-10.31.26:905][ 58]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 97
+[2022.06.30-10.31.27:488][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 96
+[2022.06.30-10.31.27:530][ 76]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 95
+[2022.06.30-10.31.27:530][ 76]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 94
+[2022.06.30-10.31.27:626][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 93
+[2022.06.30-10.31.28:132][ 94]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2022.06.30-10.31.28:227][ 97]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 91
+[2022.06.30-10.31.28:227][ 97]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 90
+[2022.06.30-10.31.28:288][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 89
+[2022.06.30-10.31.28:886][117]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2022.06.30-10.31.28:887][117]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 87
+[2022.06.30-10.31.28:917][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2022.06.30-10.31.29:013][121]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 85
+[2022.06.30-10.31.29:544][137]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2022.06.30-10.31.29:578][138]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 83
+[2022.06.30-10.31.29:708][142]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2022.06.30-10.31.29:772][144]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 81
+[2022.06.30-10.31.30:308][160]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2022.06.30-10.31.30:308][160]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 79
+[2022.06.30-10.31.30:342][161]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2022.06.30-10.31.30:374][162]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 77
+[2022.06.30-10.31.30:904][178]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2022.06.30-10.31.31:002][181]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 75
+[2022.06.30-10.31.31:034][182]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2022.06.30-10.31.31:096][184]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2022.06.30-10.31.31:664][201]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2022.06.30-10.31.31:665][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2022.06.30-10.31.31:726][203]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 70
+[2022.06.30-10.31.31:756][204]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2022.06.30-10.31.32:356][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2022.06.30-10.31.32:387][223]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2022.06.30-10.31.32:453][225]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2022.06.30-10.31.32:486][226]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 65
+[2022.06.30-10.31.33:054][243]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2022.06.30-10.31.33:150][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 63
+[2022.06.30-10.31.33:182][247]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2022.06.30-10.31.33:735][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2022.06.30-10.31.33:766][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2022.06.30-10.31.33:863][268]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 59
+[2022.06.30-10.31.33:956][271]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2022.06.30-10.31.34:123][276]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2022.06.30-10.31.34:226][279]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2022.06.30-10.31.34:454][286]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2022.06.30-10.31.34:889][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2022.06.30-10.31.35:027][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2022.06.30-10.31.35:484][316]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2022.06.30-10.31.35:681][322]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2022.06.30-10.31.35:784][325]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2022.06.30-10.31.35:914][329]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2022.06.30-10.31.35:914][329]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2022.06.30-10.31.36:169][337]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2022.06.30-10.31.36:201][338]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2022.06.30-10.31.36:532][348]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2022.06.30-10.31.36:829][357]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2022.06.30-10.31.36:963][361]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2022.06.30-10.31.37:161][367]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2022.06.30-10.31.37:394][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2022.06.30-10.31.37:556][379]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2022.06.30-10.31.37:644][382]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2022.06.30-10.31.38:168][398]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2022.06.30-10.31.38:294][402]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2022.06.30-10.31.38:791][417]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2022.06.30-10.31.38:893][420]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2022.06.30-10.31.39:053][425]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2022.06.30-10.31.39:169][428]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2022.06.30-10.31.39:513][438]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2022.06.30-10.31.39:677][443]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2022.06.30-10.31.39:677][443]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2022.06.30-10.31.39:834][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2022.06.30-10.31.40:241][460]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2022.06.30-10.31.40:274][461]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2022.06.30-10.31.40:275][461]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2022.06.30-10.31.40:530][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2022.06.30-10.31.40:862][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2022.06.30-10.31.40:894][480]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2022.06.30-10.31.41:028][484]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2022.06.30-10.31.41:299][492]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2022.06.30-10.31.41:529][499]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2022.06.30-10.31.41:591][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2022.06.30-10.31.41:689][504]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2022.06.30-10.31.42:023][514]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2022.06.30-10.31.42:215][520]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2022.06.30-10.31.42:280][522]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.06.30-10.31.42:280][522]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.06.30-10.31.42:757][536]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2022.06.30-10.31.42:859][539]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.06.30-10.31.42:923][541]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.06.30-10.31.42:956][542]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.06.30-10.31.43:538][559]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2022.06.30-10.31.43:568][560]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.06.30-10.31.43:599][561]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.06.30-10.31.43:633][562]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2022.06.30-10.31.44:222][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.06.30-10.31.44:256][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.06.30-10.31.44:349][583]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.06.30-10.31.44:349][583]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.06.30-10.31.44:916][600]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.06.30-10.31.54:468][ 46]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.31.54:469][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.31.57:601][187]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2022.06.30-10.31.58:004][187]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/DemonstrationD00E41324305275516B3899C57ACA3F5.tmp' to '../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration.umap'
+[2022.06.30-10.31.58:537][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceshipInterior/Maps/Demonstration_BuiltData" FILE="../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration_BuiltData.uasset" SILENT=true
+[2022.06.30-10.32.00:143][187]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Demonstration_BuiltDataF32888644D6C88A471DC56B03EDB1C5E.tmp' to '../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration_BuiltData.uasset'
+[2022.06.30-10.32.00:173][187]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.30-10.32.00:173][187]LogContentValidation: Display: Validating World /Game/SpaceshipInterior/Maps/Demonstration.Demonstration
+[2022.06.30-10.32.00:173][187]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SpaceshipInterior/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2022.06.30-10.32.07:227][636]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.30-10.32.07:243][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-10.32.07:243][636]PIE: New page: PIE session: Demonstration (Jul 1, 2022, 12:32:07 AM)
+[2022.06.30-10.32.07:276][636]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.06.30-10.32.07:371][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096312s)
+[2022.06.30-10.32.07:372][636]LogAIModule: Creating AISystem for world Demonstration
+[2022.06.30-10.32.07:373][636]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2022.06.30-10.32.07:373][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.098092s)
+[2022.06.30-10.32.07:441][636]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2022.06.30-10.32.07:447][636]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2022.06.30-10.32.07:447][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-10.32.07:447][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-10.32.07:447][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-10.32.07:447][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-10.32.07:447][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-10.32.07:447][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.30-10.32.07:447][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-10.32.07:448][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-10.32.07:449][636]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.30-10.32.07:449][636]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.30-10.32.07:456][636]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.30-10.32.07:456][636]LogAudioMixer: Display: 1: FrontRight
+[2022.06.30-10.32.07:470][636]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.30-10.32.07:470][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-10.32.07:470][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-10.32.07:470][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-10.32.07:471][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.30-10.32.07:471][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.30-10.32.07:471][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.30-10.32.07:485][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.30-10.32.07:485][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.30-10.32.07:485][636]LogInit: FAudioDevice initialized.
+[2022.06.30-10.32.07:485][636]LogAudio: Display: Audio Device (ID: 79) registered with world 'Demonstration'.
+[2022.06.30-10.32.07:544][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-10.32.07:544][636]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.30-10.32.07:601][636]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.06.30-17.32.07
+[2022.06.30-10.32.07:602][636]LogWorld: Bringing up level for play took: 0.056283
+[2022.06.30-10.32.07:602][636]LogOnline: OSS: Creating online subsystem instance for: :Context_109
+[2022.06.30-10.32.07:605][636]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.30-10.32.07:631][636]PIE: Server logged in
+[2022.06.30-10.32.07:643][636]PIE: Play in editor total start time 0.402 seconds.
+[2022.06.30-10.32.09:686][681]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.30-10.32.14:098][824]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.30-10.32.14:153][824]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.06.30-10.32.14:155][824]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.32.14:162][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.32.14:172][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-10.32.14:197][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.32.14:257][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.30-10.32.14:258][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.30-10.32.14:295][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2022.06.30-10.32.14:378][825]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2022.06.30-10.32.42:181][463]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.30-10.32.42:195][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-10.32.42:195][463]PIE: New page: PIE session: Demonstration (Jul 1, 2022, 12:32:42 AM)
+[2022.06.30-10.32.42:226][463]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.06.30-10.32.42:314][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088573s)
+[2022.06.30-10.32.42:315][463]LogAIModule: Creating AISystem for world Demonstration
+[2022.06.30-10.32.42:315][463]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2022.06.30-10.32.42:315][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.090345s)
+[2022.06.30-10.32.42:379][463]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2022.06.30-10.32.42:391][463]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2022.06.30-10.32.42:391][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-10.32.42:391][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-10.32.42:391][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-10.32.42:391][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-10.32.42:391][463]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-10.32.42:391][463]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.30-10.32.42:391][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-10.32.42:391][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-10.32.42:392][463]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.30-10.32.42:392][463]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.30-10.32.42:397][463]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.30-10.32.42:397][463]LogAudioMixer: Display: 1: FrontRight
+[2022.06.30-10.32.42:408][463]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.30-10.32.42:408][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-10.32.42:408][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-10.32.42:408][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-10.32.42:409][463]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.30-10.32.42:409][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.30-10.32.42:409][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.30-10.32.42:423][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.30-10.32.42:423][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.30-10.32.42:423][463]LogInit: FAudioDevice initialized.
+[2022.06.30-10.32.42:423][463]LogAudio: Display: Audio Device (ID: 80) registered with world 'Demonstration'.
+[2022.06.30-10.32.42:467][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-10.32.42:468][463]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.30-10.32.42:524][463]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.06.30-17.32.42
+[2022.06.30-10.32.42:526][463]LogWorld: Bringing up level for play took: 0.057306
+[2022.06.30-10.32.42:526][463]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2022.06.30-10.32.42:530][463]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.30-10.32.42:550][463]PIE: Server logged in
+[2022.06.30-10.32.42:559][463]PIE: Play in editor total start time 0.366 seconds.
+[2022.06.30-10.32.44:168][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-10.32.44:168][495]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.06.30-10.32.44:170][495]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.30-10.32.44:263][495]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.32.44:272][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.32.44:282][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-10.32.44:305][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.32.44:364][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.30-10.32.44:365][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.30-10.32.44:399][495]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2022.06.30-10.32.44:468][496]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2022.06.30-10.39.18:788][541]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2022.06.30-10.41.30:290][ 65]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.06.30-10.41.35:767][189]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.30-10.41.35:779][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-10.41.35:779][189]PIE: New page: PIE session: Demonstration (Jul 1, 2022, 12:41:35 AM)
+[2022.06.30-10.41.35:780][189]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.06.30-10.41.35:871][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090687s)
+[2022.06.30-10.41.35:873][189]LogAIModule: Creating AISystem for world Demonstration
+[2022.06.30-10.41.35:874][189]LogPlayLevel: PIE: World Init took: (0.002809s)
+[2022.06.30-10.41.35:874][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.094153s)
+[2022.06.30-10.41.35:941][189]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.06.30-10.41.35:949][189]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2022.06.30-10.41.35:949][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-10.41.35:949][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-10.41.35:949][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-10.41.35:950][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-10.41.35:950][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-10.41.35:950][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.30-10.41.35:950][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-10.41.35:950][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-10.41.35:950][189]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.30-10.41.35:950][189]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.30-10.41.35:955][189]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.30-10.41.35:955][189]LogAudioMixer: Display: 1: FrontRight
+[2022.06.30-10.41.35:968][189]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.06.30-10.41.35:969][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-10.41.35:969][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-10.41.35:969][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-10.41.35:970][189]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.30-10.41.35:970][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.30-10.41.35:970][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.30-10.41.35:985][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.30-10.41.35:985][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.30-10.41.35:985][189]LogInit: FAudioDevice initialized.
+[2022.06.30-10.41.35:985][189]LogAudio: Display: Audio Device (ID: 81) registered with world 'Demonstration'.
+[2022.06.30-10.41.36:033][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-10.41.36:033][189]LogLoad: Game class is 'INGAME_GM_C'
+[2022.06.30-10.41.36:085][189]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.06.30-17.41.36
+[2022.06.30-10.41.36:087][189]LogWorld: Bringing up level for play took: 0.052855
+[2022.06.30-10.41.36:088][189]LogOnline: OSS: Creating online subsystem instance for: :Context_111
+[2022.06.30-10.41.36:090][189]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.06.30-10.41.36:114][189]PIE: Server logged in
+[2022.06.30-10.41.36:124][189]PIE: Play in editor total start time 0.346 seconds.
+[2022.06.30-10.41.38:146][231]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.06.30-10.41.38:177][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-10.41.38:177][231]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.06.30-10.41.38:178][231]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.30-10.41.38:259][231]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-10.41.38:267][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.41.38:279][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-10.41.38:301][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-10.41.38:363][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.30-10.41.38:364][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.30-10.41.38:393][231]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.06.30-10.41.38:484][232]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2022.06.30-10.43.26:211][713]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2022.06.30-10.43.26:632][713]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/DemonstrationA6A001D44044065526A0CA83EC5AFD9C.tmp' to '../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration.umap'
+[2022.06.30-10.43.27:192][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceshipInterior/Maps/Demonstration_BuiltData" FILE="../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration_BuiltData.uasset" SILENT=true
+[2022.06.30-10.43.28:674][713]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Demonstration_BuiltDataAC0BDA884076E86A713DE59C71102024.tmp' to '../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration_BuiltData.uasset'
+[2022.06.30-10.43.28:714][713]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.30-10.43.28:714][713]LogContentValidation: Display: Validating World /Game/SpaceshipInterior/Maps/Demonstration.Demonstration
+[2022.06.30-10.43.28:714][713]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SpaceshipInterior/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2022.06.30-10.43.30:380][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
