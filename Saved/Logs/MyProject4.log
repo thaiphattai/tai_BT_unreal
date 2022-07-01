@@ -23510,3 +23510,580 @@ Script call stack:
 [2022.07.01-10.59.06:291][619]LogContentValidation: Display: Validating Blueprint /Game/AI/BB_TASK_Attack_AI_maigic_attack.BB_TASK_Attack_AI_maigic_attack
 [2022.07.01-10.59.06:291][619]LogContentValidation: Display: Validating AnimMontage /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Stun_Loop_Montage.Stun_Loop_Montage
 [2022.07.01-10.59.06:291][619]LogContentValidation: Display: Validating Blueprint /Game/AI/BB_TASK_CHARRING_ATTACK.BB_TASK_CHARRING_ATTACK
+[2022.07.01-11.02.23:439][318]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.01-11.02.23:451][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-11.02.23:451][318]PIE: New page: PIE session: level_0 (Jul 2, 2022, 1:02:23 AM)
+[2022.07.01-11.02.23:473][318]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.07.01-11.02.23:489][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016940s)
+[2022.07.01-11.02.23:491][318]LogAIModule: Creating AISystem for world level_0
+[2022.07.01-11.02.23:492][318]LogPlayLevel: PIE: World Init took: (0.002468s)
+[2022.07.01-11.02.23:492][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.019722s)
+[2022.07.01-11.02.23:552][318]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.07.01-11.02.23:559][318]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2022.07.01-11.02.23:559][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-11.02.23:559][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-11.02.23:559][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-11.02.23:559][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-11.02.23:559][318]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-11.02.23:559][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.01-11.02.23:559][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-11.02.23:559][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-11.02.23:560][318]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.01-11.02.23:560][318]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.01-11.02.23:564][318]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.01-11.02.23:564][318]LogAudioMixer: Display: 1: FrontRight
+[2022.07.01-11.02.23:576][318]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.07.01-11.02.23:576][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-11.02.23:576][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-11.02.23:577][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-11.02.23:578][318]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.01-11.02.23:578][318]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.01-11.02.23:578][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.01-11.02.23:594][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.01-11.02.23:594][318]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.01-11.02.23:594][318]LogInit: FAudioDevice initialized.
+[2022.07.01-11.02.23:595][318]LogAudio: Display: Audio Device (ID: 93) registered with world 'level_0'.
+[2022.07.01-11.02.23:654][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-11.02.23:655][318]LogLoad: Game class is 'INGAME_GM_C'
+[2022.07.01-11.02.23:658][318]LogScript: Warning: Script Msg: Divide by zero detected: -0.000061 / 0
+Script call stack:
+	Function /Game/AI/character_AI/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character_AI/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.07.01-11.02.23:659][318]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.01-11.02.23:665][318]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.07.01-18.02.23
+[2022.07.01-11.02.23:666][318]LogWorld: Bringing up level for play took: 0.010658
+[2022.07.01-11.02.23:667][318]LogOnline: OSS: Creating online subsystem instance for: :Context_162
+[2022.07.01-11.02.23:677][318]PIE: Server logged in
+[2022.07.01-11.02.23:679][318]PIE: Play in editor total start time 0.232 seconds.
+[2022.07.01-11.02.32:210][651]PIE: Error: Blueprint Runtime Error: "Attempted to access projectile_of_Enemy_C_2 via property CallFunc_FinishSpawningActor_ReturnValue, but projectile_of_Enemy_C_2 is pending kill". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.02.32:211][651]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.02.33:389][694]PIE: Error: Blueprint Runtime Error: "Attempted to access projectile_of_Enemy_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but projectile_of_Enemy_C_4 is pending kill". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.02.33:389][694]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.02.37:557][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-11.02.37:557][855]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.07.01-11.02.37:558][855]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.01-11.02.37:567][855]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.02.37:568][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.02.37:583][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-11.02.37:592][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.02.37:643][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.01-11.02.37:645][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.01-11.02.37:671][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.07.01-11.02.37:744][856]LogPlayLevel: Display: Destroying online subsystem :Context_162
+[2022.07.01-11.03.22:908][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BehaviorTree" FILE="../../../../TAI/tai_BT_unreal/Content/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.07.01-11.03.22:914][707]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_BehaviorTree6487AD1044D2DBB8C66E2F8E60F49079.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/AI_BehaviorTree.uasset'
+[2022.07.01-11.03.22:937][707]AssetCheck: New page: Asset Save: AI_BehaviorTree
+[2022.07.01-11.03.22:937][707]LogContentValidation: Display: Validating BehaviorTree /Game/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.07.01-11.03.24:419][803]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.01-11.03.24:432][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-11.03.24:432][803]PIE: New page: PIE session: level_0 (Jul 2, 2022, 1:03:24 AM)
+[2022.07.01-11.03.24:432][803]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.07.01-11.03.24:448][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015449s)
+[2022.07.01-11.03.24:450][803]LogAIModule: Creating AISystem for world level_0
+[2022.07.01-11.03.24:450][803]LogPlayLevel: PIE: World Init took: (0.001551s)
+[2022.07.01-11.03.24:450][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.017212s)
+[2022.07.01-11.03.24:509][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.07.01-11.03.24:523][803]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2022.07.01-11.03.24:523][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-11.03.24:523][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-11.03.24:523][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-11.03.24:523][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-11.03.24:523][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-11.03.24:523][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.01-11.03.24:523][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-11.03.24:523][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-11.03.24:524][803]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.01-11.03.24:524][803]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.01-11.03.24:528][803]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.01-11.03.24:528][803]LogAudioMixer: Display: 1: FrontRight
+[2022.07.01-11.03.24:539][803]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.07.01-11.03.24:540][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-11.03.24:540][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-11.03.24:540][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-11.03.24:541][803]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.01-11.03.24:541][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.01-11.03.24:541][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.01-11.03.24:558][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.01-11.03.24:558][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.01-11.03.24:558][803]LogInit: FAudioDevice initialized.
+[2022.07.01-11.03.24:558][803]LogAudio: Display: Audio Device (ID: 94) registered with world 'level_0'.
+[2022.07.01-11.03.24:589][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-11.03.24:590][803]LogLoad: Game class is 'INGAME_GM_C'
+[2022.07.01-11.03.24:593][803]LogScript: Warning: Script Msg: Divide by zero detected: -0.000061 / 0
+Script call stack:
+	Function /Game/AI/character_AI/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character_AI/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.07.01-11.03.24:595][803]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.01-11.03.24:601][803]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.07.01-18.03.24
+[2022.07.01-11.03.24:603][803]LogWorld: Bringing up level for play took: 0.011858
+[2022.07.01-11.03.24:603][803]LogOnline: OSS: Creating online subsystem instance for: :Context_163
+[2022.07.01-11.03.24:613][803]PIE: Server logged in
+[2022.07.01-11.03.24:616][803]PIE: Play in editor total start time 0.187 seconds.
+[2022.07.01-11.03.36:565][264]PIE: Error: Blueprint Runtime Error: "Attempted to access projectile_of_Enemy_C_2 via property CallFunc_FinishSpawningActor_ReturnValue, but projectile_of_Enemy_C_2 is pending kill". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.03.36:565][264]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.03.37:742][307]PIE: Error: Blueprint Runtime Error: "Attempted to access projectile_of_Enemy_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but projectile_of_Enemy_C_4 is pending kill". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.03.37:743][307]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.03.44:206][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-11.03.44:206][565]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.07.01-11.03.44:208][565]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.01-11.03.44:217][565]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.03.44:218][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.03.44:232][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-11.03.44:241][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.03.44:295][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.01-11.03.44:296][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.01-11.03.44:297][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.01-11.03.44:324][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.07.01-11.03.44:406][566]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2022.07.01-11.03.46:018][654]LogSlate: Window 'Message Log' being destroyed
+[2022.07.01-11.03.46:028][654]LogSlate: Window 'Message Log' being destroyed
+[2022.07.01-11.05.37:558][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BehaviorTree" FILE="../../../../TAI/tai_BT_unreal/Content/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.07.01-11.05.37:565][178]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_BehaviorTree096E2CCB4A3D2501BBE0E4820B1D2A6B.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/AI_BehaviorTree.uasset'
+[2022.07.01-11.05.37:587][178]AssetCheck: New page: Asset Save: AI_BehaviorTree
+[2022.07.01-11.05.37:587][178]LogContentValidation: Display: Validating BehaviorTree /Game/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.07.01-11.05.38:409][231]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.01-11.05.38:422][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-11.05.38:422][231]PIE: New page: PIE session: level_0 (Jul 2, 2022, 1:05:38 AM)
+[2022.07.01-11.05.38:422][231]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.07.01-11.05.38:438][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016424s)
+[2022.07.01-11.05.38:439][231]LogAIModule: Creating AISystem for world level_0
+[2022.07.01-11.05.38:440][231]LogPlayLevel: PIE: World Init took: (0.001856s)
+[2022.07.01-11.05.38:440][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.018542s)
+[2022.07.01-11.05.38:499][231]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.07.01-11.05.38:517][231]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2022.07.01-11.05.38:517][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-11.05.38:517][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-11.05.38:517][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-11.05.38:517][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-11.05.38:517][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-11.05.38:517][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.01-11.05.38:517][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-11.05.38:517][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-11.05.38:518][231]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.01-11.05.38:518][231]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.01-11.05.38:522][231]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.01-11.05.38:522][231]LogAudioMixer: Display: 1: FrontRight
+[2022.07.01-11.05.38:534][231]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.07.01-11.05.38:535][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-11.05.38:535][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-11.05.38:535][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-11.05.38:536][231]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.01-11.05.38:536][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.01-11.05.38:536][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.01-11.05.38:552][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.01-11.05.38:552][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.01-11.05.38:552][231]LogInit: FAudioDevice initialized.
+[2022.07.01-11.05.38:552][231]LogAudio: Display: Audio Device (ID: 95) registered with world 'level_0'.
+[2022.07.01-11.05.38:606][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-11.05.38:606][231]LogLoad: Game class is 'INGAME_GM_C'
+[2022.07.01-11.05.38:609][231]LogScript: Warning: Script Msg: Divide by zero detected: -0.000061 / 0
+Script call stack:
+	Function /Game/AI/character_AI/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character_AI/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.07.01-11.05.38:611][231]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.01-11.05.38:617][231]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.07.01-18.05.38
+[2022.07.01-11.05.38:618][231]LogWorld: Bringing up level for play took: 0.011268
+[2022.07.01-11.05.38:619][231]LogOnline: OSS: Creating online subsystem instance for: :Context_164
+[2022.07.01-11.05.38:628][231]PIE: Server logged in
+[2022.07.01-11.05.38:629][231]PIE: Play in editor total start time 0.212 seconds.
+[2022.07.01-11.05.48:541][599]PIE: Error: Blueprint Runtime Error: "Attempted to access projectile_of_Enemy_C_2 via property CallFunc_FinishSpawningActor_ReturnValue, but projectile_of_Enemy_C_2 is pending kill". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.05.48:541][599]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.05.49:688][637]PIE: Error: Blueprint Runtime Error: "Attempted to access projectile_of_Enemy_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but projectile_of_Enemy_C_4 is pending kill". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.05.49:688][637]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.05.51:687][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property enemy". Blueprint:  AuroraPlayerCharacter Function:  Execute Ubergraph Aurora Player Character Graph:  EventGraph Node:  SetActorRotation
+[2022.07.01-11.05.56:787][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-11.05.56:787][905]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.07.01-11.05.56:789][905]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.01-11.05.56:798][905]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.05.56:799][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.05.56:812][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-11.05.56:822][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.05.56:875][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.01-11.05.56:877][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.01-11.05.56:904][905]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.07.01-11.05.57:048][906]LogPlayLevel: Display: Destroying online subsystem :Context_164
+[2022.07.01-11.06.53:467][757]LogSlate: Window 'Message Log' being destroyed
+[2022.07.01-11.06.53:471][757]LogSlate: Window 'Message Log' being destroyed
+[2022.07.01-11.07.05:612][397]BlueprintLog: New page: Compile BB_TASK_AI_Attack
+[2022.07.01-11.07.05:715][397]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2022.07.01-11.08.48:161][837]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.01-11.09.02:522][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BehaviorTree" FILE="../../../../TAI/tai_BT_unreal/Content/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.07.01-11.09.02:530][762]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_BehaviorTree4D05ED964F536346DD50DA98C19E853D.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/AI_BehaviorTree.uasset'
+[2022.07.01-11.09.02:531][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BlackboardData" FILE="../../../../TAI/tai_BT_unreal/Content/AI/AI_BlackboardData.uasset" SILENT=true
+[2022.07.01-11.09.02:533][762]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AI_BlackboardData720E2B30437E8B9BC9B06D9B6A300F0F.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/AI_BlackboardData.uasset'
+[2022.07.01-11.09.02:554][762]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.01-11.09.02:554][762]LogContentValidation: Display: Validating BlackboardData /Game/AI/AI_BlackboardData.AI_BlackboardData
+[2022.07.01-11.09.02:554][762]LogContentValidation: Display: Validating BehaviorTree /Game/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.07.01-11.10.16:829][810]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2022.07.01-11.10.16:836][810]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_0/level_0' took 0.076
+[2022.07.01-11.10.16:837][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BB_TASK_Attack_AI_maigic_attack] ([1] browsable assets)...
+[2022.07.01-11.10.16:837][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BB_TASK_Attack_AI_maigic_attack]
+[2022.07.01-11.10.16:854][810]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/BB_TASK_Attack_AI_maigic_attack_DC8F3A2A4AABB85B6B003A9B270477B1.tmp' to '../../../../TAI/tai_BT_unreal/Saved/Autosaves/Game/AI/BB_TASK_Attack_AI_maigic_attack_Auto1.uasset'
+[2022.07.01-11.10.16:855][810]LogFileHelpers: Auto-saving content packages took 0.018
+[2022.07.01-11.12.55:136][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.07.01-11.12.56:170][320]LogSlate: Window 'Save Content' being destroyed
+[2022.07.01-11.12.56:348][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_TASK_Attack_AI_maigic_attack" FILE="../../../../TAI/tai_BT_unreal/Content/AI/BB_TASK_Attack_AI_maigic_attack.uasset" SILENT=true
+[2022.07.01-11.12.56:367][320]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/BB_TASK_Attack_AI_maigic_attackF8C5AD92498BB97F8B3A5590EA30CDEA.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/BB_TASK_Attack_AI_maigic_attack.uasset'
+[2022.07.01-11.12.56:388][320]AssetCheck: New page: Asset Save: BB_TASK_Attack_AI_maigic_attack
+[2022.07.01-11.12.56:388][320]LogContentValidation: Display: Validating Blueprint /Game/AI/BB_TASK_Attack_AI_maigic_attack.BB_TASK_Attack_AI_maigic_attack
+[2022.07.01-11.13.10:991][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.07.01-11.13.13:750][984]LogSlate: Window 'Stun_Loop_Montage' being destroyed
+[2022.07.01-11.13.13:761][984]LogSlate: Window 'Stun_Loop_Montage' being destroyed
+[2022.07.01-11.13.13:774][984]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.01-11.13.13:774][984]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.13.13:774][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.13.14:146][984]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.01-11.13.14:146][984]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.13.14:146][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.13.14:468][984]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.13.14:468][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.13.14:655][984]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.13.14:655][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.13.14:787][984]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.13.14:787][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.13.14:980][984]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.13.14:980][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.13.15:059][984]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.13.15:059][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.13.18:048][116]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2022.07.01-11.13.27:479][406]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.01-11.13.27:490][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-11.13.27:490][406]PIE: New page: PIE session: level_0 (Jul 2, 2022, 1:13:27 AM)
+[2022.07.01-11.13.27:512][406]LogPlayLevel: Creating play world package: /Game/Level_0/UEDPIE_0_level_0
+[2022.07.01-11.13.27:529][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016702s)
+[2022.07.01-11.13.27:532][406]LogAIModule: Creating AISystem for world level_0
+[2022.07.01-11.13.27:533][406]LogPlayLevel: PIE: World Init took: (0.003678s)
+[2022.07.01-11.13.27:533][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_0/level_0.level_0 to /Game/Level_0/UEDPIE_0_level_0.level_0 (0.020784s)
+[2022.07.01-11.13.27:641][406]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2022.07.01-11.13.27:647][406]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2022.07.01-11.13.27:647][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-11.13.27:647][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-11.13.27:647][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-11.13.27:647][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-11.13.27:647][406]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-11.13.27:647][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.01-11.13.27:647][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-11.13.27:647][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-11.13.27:648][406]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.01-11.13.27:648][406]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.01-11.13.27:653][406]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.01-11.13.27:653][406]LogAudioMixer: Display: 1: FrontRight
+[2022.07.01-11.13.27:664][406]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.07.01-11.13.27:665][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-11.13.27:665][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-11.13.27:665][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-11.13.27:667][406]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.01-11.13.27:667][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.01-11.13.27:667][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.01-11.13.27:682][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.01-11.13.27:682][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.01-11.13.27:682][406]LogInit: FAudioDevice initialized.
+[2022.07.01-11.13.27:682][406]LogAudio: Display: Audio Device (ID: 96) registered with world 'level_0'.
+[2022.07.01-11.13.27:736][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-11.13.27:737][406]LogLoad: Game class is 'INGAME_GM_C'
+[2022.07.01-11.13.27:740][406]LogScript: Warning: Script Msg: Divide by zero detected: -0.000061 / 0
+Script call stack:
+	Function /Game/AI/character_AI/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character_AI/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.07.01-11.13.27:742][406]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.01-11.13.27:748][406]LogWorld: Bringing World /Game/Level_0/UEDPIE_0_level_0.level_0 up for play (max tick rate 0) at 2022.07.01-18.13.27
+[2022.07.01-11.13.27:749][406]LogWorld: Bringing up level for play took: 0.011372
+[2022.07.01-11.13.27:749][406]LogOnline: OSS: Creating online subsystem instance for: :Context_165
+[2022.07.01-11.13.27:758][406]PIE: Server logged in
+[2022.07.01-11.13.27:759][406]PIE: Play in editor total start time 0.271 seconds.
+[2022.07.01-11.13.37:375][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property enemy". Blueprint:  AuroraPlayerCharacter Function:  Execute Ubergraph Aurora Player Character Graph:  EventGraph Node:  SetActorRotation
+[2022.07.01-11.13.37:508][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property enemy". Blueprint:  AuroraPlayerCharacter Function:  Execute Ubergraph Aurora Player Character Graph:  EventGraph Node:  SetActorRotation
+[2022.07.01-11.13.37:509][901]PIE: Error: Blueprint Runtime Error: "Attempted to access projectile_of_Enemy_C_2 via property CallFunc_FinishSpawningActor_ReturnValue, but projectile_of_Enemy_C_2 is pending kill". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.13.37:509][901]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.13.38:520][954]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property enemy". Blueprint:  AuroraPlayerCharacter Function:  Execute Ubergraph Aurora Player Character Graph:  EventGraph Node:  SetActorRotation
+[2022.07.01-11.13.38:650][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property enemy". Blueprint:  AuroraPlayerCharacter Function:  Execute Ubergraph Aurora Player Character Graph:  EventGraph Node:  SetActorRotation
+[2022.07.01-11.13.38:650][961]PIE: Error: Blueprint Runtime Error: "Attempted to access projectile_of_Enemy_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but projectile_of_Enemy_C_4 is pending kill". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.13.38:650][961]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  AI_MurielPlayerCharacter Function:  Execute Ubergraph AI Muriel Player Character Graph:  EventGraph Node:  Set Spawner
+[2022.07.01-11.13.47:406][479]LogNet: Browse: /Game/Main_menu/Main_menu_level
+[2022.07.01-11.13.47:407][479]LogLoad: LoadMap: /Game/Main_menu/Main_menu_level
+[2022.07.01-11.13.47:407][479]LogWorld: BeginTearingDown for /Game/Level_0/UEDPIE_0_level_0
+[2022.07.01-11.13.47:408][479]LogWorld: UWorld::CleanupWorld for level_0, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.13.47:408][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.13.47:464][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.01-11.13.47:472][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.07.01-11.13.47:714][479]LogAudio: Display: Audio Device (ID: 96) registered with world 'Main_menu_level'.
+[2022.07.01-11.13.47:715][479]LogAIModule: Creating AISystem for world Main_menu_level
+[2022.07.01-11.13.47:716][479]LogLoad: Game class is 'Main_menu_gamemode_BP_C'
+[2022.07.01-11.13.47:741][479]LogScript: Warning: Script Msg: Divide by zero detected: -159.999741 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.01-11.13.47:763][479]LogWorld: Bringing World /Game/Main_menu/UEDPIE_0_Main_menu_level.Main_menu_level up for play (max tick rate 0) at 2022.07.01-18.13.47
+[2022.07.01-11.13.47:765][479]LogWorld: Bringing up level for play took: 0.047977
+[2022.07.01-11.13.47:809][479]Cmd: r.ScreenPercentage 100
+[2022.07.01-11.13.47:809][479]r.ScreenPercentage = "100"
+[2022.07.01-11.13.47:810][479]Cmd: r.PostProcessAAQuality 6
+[2022.07.01-11.13.47:810][479]r.PostProcessAAQuality = "6"
+[2022.07.01-11.13.47:810][479]Cmd: sg.PostProcessQuality 3
+[2022.07.01-11.13.47:810][479]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/TAI/tai_BT_unreal/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-11.13.47:810][479]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.01-11.13.47:811][479]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.01-11.13.47:812][479]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.01-11.13.47:812][479]sg.PostProcessQuality = "3"
+[2022.07.01-11.13.47:813][479]LogLoad: Took 0.405759 seconds to LoadMap(/Game/Main_menu/Main_menu_level)
+[2022.07.01-11.13.49:014][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-11.13.49:014][529]LogWorld: BeginTearingDown for /Game/Main_menu/UEDPIE_0_Main_menu_level
+[2022.07.01-11.13.49:014][529]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.01-11.13.49:044][529]LogWorld: UWorld::CleanupWorld for Main_menu_level, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.13.49:053][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.13.49:067][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-11.13.49:078][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-11.13.49:119][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.01-11.13.49:121][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.01-11.13.49:149][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.07.01-11.13.49:261][530]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2022.07.01-11.13.51:905][734]LogSlate: Window 'Message Log' being destroyed
+[2022.07.01-11.13.51:913][734]LogSlate: Window 'Message Log' being destroyed
+[2022.07.01-11.14.07:474][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.07.01-11.14.07:545][984]LogSlate: Window 'MyProject4 - Unreal Editor' being destroyed
+[2022.07.01-11.14.07:947][985]Cmd: QUIT_EDITOR
+[2022.07.01-11.14.07:947][985]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.07.01-11.14.08:050][985]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.07.01-11.14.08:299][985]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.07.01-11.14.08:299][985]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.07.01-11.14.08:299][985]LogAudio: Display: Audio Device unregistered from world 'level_0'.
+[2022.07.01-11.14.08:299][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.01-11.14.08:301][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.01-11.14.08:380][985]LogAudio: Display: Audio Device Manager Shutdown
+[2022.07.01-11.14.08:392][985]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.01-11.14.08:409][985]LogExit: Preparing to exit.
+[2022.07.01-11.14.09:039][985]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FBE00] Windows
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FBD00] Default__DeviceProfile
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C4300] WindowsNoEditor
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F8300] WindowsServer
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C7A00] WindowsClient
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FBB00] IOS
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C4700] iPadAir
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F8600] iPadAir2
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4879700] IPadPro
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4879800] iPadAir3
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FB800] iPadAir4
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4878800] iPadMini2
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F8200] iPadMini3
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487A100] iPadMini4
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FB500] iPadMini5
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C6600] iPhone6
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C6500] iPodTouch6
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487BD00] iPhone7
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487BC00] iPodTouch7
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C6C00] iPhone5S
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4879500] iPhone6Plus
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C5F00] iPhone6S
+[2022.07.01-11.14.09:474][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487B500] iPhone6SPlus
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C6B00] iPhone7Plus
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487BF00] iPhoneSE
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C5A00] iPhone8
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487B000] iPhone8Plus
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C7700] iPhoneX
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4878300] iPhoneXS
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C6F00] iPhoneXSMax
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4879000] iPhoneXR
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C7D00] iPhone11
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4878700] iPhone11Pro
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C6A00] iPhone11ProMax
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4878A00] iPhoneSE2
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C5C00] iPhone12Mini
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487A000] iPhone12
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C5300] iPhone12Pro
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4878E00] iPhone12ProMax
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C6300] iPadPro105
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4879D00] iPadPro129
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C4F00] iPadPro97
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487B200] iPadPro2_129
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C5400] iPad5
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4879A00] iPad6
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C4400] iPad7
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487A500] iPad8
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C4B00] iPadPro11
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487A300] iPadPro2_11
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C5D00] iPadPro3_129
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487B300] iPadPro4_129
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C5800] AppleTV
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487B600] AppleTV4K
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C5200] TVOS
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4878F00] Mac
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C6400] MacClient
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487B900] MacNoEditor
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C4100] MacServer
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487A700] Linux
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C4500] LinuxAArch64
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4878200] LinuxNoEditor
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C6200] LinuxAArch64NoEditor
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487AD00] LinuxClient
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C4200] LinuxAArch64Client
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D487A200] LinuxServer
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C7B00] LinuxAArch64Server
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D4879E00] Android
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C7900] Android_Low
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F8900] Android_Mid
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494D600] Android_High
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F8F00] Android_Default
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494C600] Android_Adreno4xx
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F9900] Android_Adreno5xx_Low
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494DA00] Android_Adreno5xx
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FAA00] Android_Adreno6xx
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494C400] Android_Adreno6xx_Vulkan
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FBA00] Android_Mali_T6xx
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494CF00] Android_Mali_T7xx
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FA100] Android_Mali_T8xx
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494D900] Android_Mali_G71
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FAE00] Android_Mali_G72
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494CE00] Android_Mali_G72_Vulkan
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F9A00] Android_Mali_G76
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494D300] Android_Mali_G76_Vulkan
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F8500] Android_Mali_G77
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494CD00] Android_Mali_G77_Vulkan
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FB300] Android_Vulkan_SM5
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494CA00] Android_PowerVR_G6xxx
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FAC00] Android_PowerVR_GT7xxx
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D494C900] Android_PowerVR_GE8xxx
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48FA400] Android_PowerVR_GM9xxx
+[2022.07.01-11.14.09:475][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C6100] Android_PowerVR_GM9xxx_Vulkan
+[2022.07.01-11.14.09:476][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F8E00] Android_TegraK1
+[2022.07.01-11.14.09:476][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C4C00] Android_Unknown_Vulkan
+[2022.07.01-11.14.09:476][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F8800] Lumin
+[2022.07.01-11.14.09:476][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48C4900] Lumin_Desktop
+[2022.07.01-11.14.09:476][985]LogDeviceProfile: Device profile begin destroy: [000001D2D48F9200] HoloLens
+[2022.07.01-11.14.09:889][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:889][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:889][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:889][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:889][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:889][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:889][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:889][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:892][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:892][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:892][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:892][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:892][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:892][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:892][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:892][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:894][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:894][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:894][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:894][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:894][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:894][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:894][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:894][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:897][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:897][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:897][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:897][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:897][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:897][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:897][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:897][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:899][985]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:902][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:902][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:902][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:902][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:902][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:902][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:902][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:902][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:903][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:903][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:903][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:903][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:903][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:903][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:903][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:903][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:905][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:905][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:905][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:905][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:905][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:905][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:905][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:905][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:906][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:906][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:906][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:906][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:906][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:906][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:906][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:906][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:907][985]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:909][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:909][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:909][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:909][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:909][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:909][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:909][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:909][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:910][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:910][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:910][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:910][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:910][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:910][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:910][985]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.01-11.14.09:910][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:912][985]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:913][985]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.09:915][985]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.10:364][985]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.07.01-11.14.10:637][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-11.14.10:643][985]LogExit: Editor shut down
+[2022.07.01-11.14.10:646][985]LogExit: Transaction tracking system shut down
