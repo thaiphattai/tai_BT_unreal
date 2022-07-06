@@ -14050,3 +14050,410 @@ Script call stack:
 [2022.07.06-10.54.17:114][413]LogContentValidation: Display: Validating Blueprint /Game/ParagonAurora/Characters/Heroes/Aurora/Phase_Player_character_play.Phase_Player_character_play
 [2022.07.06-10.54.17:114][413]LogContentValidation: Display: Validating World /Game/SpaceshipInterior/Maps/Demonstration.Demonstration
 [2022.07.06-10.54.17:115][413]LogContentValidation: Display: Validating World /Game/Main_menu/Main_menu_level.Main_menu_level
+[2022.07.06-10.58.30:480][938]BlueprintLog: New page: Compile Demonstration
+[2022.07.06-10.58.30:695][938]LogUObjectHash: Compacting FUObjectHashTables data took   9.03ms
+[2022.07.06-10.58.31:648][987]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.06-10.58.31:660][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.06-10.58.31:660][987]PIE: New page: PIE session: Demonstration (Jul 7, 2022, 12:58:31 AM)
+[2022.07.06-10.58.31:661][987]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-10.58.31:742][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081381s)
+[2022.07.06-10.58.31:744][987]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.06-10.58.31:744][987]LogPlayLevel: PIE: World Init took: (0.001842s)
+[2022.07.06-10.58.31:744][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.083557s)
+[2022.07.06-10.58.31:838][987]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2022.07.06-10.58.31:840][987]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.07.06-10.58.31:840][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.06-10.58.31:840][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.06-10.58.31:840][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.06-10.58.31:840][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.06-10.58.31:840][987]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.06-10.58.31:840][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.06-10.58.31:840][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.06-10.58.31:840][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.06-10.58.31:841][987]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.06-10.58.31:841][987]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.06-10.58.31:847][987]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.06-10.58.31:847][987]LogAudioMixer: Display: 1: FrontRight
+[2022.07.06-10.58.31:858][987]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.07.06-10.58.31:858][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.06-10.58.31:859][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.06-10.58.31:859][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.06-10.58.31:860][987]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.06-10.58.31:860][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.06-10.58.31:860][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.06-10.58.31:875][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.06-10.58.31:875][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.06-10.58.31:875][987]LogInit: FAudioDevice initialized.
+[2022.07.06-10.58.31:875][987]LogAudio: Display: Audio Device (ID: 41) registered with world 'Demonstration'.
+[2022.07.06-10.58.31:932][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-10.58.31:932][987]LogLoad: Game class is 'INGAME_GM_C'
+[2022.07.06-10.58.31:982][987]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.06-17.58.31
+[2022.07.06-10.58.31:984][987]LogWorld: Bringing up level for play took: 0.050154
+[2022.07.06-10.58.31:984][987]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2022.07.06-10.58.31:986][987]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.06-10.58.32:005][987]PIE: Server logged in
+[2022.07.06-10.58.32:011][987]PIE: Play in editor total start time 0.355 seconds.
+[2022.07.06-10.58.37:239][172]PIE: Error: Blueprint Runtime Error: "Attempted to access Aurora_2 via property CallFunc_Array_Get_Item, but Aurora_2 is pending kill". Blueprint:  INGAME_PC Function:  Execute Ubergraph INGAME PC Graph:  EventGraph Node:  DestroyActor
+[2022.07.06-10.58.37:239][172]PIE: Error: Blueprint Runtime Error: "Attempted to access P_Aurora_LevelStart_Stairs_5 via property CallFunc_Array_Get_Item, but P_Aurora_LevelStart_Stairs_5 is pending kill". Blueprint:  INGAME_PC Function:  Execute Ubergraph INGAME PC Graph:  EventGraph Node:  DestroyActor
+[2022.07.06-10.58.37:239][172]PIE: Error: Blueprint Runtime Error: "Attempted to access P_Aurora_Decoy_Explode_Fragments_8 via property CallFunc_Array_Get_Item, but P_Aurora_Decoy_Explode_Fragments_8 is pending kill". Blueprint:  INGAME_PC Function:  Execute Ubergraph INGAME PC Graph:  EventGraph Node:  DestroyActor
+[2022.07.06-10.58.37:240][172]PIE: Error: Blueprint Runtime Error: "Attempted to access P_FortuneReverse_TargetingActive_18 via property CallFunc_Array_Get_Item, but P_FortuneReverse_TargetingActive_18 is pending kill". Blueprint:  INGAME_PC Function:  Execute Ubergraph INGAME PC Graph:  EventGraph Node:  DestroyActor
+[2022.07.06-10.58.37:241][172]PIE: Error: Blueprint Runtime Error: "Attempted to access P_FortuneReverse_KnockUp2_28 via property CallFunc_Array_Get_Item_1, but P_FortuneReverse_KnockUp2_28 is pending kill". Blueprint:  INGAME_PC Function:  Execute Ubergraph INGAME PC Graph:  EventGraph Node:  Spawn AIFrom Class
+[2022.07.06-10.58.37:241][172]LogScript: Warning: Script Msg: Divide by zero detected: 91.526611 / 0
+Script call stack:
+	Function /Game/AI/character_AI/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/AI/character_AI/AI_Muriel_AnimBlueprint.AI_Muriel_AnimBlueprint_C:ExecuteUbergraph_AI_Muriel_AnimBlueprint
+
+[2022.07.06-10.58.39:480][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-10.58.39:480][243]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-10.58.39:481][243]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.06-10.58.39:542][243]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-10.58.39:550][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-10.58.39:560][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.06-10.58.39:596][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-10.58.39:691][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-10.58.39:692][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-10.58.39:726][243]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2022.07.06-10.58.39:899][244]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2022.07.06-10.58.40:633][284]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.06-10.58.40:646][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.06-10.58.40:646][284]PIE: New page: PIE session: Demonstration (Jul 7, 2022, 12:58:40 AM)
+[2022.07.06-10.58.40:647][284]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-10.58.40:728][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081132s)
+[2022.07.06-10.58.40:729][284]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.06-10.58.40:729][284]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2022.07.06-10.58.40:730][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.083078s)
+[2022.07.06-10.58.40:825][284]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2022.07.06-10.58.40:826][284]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.07.06-10.58.40:826][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.06-10.58.40:826][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.06-10.58.40:826][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.06-10.58.40:826][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.06-10.58.40:826][284]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.06-10.58.40:826][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.06-10.58.40:826][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.06-10.58.40:826][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.06-10.58.40:827][284]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.06-10.58.40:827][284]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.06-10.58.40:832][284]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.06-10.58.40:832][284]LogAudioMixer: Display: 1: FrontRight
+[2022.07.06-10.58.40:843][284]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.07.06-10.58.40:843][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.06-10.58.40:843][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.06-10.58.40:843][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.06-10.58.40:844][284]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.06-10.58.40:844][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.06-10.58.40:844][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.06-10.58.40:860][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.06-10.58.40:860][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.06-10.58.40:860][284]LogInit: FAudioDevice initialized.
+[2022.07.06-10.58.40:860][284]LogAudio: Display: Audio Device (ID: 42) registered with world 'Demonstration'.
+[2022.07.06-10.58.40:912][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-10.58.40:912][284]LogLoad: Game class is 'INGAME_GM_C'
+[2022.07.06-10.58.40:955][284]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.06-17.58.40
+[2022.07.06-10.58.40:957][284]LogWorld: Bringing up level for play took: 0.043921
+[2022.07.06-10.58.40:957][284]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2022.07.06-10.58.40:960][284]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.06-10.58.40:974][284]PIE: Server logged in
+[2022.07.06-10.58.40:979][284]PIE: Play in editor total start time 0.337 seconds.
+[2022.07.06-10.58.45:198][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-10.58.45:199][398]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-10.58.45:199][398]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.06-10.58.45:208][398]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-10.58.45:216][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-10.58.45:226][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.06-10.58.45:264][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-10.58.45:359][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-10.58.45:361][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-10.58.45:394][398]LogUObjectHash: Compacting FUObjectHashTables data took   8.34ms
+[2022.07.06-10.58.45:456][399]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2022.07.06-10.58.52:581][798]LogSlate: Window 'Message Log' being destroyed
+[2022.07.06-10.58.52:587][798]LogSlate: Window 'Message Log' being destroyed
+[2022.07.06-10.58.53:965][915]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2022.07.06-10.58.54:952][915]LogSlate: Window 'Save Content' being destroyed
+[2022.07.06-10.58.55:183][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.07.06-10.58.55:545][915]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/Demonstration672101D84FADB398AF3A2C9403997733.tmp' to '../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration.umap'
+[2022.07.06-10.58.55:562][915]LogFileHelpers: Saving map 'Demonstration' took 0.469
+[2022.07.06-10.58.55:588][915]AssetCheck: New page: Asset Save: Demonstration
+[2022.07.06-10.58.55:589][915]LogContentValidation: Display: Validating World /Game/SpaceshipInterior/Maps/Demonstration.Demonstration
+[2022.07.06-10.59.12:699][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.07.06-10.59.28:743][984]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.06-10.59.28:755][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.06-10.59.28:755][984]PIE: New page: PIE session: Demonstration (Jul 7, 2022, 12:59:28 AM)
+[2022.07.06-10.59.28:756][984]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-10.59.28:838][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081929s)
+[2022.07.06-10.59.28:839][984]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.06-10.59.28:839][984]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2022.07.06-10.59.28:839][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.083777s)
+[2022.07.06-10.59.28:935][984]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2022.07.06-10.59.28:943][984]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.07.06-10.59.28:943][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.06-10.59.28:943][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.06-10.59.28:943][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.06-10.59.28:943][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.06-10.59.28:943][984]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.06-10.59.28:943][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.06-10.59.28:943][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.06-10.59.28:943][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.06-10.59.28:944][984]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.06-10.59.28:944][984]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.06-10.59.28:948][984]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.06-10.59.28:948][984]LogAudioMixer: Display: 1: FrontRight
+[2022.07.06-10.59.28:960][984]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.07.06-10.59.28:960][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.06-10.59.28:960][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.06-10.59.28:960][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.06-10.59.28:961][984]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.06-10.59.28:961][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.06-10.59.28:961][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.06-10.59.28:978][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.06-10.59.28:978][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.06-10.59.28:978][984]LogInit: FAudioDevice initialized.
+[2022.07.06-10.59.28:978][984]LogAudio: Display: Audio Device (ID: 43) registered with world 'Demonstration'.
+[2022.07.06-10.59.29:033][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-10.59.29:034][984]LogLoad: Game class is 'INGAME_GM_C'
+[2022.07.06-10.59.29:078][984]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.06-17.59.29
+[2022.07.06-10.59.29:080][984]LogWorld: Bringing up level for play took: 0.045588
+[2022.07.06-10.59.29:081][984]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2022.07.06-10.59.29:084][984]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.06-10.59.29:102][984]PIE: Server logged in
+[2022.07.06-10.59.29:106][984]PIE: Play in editor total start time 0.355 seconds.
+[2022.07.06-10.59.31:136][ 47]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/LevelStart_Montage.LevelStart_Montage'
+[2022.07.06-10.59.46:039][611]LogScript: Warning: Attempted to access Widget via property Widget, but Widget is pending kill
+	BP_mana_C /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration:PersistentLevel.BP_mana4
+	Function /Game/AI/BP_effect/BP_mana.BP_mana_C:ExecuteUbergraph_BP_mana:05EC
+[2022.07.06-10.59.46:039][611]PIE: Error: Blueprint Runtime Error: "Attempted to access Widget via property Widget, but Widget is pending kill". Blueprint:  BP_mana Function:  Execute Ubergraph BP Mana Graph:  EventGraph Node:  Set Visibility
+[2022.07.06-10.59.54:314][954]LogScript: Warning: Attempted to access Widget via property Widget, but Widget is pending kill
+	BP_mana_C /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration:PersistentLevel.BP_mana3
+	Function /Game/AI/BP_effect/BP_mana.BP_mana_C:ExecuteUbergraph_BP_mana:05EC
+[2022.07.06-10.59.54:314][954]PIE: Error: Blueprint Runtime Error: "Attempted to access Widget via property Widget, but Widget is pending kill". Blueprint:  BP_mana Function:  Execute Ubergraph BP Mana Graph:  EventGraph Node:  Set Visibility
+[2022.07.06-11.00.03:802][352]LogScript: Warning: Attempted to access Widget via property Widget, but Widget is pending kill
+	BP_mana_C /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration:PersistentLevel.BP_mana2
+	Function /Game/AI/BP_effect/BP_mana.BP_mana_C:ExecuteUbergraph_BP_mana:05EC
+[2022.07.06-11.00.03:804][352]PIE: Error: Blueprint Runtime Error: "Attempted to access Widget via property Widget, but Widget is pending kill". Blueprint:  BP_mana Function:  Execute Ubergraph BP Mana Graph:  EventGraph Node:  Set Visibility
+[2022.07.06-11.00.04:439][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-11.00.04:440][372]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-11.00.04:441][372]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.06-11.00.04:467][372]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-11.00.04:475][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-11.00.04:483][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.06-11.00.04:522][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-11.00.04:616][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.06-11.00.04:617][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-11.00.04:618][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-11.00.04:653][372]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2022.07.06-11.00.04:785][373]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2022.07.06-11.00.06:399][495]LogSlate: Window 'Message Log' being destroyed
+[2022.07.06-11.00.06:408][495]LogSlate: Window 'Message Log' being destroyed
+[2022.07.06-11.01.05:213][427]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/character_AI/BP_Scceen.BP_Scceen
+[2022.07.06-11.01.14:091][761]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_effect/BP_mana.BP_mana
+[2022.07.06-11.02.40:520][477]BlueprintLog: New page: Compile BP_mana
+[2022.07.06-11.02.40:697][477]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2022.07.06-11.02.41:457][510]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.06-11.02.41:470][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.06-11.02.41:470][510]PIE: New page: PIE session: Demonstration (Jul 7, 2022, 1:02:41 AM)
+[2022.07.06-11.02.41:471][510]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-11.02.41:553][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082770s)
+[2022.07.06-11.02.41:555][510]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.06-11.02.41:555][510]LogPlayLevel: PIE: World Init took: (0.002110s)
+[2022.07.06-11.02.41:556][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.085239s)
+[2022.07.06-11.02.41:661][510]LogUObjectHash: Compacting FUObjectHashTables data took  10.12ms
+[2022.07.06-11.02.41:663][510]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.07.06-11.02.41:663][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.06-11.02.41:663][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.06-11.02.41:663][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.06-11.02.41:663][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.06-11.02.41:663][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.06-11.02.41:663][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.06-11.02.41:663][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.06-11.02.41:663][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.06-11.02.41:665][510]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.06-11.02.41:665][510]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.06-11.02.41:670][510]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.06-11.02.41:670][510]LogAudioMixer: Display: 1: FrontRight
+[2022.07.06-11.02.41:681][510]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.07.06-11.02.41:682][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.06-11.02.41:682][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.06-11.02.41:682][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.06-11.02.41:682][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.06-11.02.41:683][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.06-11.02.41:683][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.06-11.02.41:700][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.06-11.02.41:700][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.06-11.02.41:700][510]LogInit: FAudioDevice initialized.
+[2022.07.06-11.02.41:700][510]LogAudio: Display: Audio Device (ID: 44) registered with world 'Demonstration'.
+[2022.07.06-11.02.41:734][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-11.02.41:735][510]LogLoad: Game class is 'INGAME_GM_C'
+[2022.07.06-11.02.41:782][510]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.06-18.02.41
+[2022.07.06-11.02.41:784][510]LogWorld: Bringing up level for play took: 0.047803
+[2022.07.06-11.02.41:784][510]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2022.07.06-11.02.41:788][510]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.06-11.02.41:802][510]PIE: Server logged in
+[2022.07.06-11.02.41:806][510]PIE: Play in editor total start time 0.34 seconds.
+[2022.07.06-11.02.42:476][522]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.06-11.02.42:539][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-11.02.42:539][522]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-11.02.42:539][522]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.06-11.02.42:551][522]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-11.02.42:560][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-11.02.42:568][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.06-11.02.42:610][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-11.02.42:706][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.06-11.02.42:707][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-11.02.42:708][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-11.02.42:751][522]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2022.07.06-11.02.42:811][523]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2022.07.06-11.02.43:599][564]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.06-11.02.43:611][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.06-11.02.43:611][564]PIE: New page: PIE session: Demonstration (Jul 7, 2022, 1:02:43 AM)
+[2022.07.06-11.02.43:611][564]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-11.02.43:693][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081471s)
+[2022.07.06-11.02.43:694][564]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.06-11.02.43:695][564]LogPlayLevel: PIE: World Init took: (0.001941s)
+[2022.07.06-11.02.43:695][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.083823s)
+[2022.07.06-11.02.43:797][564]LogUObjectHash: Compacting FUObjectHashTables data took   8.54ms
+[2022.07.06-11.02.43:798][564]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.07.06-11.02.43:798][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.06-11.02.43:798][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.06-11.02.43:798][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.06-11.02.43:798][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.06-11.02.43:798][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.06-11.02.43:798][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.06-11.02.43:798][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.06-11.02.43:799][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.06-11.02.43:799][564]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.06-11.02.43:799][564]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.06-11.02.43:804][564]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.06-11.02.43:804][564]LogAudioMixer: Display: 1: FrontRight
+[2022.07.06-11.02.43:816][564]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.07.06-11.02.43:816][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.06-11.02.43:816][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.06-11.02.43:816][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.06-11.02.43:817][564]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.06-11.02.43:817][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.06-11.02.43:817][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.06-11.02.43:833][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.06-11.02.43:833][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.06-11.02.43:833][564]LogInit: FAudioDevice initialized.
+[2022.07.06-11.02.43:833][564]LogAudio: Display: Audio Device (ID: 45) registered with world 'Demonstration'.
+[2022.07.06-11.02.43:884][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-11.02.43:884][564]LogLoad: Game class is 'INGAME_GM_C'
+[2022.07.06-11.02.43:926][564]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.06-18.02.43
+[2022.07.06-11.02.43:927][564]LogWorld: Bringing up level for play took: 0.042378
+[2022.07.06-11.02.43:928][564]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2022.07.06-11.02.43:931][564]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.06-11.02.43:944][564]PIE: Server logged in
+[2022.07.06-11.02.43:947][564]PIE: Play in editor total start time 0.34 seconds.
+[2022.07.06-11.02.55:450][919]LogScript: Warning: Attempted to access Widget via property Widget, but Widget is pending kill
+	BP_mana_C /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration:PersistentLevel.BP_mana4
+	Function /Game/AI/BP_effect/BP_mana.BP_mana_C:ExecuteUbergraph_BP_mana:0410
+[2022.07.06-11.02.55:450][919]PIE: Error: Blueprint Runtime Error: "Attempted to access Widget via property Widget, but Widget is pending kill". Blueprint:  BP_mana Function:  Execute Ubergraph BP Mana Graph:  EventGraph Node:  Set Visibility
+[2022.07.06-11.03.02:479][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-11.03.02:479][145]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-11.03.02:480][145]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.06-11.03.02:489][145]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-11.03.02:497][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-11.03.02:505][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.06-11.03.02:543][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-11.03.02:646][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-11.03.02:647][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-11.03.02:681][145]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2022.07.06-11.03.02:846][146]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2022.07.06-11.03.05:615][283]LogSlate: Window 'Message Log' being destroyed
+[2022.07.06-11.03.05:627][283]LogSlate: Window 'Message Log' being destroyed
+[2022.07.06-11.04.17:491][253]BlueprintLog: New page: Compile BP_mana
+[2022.07.06-11.04.17:662][253]LogUObjectHash: Compacting FUObjectHashTables data took   8.29ms
+[2022.07.06-11.04.18:852][311]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.06-11.04.18:865][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.06-11.04.18:865][311]PIE: New page: PIE session: Demonstration (Jul 7, 2022, 1:04:18 AM)
+[2022.07.06-11.04.18:865][311]LogPlayLevel: Creating play world package: /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-11.04.18:947][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081996s)
+[2022.07.06-11.04.18:948][311]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.06-11.04.18:949][311]LogPlayLevel: PIE: World Init took: (0.001544s)
+[2022.07.06-11.04.18:949][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipInterior/Maps/Demonstration.Demonstration to /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration (0.083939s)
+[2022.07.06-11.04.19:055][311]LogUObjectHash: Compacting FUObjectHashTables data took  10.16ms
+[2022.07.06-11.04.19:056][311]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.07.06-11.04.19:056][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.06-11.04.19:056][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.06-11.04.19:056][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.06-11.04.19:056][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.06-11.04.19:056][311]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.06-11.04.19:056][311]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.06-11.04.19:056][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.06-11.04.19:056][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.06-11.04.19:057][311]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.06-11.04.19:057][311]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.06-11.04.19:062][311]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.06-11.04.19:062][311]LogAudioMixer: Display: 1: FrontRight
+[2022.07.06-11.04.19:074][311]LogAudioMixer: Display: Using Audio Device Headphones (BT001 Stereo)
+[2022.07.06-11.04.19:074][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.06-11.04.19:074][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.06-11.04.19:074][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.06-11.04.19:075][311]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.06-11.04.19:075][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.06-11.04.19:075][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.06-11.04.19:091][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.06-11.04.19:091][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.06-11.04.19:091][311]LogInit: FAudioDevice initialized.
+[2022.07.06-11.04.19:091][311]LogAudio: Display: Audio Device (ID: 46) registered with world 'Demonstration'.
+[2022.07.06-11.04.19:143][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-11.04.19:144][311]LogLoad: Game class is 'INGAME_GM_C'
+[2022.07.06-11.04.19:190][311]LogWorld: Bringing World /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.06-18.04.19
+[2022.07.06-11.04.19:192][311]LogWorld: Bringing up level for play took: 0.046915
+[2022.07.06-11.04.19:192][311]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2022.07.06-11.04.19:195][311]LogScript: Warning: Script Msg: Divide by zero detected: 90.000114 / 0
+Script call stack:
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonAurora/Characters/Heroes/Aurora/Aurora_AnimBlueprint.Aurora_AnimBlueprint_C:ExecuteUbergraph_Aurora_AnimBlueprint
+
+[2022.07.06-11.04.19:209][311]PIE: Server logged in
+[2022.07.06-11.04.19:212][311]PIE: Play in editor total start time 0.351 seconds.
+[2022.07.06-11.04.29:277][578]LogScript: Warning: Attempted to access Widget via property Widget, but Widget is pending kill
+	BP_mana_C /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration.Demonstration:PersistentLevel.BP_mana4
+	Function /Game/AI/BP_effect/BP_mana.BP_mana_C:ExecuteUbergraph_BP_mana:082F
+[2022.07.06-11.04.29:277][578]PIE: Error: Blueprint Runtime Error: "Attempted to access Widget via property Widget, but Widget is pending kill". Blueprint:  BP_mana Function:  Execute Ubergraph BP Mana Graph:  EventGraph Node:  Set Visibility
+[2022.07.06-11.04.36:478][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-11.04.36:478][783]LogWorld: BeginTearingDown for /Game/SpaceshipInterior/Maps/UEDPIE_0_Demonstration
+[2022.07.06-11.04.36:479][783]LogSlate: Window 'MyProject4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.06-11.04.36:490][783]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-11.04.36:497][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-11.04.36:506][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.06-11.04.36:542][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-11.04.36:647][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.06-11.04.36:647][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-11.04.36:649][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-11.04.36:685][783]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2022.07.06-11.04.36:860][784]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2022.07.06-11.04.38:529][869]LogSlate: Window 'Message Log' being destroyed
+[2022.07.06-11.04.38:540][869]LogSlate: Window 'Message Log' being destroyed
+[2022.07.06-11.04.41:764][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2022.07.06-11.04.42:980][ 18]LogSlate: Window 'Save Content' being destroyed
+[2022.07.06-11.04.43:439][ 18]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/AuroraPlayerCharacter398E1BB64D3BA93209E5AFA857737E3D.tmp' to '../../../../TAI/tai_BT_unreal/Content/ParagonAurora/Characters/Heroes/Aurora/AuroraPlayerCharacter.uasset'
+[2022.07.06-11.04.43:457][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_effect/BP_mana" FILE="../../../../TAI/tai_BT_unreal/Content/AI/BP_effect/BP_mana.uasset" SILENT=true
+[2022.07.06-11.04.43:505][ 18]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/BP_mana8C29519F486307D6BDAEA4950088D253.tmp' to '../../../../TAI/tai_BT_unreal/Content/AI/BP_effect/BP_mana.uasset'
+[2022.07.06-11.04.43:604][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.07.06-11.04.43:977][ 18]LogSavePackage: Moving '../../../../TAI/tai_BT_unreal/Saved/DemonstrationC653AB9C46C52D8E1B1EE18DA356C17F.tmp' to '../../../../TAI/tai_BT_unreal/Content/SpaceshipInterior/Maps/Demonstration.umap'
+[2022.07.06-11.04.43:994][ 18]LogFileHelpers: Saving map 'Demonstration' took 0.488
+[2022.07.06-11.04.44:021][ 18]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.06-11.04.44:022][ 18]LogContentValidation: Display: Validating Blueprint /Game/ParagonAurora/Characters/Heroes/Aurora/AuroraPlayerCharacter.AuroraPlayerCharacter
+[2022.07.06-11.04.44:022][ 18]LogContentValidation: Display: Validating World /Game/SpaceshipInterior/Maps/Demonstration.Demonstration
+[2022.07.06-11.04.44:022][ 18]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_effect/BP_mana.BP_mana
